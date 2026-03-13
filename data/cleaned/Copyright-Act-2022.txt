@@ -1,0 +1,2790 @@
+Copyright Act, 2022 2023 No. 8 A 177
+Extraordinary
+Federal Republic of Nigeria
+Official Gazette
+No. 56 Lagos - 27th March, 2023 Vol. 110
+Government Notice No. 24
+The following is published as supplement to this Gazette :
+Act No. Short Title Page
+8 Copyright Act, 2022 .. .. .. .. .. .. .. A179-243
+Printed and Published by The Federal Government Printer, Lagos, Nigeria
+FGP 40/32023/1,200
+Annual Subscription from 1st January, 2023 is Local : N50,000.00 Overseas : N65,000.00 [Surface Mail]
+N80,000.00 [Second Class Air Mail]. Present issue N3,500 per copy. Subscribers who wish to obtain Gazette
+after 1st January should apply to the Federal Government Printer, Lagos for amended Subscriptions.
+A 178 2023 No. 8 Copyright Act, 2022
+Copyright Act, 2022 2023 No. 8 A 179
+COPYRIGHT ACT, 2022
+\
+ARRANGEMENT OF SECTIONS
+Section :
+PART I —OBJECTIVES, SCOPE AND SUBSISTENCE OF COPYRIGHT
+1. Objectives of the Act.
+2. Works eligible for copyright.
+3. Ineligibility for copyright.
+4. Formalities.
+5. Copyright by virtue of nationality or habitual residence.
+6. Copyright by reference to country of origin.
+7. Copyright in works of government, state authorities and international
+bodies.
+8. Copyright by reference to international agreements.
+9. Nature of copyright in literary and musical works.
+10. Nature of copyright in artistic works.
+11. Nature of copyright in audiovisual works.
+12. Nature of copyright in sound recordings.
+13. Nature of copyright in broadcasts.
+14. Author’s moral rights.
+15. Right to remuneration for broadcasting of sound recordings.
+16. Broadcasting of works incorporated in an audio-visual work.
+17. Right to share in proceeds of sale.
+18. Commencements of rights.
+19. Duration of copyright.
+PART II — EXCEPTIONS TO COPYRIGHT
+20. General exceptions.
+21. Acts for purposes of instruction or examination.
+22. Recording of broadcasts by educational establishments.
+23. Restriction on reprographic copying by educational institutions.
+24. Subsequent dealings with authorised copies.
+25. Special provisions for archives, libraries, museums and galleries.
+26. Special exceptions for blind, visually impaired, or otherwise print
+disabled persons.
+27. Special exceptions in respect of sound recordings of musical works.
+A 180 2023 No. 8 Copyright Act, 2022
+PART III — OWNERSHIP, TRANSFERS AND LICENCES
+28. First ownership of copyright.
+29. Ownership of copyright in collective works.
+30. Assignment and licence.
+31. Compulsory licence to produce and publish translations.
+32. Compulsory licence to reproduce and publish works for certain purposes.
+33. Licence for broadcasting organisations.
+34. Definitions for the purposes of sections 31-33.
+35. Compulsory licence for public interest.
+PART IV — COPYRIGHT INFRINGEMENTS
+36. Infringement of copyright.
+37. Action for infringement.
+38. Order for inspection and seizure.
+39. Limitation to the right of action.
+40. Forfeiture of infringing copies.
+41. Infringement actionable as a breach of statutory duty.
+42. Admissibility of affidavit evidence.
+43. Presumptions.
+PART V — COPYRIGHT OFFENCES
+44. Criminal liability.
+45. Aiding and procuring copyright offence.
+46. Offence by bodies corporate.
+47. Simultaneous actions.
+PART VI — ANTI-PIRACY AND OTHER MEASURES
+48. Duty to keep records.
+49. Anti-piracy measures.
+50. Circumvention of technological protection measures.
+51. Falsification, alteration or removal of rights management information.
+52. Actions for circumvention of technological protection measures and
+rights management information.
+53. Restriction on importation.
+PART VII — PROVISIONS RELATING TO ONLINE CONTENT
+54. Notice to take down.
+55. Take down of infringing content.
+56. Procedure for suspension of accounts of repeat infringers.
+57. Misrepresentation.
+58. Information domiciled in systems or networks at direction of users.
+Copyright Act, 2022 2023 No. 8 A 181
+59. Information location tools.
+60. Identification of infringer.
+61. Blocking access to online content.
+62. Application of this Part.
+PART VIII — PERFORMER’S RIGHTS
+63. Right of performers.
+64. Protected performance.
+65. Presumption of consent.
+66. Moral rights of performers.
+67. Collective performances.
+68. Exceptions to performer’s rights.
+69. Transfer of performer’s rights in audio-visual fixations.
+70. Duration of performer’s right.
+71. Infringement of performer’s right.
+72. Action for infringement of performer’s right.
+73. Criminal liability in respect of infringement of performer’s right.
+PART IX — EXPRESSIONS OF FOLKLORE
+74. Protection of expressions of folklore.
+75. Infringement of expressions of folklore.
+76. Criminal liability in respect of infringement of expressions of folklore.
+PART X — ESTABLISHMENT OF NIGERIAN COPYRIGHT COMMISSION
+AND COPYRIGHT ADMINISTRATION
+77. Establishment of the Nigerian Copyright Commission.
+78. Functions and powers of the Commission.
+79. Establishment and membership of the Governing Board.
+80. Tenure of office.
+81. Cessation of membership.
+82. Removal of the Chairman or any member of the Board of the Commission.
+83. Appointment of the Director-General and other staff of the Commission.
+84. Removal of the Director-General, Chairman and other members of the Board.
+85. Appointment of other staff of the Commission.
+86. Copyright Officers.
+87. Registration of Works.
+88. Collective Management Organisations.
+89. Levy on copyright material.
+90. Dispute Resolution Panel.
+A 182 2023 No. 8 Copyright Act, 2022
+PART XI — FINANCIAL PROVISIONS
+91. Establishment of Fund for the Commission.
+92. Expenditure of the Commission.
+93. Annual estimates, accounts and audit.
+94. Annual report.
+95. Borrowing and investment power of the Commission.
+PART XII — MISCELLANEOUS PROVISIONS
+96. Power to accept gifts.
+97. Regulations.
+98. Application of the Pensions Reform Act.
+99. Power of the Minister to give directives.
+100. Restriction on execution against property of the Commission.
+101. Indemnity.
+102. Avoidance of conflict of interest.
+103. Jurisdiction.
+104. Limitation on suit against the Commission.
+105. Service of documents.
+106. Repeals and savings provisions.
+107. Transitional provisions.
+108. Interpretation.
+109. Citation.
+SCHEDULE
+Copyright Act, 2022 2023 No. 8 A 183
+COPYRIGHT ACT, 2022
+ACT No. 8
+AN ACT TO REPEAL THE COPYRIGHT ACT, CAP C28, LAWS OF THE FEDERATION OF NIGERIA,
+2004 AND ENACT THE COPYRIGHT ACT 2022 TO PROVIDE FOR THE REGULATION,
+PROTECTION AND ADMINISTRATION OF COPYRIGHT ; AND FOR RELATED MATTERS
+[17th Day of March, 2023] Commence-
+ment.
+ENACTED by the National Assembly of the Federal Republic of Nigeria—
+PART I—OBJECTIVES AND APPLICATION
+1.The objectives of this Act are to — Objectives
+of the Act.
+(a) protect the rights of authors to ensure just rewards and recognition
+for their intellectual efforts ;
+(b) provide appropriate limitations and exceptions to guarantee access
+to creative works ;
+(c) facilitate Nigeria’s compliance with obligations arising from relevant
+international copyright treaties and conventions ; and
+(d) enhance the capacity of the Nigerian Copyright Commission for
+effective regulation, administration, and enforcement of the provisions of
+this Act.
+2.—(1) Subject to this Act, the following works shall be eligible for Works
+copyright — eligible for
+copyright.
+(a) literary works ;
+(b) musical works ;
+(c) artistic works ;
+(d) audiovisual works ;
+(e) sound recordings ; and
+(f ) broadcasts.
+(2) Notwithstanding the provision of subsection (1), literary, musical or
+artistic work shall not be eligible for copyright unless —
+(a) some effort has been expended on making the work, to give it an
+original character ; and
+(b) the work has been fixed in any medium of expression known or later
+to be developed, from which it can be perceived, reproduced or otherwise
+communicated either directly or with the aid of any machine or device.
+(3) Any work that meets the requirements set out in subsection (2) shall
+be eligible for copyright, notwithstanding the quality of the work or the purpose
+for which the work was created.
+A 184 2023 No. 8 Copyright Act, 2022
+(4) A work shall not be ineligible for copyright by reason only that the
+making of the work or the doing of any act in relation to the work involved an
+infringement of copyright in some other works.
+(5) The copyright in a compilation shall not confer any exclusive right in
+the pre-existing material or data.
+(6) An artistic work shall not be eligible for copyright, if at the time the
+work is made, it is intended by the author to be used as an industrial design, as
+defined under the pattern designs.
+Ineligibility 3. The following shall not be eligible for copyright —
+for
+(a) ideas, procedures, processes, formats, systems, methods of operation,
+copyright.
+concepts, principles, discoveries or mere data ;
+(b) official texts of a legislative or administrative nature as well as any
+official translations, except their compilations ; and
+(c) official state symbols and insignia, including flags, coat-of-arms,
+anthems, and banknote designs.
+Formalities. 4.Eligibility for copyright under this Act shall not require any formality.
+Copyright 5.Copyright shall be conferred by this section on every work that is
+by virtue of eligible, where the author or in the case of a work of joint authorship, any of
+nationality
+the authors is at the time when the work or a substantial part made is —
+or habitual
+residence. (a) an individual who is a Nigerian citizen or is habitually resident in
+Nigeria ; or
+(b) a body corporate incorporated by or under the laws of Nigeria.
+Copyright 6. Copyright shall be conferred by this section on a work, which is a —
+by reference
+(a) literary, musical or artistic work or an audiovisual that is first published
+to country
+in Nigeria ;
+of origin.
+(b) sound recording made in Nigeria and has not been the subject of any
+copyright conferred by section 2 of this Act ; or
+(c) broadcast transmitted from Nigeria or by a broadcasting organisation
+that has its headquarters situated in Nigeria.
+Copyright in 7. Copyright shall be conferred by this section on a work that is eligible
+works of and is made by or under the direction or control of a government, an agency of
+government,
+government or a prescribed international body.
+state
+authorities
+and
+international
+bodies.
+Copyright Act, 2022 2023 No. 8 A 185
+8.—(1) Copyright shall be conferred by this section on a work, if — Copyright
+by reference
+(a) on the date of its first publication, at least one of the authors is a —
+to
+(i) citizen of or habitually resident in, or international
+(ii) body corporate established by or under the laws of a country that agreements.
+is a party to an obligation in a treaty or other international agreement to
+which Nigeria is a party, or
+(b) the work is first published in a country which is a party to an obligation
+in a treaty or other international agreement to which Nigeria is a party.
+(2) Where the question arises as to whether a country is a party to an
+obligation in a treaty or other international agreement to which Nigeria is also
+a party, a certification from the Commission to that effect shall be conclusive
+proof of that fact.
+9. Subject to the exceptions specified in Part II of this Act, copyright in
+a literary or musical work shall be the exclusive right to do and authorise the
+doing of any of the following acts —
+(a) reproduce the work ;
+(b) publish the work ;
+(c) perform the work in public ;
+(d) produce, reproduce, perform or publish any translation of the work ;
+(e) make any audiovisual work or a record in respect of the work ;
+(f ) distribute to the public, for commercial purposes, copies of the work,
+through sale or other transfer of ownership provided the work has not been
+subject to distribution authorised by the owner;
+(g) broadcast the work ;
+(h) communicate the work to the public ;
+(i) make the work available to the public by wire or wireless means in
+such a way that members of the public are able to access the work from a
+place and at a time independently chosen by them ;
+(j) make any adaptation of the work ; and
+(k) do in relation to a translation or an adaptation of the work, any of the
+acts specified in relation to the work specified under this section.
+10.—(1) Subject to the exceptions specified in Part II of this Act, Nature of
+copyright in an artistic work shall be the exclusive right to do and authorise the copyright
+doing of any of the following acts — in artistic
+works.
+(a) reproduce the work ;
+(b) publish the work ;
+(c) include the work in an audiovisual work ;
+(d) broadcast the work ;
+(e) communicate the work to the public ;
+A 186 2023 No. 8 Copyright Act, 2022
+(f ) make the work available to the public by wire or wireless means in
+such a way that members of the public are able to access the work from a
+place and at a time individually chosen by them ;
+(g) make any adaptation of the work ; and
+(h) do in relation to an adaptation of the work any of the acts specified
+in relation to the work under subsection (1)(a), (b) and (c).
+(2) The protection of a three dimensional work of artistic craftsmanship
+shall not extend to its functional aspects.
+(3) Copyright in a work of architecture shall also include the exclusive
+right to control the erection of any building, which reproduces the whole or a
+substantial part of the work either in its original form or in any form recognisably
+derived from the original, but not the right to control the reconstruction in the
+same style as the original of a building to which the copyright relates.
+Nature of 11. Subject to the exceptions under Part II of this Act, copyright in an
+copyright in audiovisual work shall be the exclusive right to do and authorise the doing of
+audiovisual any of the following acts —
+works.
+(a) reproduce the audiovisual work ;
+(b) cause the audiovisual work that consists of visual images to be seen
+in public and of sounds to be heard in public ;
+(c) communicate the audiovisual work to the public ;
+(d) broadcast the audiovisual work ;
+(e) make any copy of the sound track of an audiovisual work ;
+(f ) make the work available to the public by wire or wireless means in
+such a way that members of the public are able to access the work from a
+place and at a time independently chosen by them ;
+(g) distribute to the public, for commercial purposes, copies of the work,
+through sale or other transfer of ownership provided the work has not been
+subject to distribution authorised by the owner ;
+(h) make an adaptation of the audiovisual work ;
+(i) make a translation of the audiovisual work or any part ; and
+(j) do in relation to a translation or an adaptation of the work, any of the
+acts specified in relation to the work under this section.
+12. Subject to the exceptions specified in Part II of this Act, copyright in
+Nature of
+copyright in a sound recording shall be the exclusive right to do and authorise the doing of
+sound any of the following act —
+recordings.
+(a) reproduce the sound recording ;
+(b) broadcast the sound recording ;
+Copyright Act, 2022 2023 No. 8 A 187
+(c) communicate the sound recording to the public ;
+(d) make the sound recording available to the public by wire or wireless
+means in such a way that members of the public are able to access the sound
+recording from a place and at a time independently chosen by them ;
+(e) distribute to the public for commercial purposes, copies of the sound
+recording, either by way of rental, lease, hire, loan or similar arrangement ; or
+(f ) distribute to the public, for commercial purposes, copies of the work,
+through sale or other transfer of ownership provided the work has not been
+subject to distribution authorised by the owner.
+13.—(1) Subject to the exceptions specified in Part II of this Act, Nature of
+copyright in a broadcast shall be the exclusive right to do and authorise the copyright in
+broadcasts.
+doing of any of the following acts —
+(a) rebroadcasting of the broadcast ;
+(b) communication to the public of the broadcast ;
+(c) making the broadcast available to the public by wire or wireless
+means in such a way that members of the public are able to access the
+work from a place and at a time independently chosen by them ;
+(d) fixation of the broadcast ;
+(e) reproduction of a fixation of the broadcast ;
+(f ) adaptation of a fixation of the broadcast ; or
+(g) distribution of a fixation of the broadcast or copies for commercial
+purposes by way of rental, lease, hire, loan or similar arrangement.
+(2) The copyright in a television broadcast shall include the right to
+control the taking of still photographs from the broadcast.
+(3) Cable operators who merely retransmit the broadcasts of broadcasting
+organisations shall not be entitled to the rights provided for in subsection (1) in
+respect of the broadcasts retransmitted.
+14.—(1) Subject to Part II of this Act, the author of a work in which Author’s
+copyright subsists has the right to — moral rights.
+(a) claim authorship of his work, in particular that his authorship be
+indicated in connection with any of the acts referred to in sections 9, 10
+and11of this Act, except when the work is incidentally or accidentally
+included in a broadcast when reporting current events ; and
+(b) object and to seek relief in connection with any distortion, mutilation
+or other modification of, and any other derogatory action in relation to his
+work, where such action would be or is prejudicial to his honour or reputation.
+(2) A person has the right to object to a work being falsely attributed to
+him as the author.
+A 188 2023 No. 8 Copyright Act, 2022
+(3) The rights referred to in subsection (1) shall —
+(a) not be transmissible during the life of the author ; and
+(b) upon the death of the author, be transmissible by testamentary
+disposition or by operation of law.
+(4) The rights conferred by this section shall subsist for the duration of
+the copyright in the work.
+Right to 15.—(1) Where a sound recording has been published for commercial
+remuneration purposes, the performer and owner of copyright of such sound recordings
+for
+shall enjoy the right to equitable remuneration for any broadcast of the sound
+broadcasting
+recording.
+of sound
+recordings. (2) The remuneration referred to in subsection (1), shall be paid by the
+person who uses the sound recordings or copies.
+(3) The amount of remuneration and the conditions of payment shall be
+as agreed between the users of sound recordings on the one hand, the performer
+and owner of copyright in sound recordings on the other hand or their
+representatives ; and where the parties fail to reach an agreement, it shall be
+determined by the Commission.
+(4) Unless otherwise provided for in an agreement, the distribution of
+the remuneration referred to in subsection (1) between the performer and the
+owner of copyright in the sound recording shall be determined by the
+Commission.
+(5) Where remuneration is to be received on behalf of a performer and
+the owner of copyright in the sound recording by more than one collective
+management organisation, the collective management organisations concerned
+shall agree on which of them shall collect such remuneration on their behalf,
+failing which the Commission may specify accordingly.
+(6) The provisions of subsection (1) shall be exercised without prejudice
+to the right of a copyright owner to obtain remuneration for the use of his
+work fixed in such sound recording.
+(7) For the purposes of this section, sound recordings made available to
+the public by wire or wireless means in such a way that members of the public
+may be accessed from a place and at a time independently chosen by them
+shall be deemed as published for commercial purposes.
+(8) In the exercise of the rights under this section, the performer and
+owner of copyright in a sound recording shall have a right to the logs, statements
+and information relating to the broadcast of the sound recording.
+Copyright Act, 2022 2023 No. 8 A 189
+16.—(1) Where the owner of the copyright in a literary, musical or Broadcasting
+artistic work, authorises a person to incorporate the work in an audio- of works
+incorporated
+visual work and a broadcasting organisation broadcasts the audio-visual
+in an audio-
+work with the authorisation of the owner of the copyright in the audio-
+visual work.
+visual work, the owner of the copyright in the literary, musical or artistic
+work incorporated in the audio-visual work, shall, in the absence of any
+express agreement to the contrary between the owner of the underlying
+work and the owner of the audio-visual work, be deemed to have authorised
+the broadcast of the audio-visual work.
+(2) Notwithstanding subsection (1), the owner of the right to broadcast
+the work shall, subject to this Act, be entitled to receive fair compensation
+from the broadcasting organisation.
+(3) In the absence of an agreement on the compensation payable under
+subsection (2), the amount of compensation shall be determined by the
+Commission.
+17.—(1)Notwithstanding any assignment or sale of the original work, Right to
+an author of an artistic work, manuscript of a literary work or of a musical share in
+composition, shall have an inalienable right to a share in the proceeds of any proceeds
+of sale.
+sale of that work or manuscript, by public auction or through a dealer,
+subsequent to the first transfer by the author.
+(2) The right conferred by this section shall apply only to originals of
+such work.
+(3) The condition for the exercise of the right conferred by this section
+shall be determined by regulations made by the Commission.
+(4) The provisions of this section shall not apply to architectural works
+or works of applied art.
+(5) In this section, “author” includes heirs and successors-in-title.
+18. Subject to the provisions of sections 3, 4, 5, 6, 7 and 8 of this Act, Commence-
+copyright shall commence when the work is created or made. ments of
+rights.
+19.—(1) The duration of copyright conferred under this Act shall be, in Duration of
+the case of — copyright.
+(a) literary, musical or artistic works other than photographs, 70 years
+after the end of the year in which the author dies ;
+(b) works deriving copyrights from section 7 of this Act, 50 years after
+the end of the year in which the work was first made available to the public
+or 50 years after the work was created, if not made available to the public
+within that time ;
+A 190 2023 No. 8 Copyright Act, 2022
+(c) audiovisual works and photographs, 50 years after the end of the
+year in which the work was first made available to the public with the
+consent of the author or 50 years after the work was created, if not made
+available to the public within that time ;
+(d) sound recordings, 50 years after the end of the year in which the
+recording was first made available to the public with the consent of the
+author or 50 years after the work was created, if not made available to the
+public within that time ; and
+(e) broadcasts, 50 years after the end of the year in which the broadcast
+first took place.
+(2) Copyright in anonymous or pseudonymous literary, musical or artistic
+works shall subsist until 70 years after the year in which the work was first
+made available to the public with the consent of the author or 70 years after
+the work was created, if not made available to the public within that time,
+provided that when the author becomes known, the duration of copyright shall
+be in accordance with the provisions of subsection (1).
+(3) In joint authorship work, reference to the death of the author shall be
+to the author who dies last.
+PART II — EXCEPTIONS TO COPYRIGHT
+General 20.—(1) The rights conferred in respect of a work under sections 9-13
+exceptions. of this Act, do not include the right to control any of the acts specified in those
+sections by way of fair dealing for purposes such as —
+(a) private use ;
+(b) parody, satire, pastiche, or caricature ;
+(c) non-commercial research and private study ;
+(d) criticism, review or the reporting of current events, subject to the
+condition that, if the use is public, it shall, where practicable, be accompanied
+by an acknowledgment of the title of the work and its author except where
+the work is incidentally included in a broadcast :
+Provided that in determining whether the use of a work in any particular case
+is fair dealing, the factors to be considered shall include the —
+(i) purpose and character of its usage,
+(ii) nature of the work,
+(iii) amount and substantiality of the portion used in relation to the
+work as a whole, and
+(iv) effect of the use upon the potential market or value of the work ;
+(e) the inclusion in an audiovisual work or a broadcast of an artistic
+work situated in a place where it can be viewed by the public ;
+Copyright Act, 2022 2023 No. 8 A 191
+(f ) the incidental inclusion of an artistic work in an audiovisual work or
+broadcast ;
+(g) quotations in the form of short excerpts from a work ;
+(h) reading or recitation in public or in a broadcast, not for commercial
+purposes, of any reasonable extract from a published literary work if,
+accompanied by an acknowledgment of the title of the work and its
+author ;
+(i) any use made of a work by or under the direction or control of the
+Government or by such public libraries, non-commercial documentation
+centres and scientific or other institutions as may be prescribed, where the
+use is in the public interest, provided that —
+(i) no revenue is derived, and
+(ii) the use does not substantially affect the potential market or value
+of the work ;
+(j) the reproduction of a work by or under the direction or control of a
+broadcasting organisation, where the reproduction or any copies are intended
+exclusively for a lawful broadcast and are destroyed before the end of the
+period of six months immediately following the making of the reproduction or
+such longer period as may be agreed between the broadcasting organisation
+and the owner of the relevant part of the copyright in the work, provided that
+any reproduction of a work made under this paragraph —
+(i) may, if it is of an exceptional documentary character, be preserved
+in the archives of the broadcasting organization,
+(ii) shall not be used for any other purpose without the consent of the
+owner of copyright in the relevant part of the work, and
+(iii) “lawful broadcast” means a broadcast that does not infringe on
+the copyright in the work ;
+(k) news of the day for public broadcast or publicly communicated by
+any other means ;
+(l) any use made of a work for the purpose of judicial or legislative
+proceedings or the reporting of such proceedings ;
+(m) the making of not more than three copies of a work, by or under the
+direction of the person in charge of a public library, for the use of the
+library, where such a work is not available for purchase ;
+(n) reproduction for the purpose of research or private study of an
+unpublished literary or musical work kept in a library, museum or other
+similar institutions to which the public has access ;
+(o) transient and incidental reproductions, which are integral and essential
+parts of a technological process, whose sole purpose is to enable transmission
+A 192 2023 No. 8 Copyright Act, 2022
+in a network between third parties by an intermediary or for other lawful
+use, where such use has no independent economic significance ;
+(p) without prejudice to section 26 of this Act, use for the benefit of
+persons with disabilities and of a non-commercial nature, to the extent
+required by the specific disability ;
+(q) use of an artistic work in the form of a building model or a drawing
+or plan of a building for the purposes of reconstructing the building ; and
+(r) communication or making available of works and other material not
+subject to purchase or licensing terms to members of the public for the
+purpose of research or private study through dedicated terminals on the
+premises of publicly accessible libraries, educational establishments,
+museums and archives.
+(2) Notwithstanding the provisions of section 9 of this Act, reproduction
+of a copy or the adaptation of a computer program is permitted, if the copy or
+adaptation is necessary for —
+(a) use with a computer for the purpose for which the computer program
+was obtained ;
+(b) archival purposes or as a replacement, in the event that the original
+copy of the computer program is lost, destroyed or rendered unusable ; and
+(c) the activation of a machine that lawfully contains an authorised copy
+of the computer program, for purposes of maintenance or repair only of
+that machine, subject to the condition that—–
+(i) such new copy is used in no other manner and is destroyed
+immediately after the maintenance or repair is completed, and
+(ii) with respect to any computer program or part that is not necessary
+for that machine to be activated, such program or part is not accessed or
+used other than to make such new copy by virtue of the activation of the
+machine.
+(3) Any contractual term which purports to restrict or prevent the doing
+of any act permitted under this Act shall be void.
+Acts for 21.—(1) Copyright in a literary, musical or artistic work is not infringed
+purposes of by its being copied in the course of instruction or of preparation for instruction,
+instruction
+provided the copying is done by a person giving or receiving instruction and is
+or
+not by means of a reprographic process.
+examination.
+(2) Copyright in a sound recording, audiovisual work, broadcast or cable
+programme is not infringed by its being copied in the course of instruction at a
+non-profit educational institution or of preparation for instruction, provided the
+copying is done by and used for the instruction by a person giving or receiving
+instruction.
+Copyright Act, 2022 2023 No. 8 A 193
+(3) Copyright in a work is not infringed by anything done for the purposes
+of an examination by way of setting, communicating or answering questions.
+22.—(1) Subject to subsection (2), the recording of a broadcast or Recording of
+cable programme or a copy of such a recording by or on behalf of an broadcasts
+by
+educational establishment for educational purposes of that establishment
+educational
+shall not infringe the copyright in the broadcast or cable programme or in
+establishments.
+any work included in it.
+(2) Subsection (1) shall not apply to the extent that there is a licensing
+scheme for the purposes.
+23.—(1) Subject to the provisions of this section, the reprographic copying Restriction
+of passages from published literary or musical works by or on behalf of an on
+reprographic
+educational establishment for the purposes of instruction shall not infringe the
+copying by
+copyright in the work.
+educational
+institutions.
+(2) Notwithstanding the provisions of subsection (1), not more than five
+per cent of a work shall be copied by or on behalf of an educational establishment
+within a period of three months.
+(3) The provisions of this section shall not apply where there is a licensing
+scheme for reprographic copying.
+(4) Any term of a licence which purports to restrict the proportion of
+work, which may be copied to less than that permitted under this section shall
+be of no effect.
+24.—(1) Where a copy of a work authorised under sections 21, 22 and Subsequent
+23 of this Act is subsequently dealt with by way of sale, offering for sale or dealings with
+rental, it shall be treated as an infringing copy for the purposes of that dealing. authorised
+copies.
+(2) Where a person requesting a copy makes a declaration that is false
+in a material particular and is supplied with the copy, which would have been
+an infringing copy, if made by him, that person shall be liable for infringement
+of copyright as if, he had made the copy himself and the copy supplied shall be
+treated as an infringing copy.
+25.—(1) Notwithstanding the provisions of sections 9-13 of this Act, Special
+archives, libraries, museums and galleries, may for non-commercial provisions
+purposes — for archives,
+libraries,
+(a) make and distribute copies of works protected under this Act as part museums
+of their ordinary activities ; and galleries.
+(b) make copies of works in their collection for the purpose of back-up
+and preservation ;
+(c) make or procure a copy of any missing part of a work in its collection
+from another institution ;
+A 194 2023 No. 8 Copyright Act, 2022
+(d) make or procure a copy of any work that is or should be available in
+its collection in any chosen format, where the work cannot reasonably be
+acquired in that format through general trade or from the publisher ; or
+(e) make or procure a copy of any work where the permission of the
+owner of the copyright cannot be obtained, after reasonable effort, or where
+the work is not available by general trade or from the publisher.
+(2) Copies of works made in whatever format in accordance with
+subsection (1) may be —
+(a) lent to users ; or
+(b) used for private study or research on the premises of the institution
+with or without the means of technical equipment.
+Special 26.—(1) Notwithstanding the provisions of any other section of this
+exceptions Act, an authorised entity may, without the permission of the owner of copyright
+for blind,
+in a work, make or procure an accessible format copy of a work or subject
+visually
+matter and supply the copy to beneficiary persons by any means, including
+impaired, or
+otherwise non-profit lending, or electronic communication by wire or wireless means, on
+print the condition that the —
+disabled
+(a) authorised entity desiring to undertake any of the activities under
+persons.
+this section has lawful access to that work or subject matter or a copy of
+that work or subject matter ;
+(b) work or subject matter is converted to an accessible format copy ;
+(c) accessible format copy is supplied to be used exclusively by
+beneficiary persons ; and
+(d) activity is undertaken on a non-profit basis.
+(2) For the purpose of the requirement of subsection (1) (c), an authorised
+entity shall establish and follow its own practices, to —
+(a) establish that the persons it serves are beneficiary persons ;
+(b) limit its distribution to beneficiary persons or authorised entities and
+in making available of accessible format copies ;
+(c) discourage the reproduction, distribution and making available of
+unauthorised copies ; and
+(d) maintain due care in, and records of, its handling of copies of works
+or other subject matter while respecting the privacy of beneficiary persons.
+(3) A beneficiary person is permitted to make an accessible format
+copy of a work or other subject matter for his personal use, where he has
+lawful access to that work or subject matter or a copy of that work or subject
+matter.
+Copyright Act, 2022 2023 No. 8 A 195
+(4) A person acting on behalf of a beneficiary person, including a primary
+caretaker or caregiver, may assist the beneficiary person to make accessible
+format copies where the beneficiary person has lawful access to that work or
+subject matter or a copy of that work or subject matter.
+(5) An authorised entity may, without the permission of the owner of a
+copyright, distribute or make available accessible format copies to an authorised
+entity in another country for the exclusive use of beneficiary persons or to a
+beneficiary person in another country, provided that prior to the distribution or
+making available, the authorised entity did not know or have reasonable grounds
+to know that the accessible format copy would be used other than for the
+beneficiary persons.
+(6) An authorised entity, a beneficiary person or a person acting on his
+behalf including a primary caretaker or caregiver, may without the permission
+of the owner of copyright import an accessible format copy, including by wire
+or wireless means.
+(7) For the purposes of this section —
+(a) “works” include literary and artistic works in the form of text, notation
+or related illustrations that are not available in accessible formats ;
+(b) “accessible format copy” means a copy of a work in an alternative
+manner or form which —
+(i) gives a beneficiary person access to the work, as feasibly and
+comfortably as a person without visual impairment or other print
+disability, and
+(ii) respects the integrity of the original work, taking due consideration
+of the changes needed to make the work accessible in the alternative
+format and of the accessibility needs of the beneficiary persons ;
+(c) “authorised entity” means —
+(i) an entity that is authorised or recognized by the government, or
+receives financial support from the government, to provide education,
+instructional training, adaptive reading or information access to beneficiary
+persons on a non-profit basis, or
+(ii) a government institution or non-profit organisation that provides
+education, instructional training, adaptive reading or information access
+to beneficiary persons as part of its primary activities or institutional
+obligations ; and
+(d) “beneficiary person” means a person who, regardless of any other
+disabilities —
+(i) is blind,
+A 196 2023 No. 8 Copyright Act, 2022
+(ii) has a visual impairment or a perceptual or reading disability which
+cannot be improved to give visual function substantially equivalent to
+that of a person who has no such impairment or disability and so is
+unable to read printed works to substantially the same degree as a person
+without an impairment or disability, or
+(iii) is otherwise unable, through physical disability, to hold or
+manipulate a book or to focus or move the eyes to the extent that would
+be normally acceptable for reading.
+Special 27.—(1) The copyright in a musical work is not infringed by a person
+exceptions in who makes a recording of the work or of an adaptation in Nigeria, if —
+respect of
+(a) recording of the work or adaptation, has previously been made,
+sound
+recordings of imported into or otherwise made available in Nigeria, for the purpose of
+musical retail sale with the consent or licence of the owner of the copyright ;
+works.
+(b) before making the recording, the person gives notice in the prescribed
+manner of his intention to record to the owner of the copyright or the relevant
+approved collective management organisation ; and
+(c) the person pays to the owner of the copyright or the relevant approved
+collective management organisation a royalty of an amount equal to a
+percentage of the ordinary retail selling price of the record calculated in
+accordance with regulations made by the Commission.
+(2) Where a recording comprises two or more musical works in which
+copyright subsists and the owners of the copyright in the works are different
+persons, the royalty shall be apportioned among them in such manner as they
+may agree or in default of such agreement, in accordance with the rules of the
+relevant collective management organisations or the regulations made under
+this Act.
+(3) Where a recording comprises of a performance of a musical work
+or of an adaptation of a musical work, in which words comprised in a literary
+work are sung or are spoken and no copyright subsists in that literary work or
+where copyright subsists, the conditions specified in subsection (1) are fulfilled
+in relation to that copyright, the making of the recording shall not constitute an
+infringement of the copyright in the literary work.
+(4) The provisions of subsection (3), shall not be construed as requiring
+the payment of more than one royalty in respect of a recording and where
+copyright subsists in both the musical work and literary work and their owners
+are different, the royalty shall be apportioned among them and any other person
+entitled to a share, as they may agree or in default of agreement, shall be
+determined by the rules of the relevant collective management organisation or
+the regulations made under this section.
+Copyright Act, 2022 2023 No. 8 A 197
+(5) For the purpose of this section, an adaptation of a work shall be
+taken to be similar to an adaptation contained in previous records, if the two
+adaptations do not differ substantially in their treatment of the work, in respect
+of style or apart from a difference in number of the performers required to
+perform the adaptations.
+(6) The Commission shall have power to make regulations providing for
+conditions necessary to give effect to the purposes of this Part.
+PART III — OWNERSHIP, TRANSFERS AND LICENCES
+28.—(1) Except as otherwise provided in an agreement, copyright First
+conferred by this Act, shall initially vest in the author. ownership
+of copyright.
+(2) Where a person in the absence of an agreement to the contrary,
+creates a work under a contract for services, or in the course of employment
+by a government, a ministry, department or agency of a government or a
+prescribed international or inter-governmental organisation, the copyright in
+that work shall vest in that government, ministry, department, agency, prescribed
+international or inter-governmental organisation.
+(3) Notwithstanding subsection (1) and subject to any agreement
+between the parties, where a person for private and domestic purposes,
+commissions the taking of a photograph or the painting or drawing of a
+portrait or the making of an audiovisual work, the person who commissioned
+the work shall be —
+(a) deemed to have a non-exclusive licence to exploit the commissioned
+work for non-commercial purposes ; and
+(b) entitled to restrain the publication, exhibition, broadcasting,
+communication, distribution and making available of copies of the work to
+the public.
+29. Except as otherwise provided by agreement — Ownership
+of copyright
+(a) copyright in a collective work shall vest in the person on whose
+in collective
+initiative or direction the work was created ; and
+works.
+(b) the authors of the works incorporated in a collective work shall have
+the right to exploit their works independent of the right in the collective
+work.
+30.—(1) For the purpose of Chapter 4 of the Constitution of the Federal Assignment
+Republic of Nigeria 1999, copyright shall be deemed to be movable property and licence.
+and shall be transferable by way of assignment, testamentary disposition or Cap. C23,
+LFN, 2004.
+operation of law.
+A 198 2023 No. 8 Copyright Act, 2022
+(2) An assignment or testamentary disposition of copyright may be
+limited to only some of the acts, which the owner of the copyright has the
+exclusive right to control or to a part only of the period of the copyright, or to
+a specified country or other geographical area.
+(3) An assignment of copyright or an exclusive licence to do an act, the
+doing of which is controlled by copyright, shall have no effect unless it is in
+writing.
+(4) A non-exclusive licence to do an act, the doing of which is controlled
+by copyright, may be written, oral, or inferred from conduct of the owner of
+copyright.
+(5) An assignment or licence granted by one copyright owner, shall
+have effect as if granted by his co-owner and subject to any agreement between
+them, any fee received shall be divided equitably among the co-owners.
+(6) For the purposes of this section, persons shall be deemed to be co-
+owners, if they —
+(a) share joint interest in the whole or any part of a copyright ; or
+(b) have interests in the copyright in various works comprised in a
+production of two or more works.
+(7) Ownership of a material in which a work is embodied shall not
+confer ownership of copyright in the work.
+(8) Except as may otherwise be provided for in an agreement, an owner
+of copyright who transfers the ownership of the material in which the work is
+embodied, shall not be deemed to have transferred his copyright or to have
+granted a licence for the exploitation of the work.
+(9) Except as may otherwise be provided for in an agreement, an owner
+of copyright who transfers his copyright or grants a licence for the exploitation
+of a work shall not be deemed to have transferred the ownership of the material
+in which the work is embodied.
+(10) An assignment, licence or testamentary disposition, may be granted
+or made in respect of a future work or an existing work in which copyright
+does not subsist, provided that it shall not be permitted to transfer the rights in
+all future works of an author.
+(11) A testamentary disposition of a material on which a work is first
+written or recorded shall, in the absence of any indication to the contrary, be
+presumed to include any copyright or prospective copyright in the work, which
+is vested in the deceased.
+Copyright Act, 2022 2023 No. 8 A 199
+31.—(1) Any qualified person may, for the purposes of teaching, Compulsory
+scholarship or research, apply to the Commission for a licence to produce and licence to
+produce and
+publish a translation of a literary work, which has been published in printed or
+publish
+analogous forms of reproduction.
+translations.
+(2) An application under this section shall be made in the prescribed
+form and shall state the proposed retail price of a copy of the translation of the
+work.
+(3) An applicant for a licence under this section shall pay such fee as
+may be prescribed by the Commission.
+(4) Where an application is made to the Commission under this section,
+the Commission may grant to the applicant a non-exclusive licence to produce
+and publish a translation of the work in the language mentioned in the application
+subject to the conditions that —
+(a) the applicant shall pay to the owner of the copyright in the work,
+royalties in respect of copies of the translation of the work produced,
+calculated at such rate as the Commission may, in the circumstances of
+each case determine and consistent with the standards for licences freely
+negotiated between persons in Nigeria and owners of translation rights in
+their country ;
+(b) the licence shall not extend to the export of copies of the translation
+of the work outside Nigeria ; and
+(c) every copy of such translation shall contain a notice in the language
+of the translation that the copy is available for distribution only in Nigeria.
+(5) Subsection (4) shall not apply to export by Government or any of its
+agencies, of copies of such translation in a language other than English to
+any country, if such copies are —
+(a) sent to citizens of Nigeria residing outside Nigeria or to any
+association of such citizens outside Nigeria ; or
+(b) meant to be used for purposes of teaching, scholarship or research
+and the government of the country to which the copies are exported agree
+to receive or distribute the copies.
+(6) A licence shall not be granted by the Commission under this section
+until the expiration of —
+(a) one year from the date of first publication of the work, where the
+application is for a licence for translation into any language spoken in Nigeria
+other than English ; or
+(b) three years from the date of first publication of the work, where the
+application is for a licence for translation into English.
+A 200 2023 No. 8 Copyright Act, 2022
+(7) A licence shall not be granted by the Commission, except —
+(a) the Commission is satisfied that no translation of the work into the
+language in question has been published in printed or analogous forms of
+reproduction, by or with the permission of the owner of the right of translation
+or that all previous editions in that language are out of print ;
+(b) the applicant has proved to the satisfaction of the Commission that
+he had requested and had been denied permission by the owner of the
+copyright to produce and publish such translation or that he was, after due
+diligence on his part, unable to find such owner ;
+(c) where the applicant after due diligence on his part, was unable to
+find the owner of the copyright and that he had sent a request for permission
+to the publisher whose name appears on the work, not less than two months
+before applying for the licence ;
+(d) the applicant had at the time he submitted an application under
+this section informed any national or international information centre
+designated for this purpose by the government of the country in which
+the publisher of the work to be translated is believed to have his principal
+place of business ;
+(e) the Commission is satisfied that the applicant is competent to produce
+and publish a correct translation of the work and possesses the means to
+pay to the owner of the copyright the royalties required to be paid to him
+under this Act ;
+(f ) a period of six months, in the case of an application for a licence for
+translation into English or nine months in the case of an application for a
+licence for translation into any other language spoken in Nigeria has lapsed
+from the date of making the request under subsection (1)(b) ;
+(g) where a request has been sent under subsection (1)(c), a period of
+six months has lapsed from the date of sending the request and the translation
+of the work in the language mentioned in the application has not been
+published by the owner of the copyright in the work or any person authorised
+by him within a period of nine months ;
+(h) the name of the author and the title of the particular edition of the
+work proposed to be translated are printed on all copies of the translation ;
+(i) where the work is composed mainly of illustrations, the provisions of
+section 6 of this Act are complied with ;
+(j) the author has not withdrawn copies of the work from circulation ; and
+(k) an opportunity of being heard is given by the Commission, wherever
+practicable, to the owner of the copyright in the work.
+Copyright Act, 2022 2023 No. 8 A 201
+(8) The Commission may withdraw the licence granted under this section
+where the circumstance that led to its grant has ceased to exist.
+32.—(1) Where, after the expiration of the relevant period from the Compulsory
+date of the first publication of an edition of a literary or artistic work — licence to
+reproduce
+(a) the copies of such edition are not made available in Nigeria ; or
+and publish
+(b) such copies have not been put on sale in Nigeria for a period of six works for
+months, by the owner of the right of reproduction or by any person authorised certain
+purposes.
+by him in that behalf to the general public, or in connection with systematic
+instructional activities at a price reasonably related to that normally charged
+in Nigeria for comparable works,a qualified person may apply to the
+Commission for a licence to reproduce and publish the work in any form,
+for the purpose of systematic instructional activities, at the price for which
+such edition is sold or at a lower price.
+(2) An application under this section shall be made in a prescribed form
+and shall state the proposed retail price of a copy of the work to be reproduced.
+(3) An applicant for a licence under this section shall pay such fees as
+may be prescribed by the Commission.
+(4) Where an application is made to the Commission under this section,
+the Commission may grant to the applicant a non-exclusive licence to produce
+and publish a reproduction of the work mentioned in the application subject to
+the conditions that —
+(a) the applicant shall pay to the owner of the copyright in the work,
+royalties in respect of copies of the reproduction calculated at such rate as
+the Commission may, in the circumstances of each case determine as
+consistent with the standards for licences freely negotiated between persons
+in Nigeria and owners of reproduction rights in their country ;
+(b) the licence shall not extend to the export of copies of the reproduction
+of the work outside Nigeria ; and
+(c) every copy of such reproduction shall contain a notice that the copy
+is available for distribution only in Nigeria.
+(5) A licence shall not be granted by the Commission, except —
+(a) the applicant has proved to the satisfaction of the Commission that
+he had requested and had been denied permission by the owner of the
+copyright to reproduce and publish such work, or that he was, after due
+diligence on his part, unable to find such owner ;
+(b) where the applicant exercised due diligence and was unable to find
+the owner of the copyright and that he had sent a request for permission to
+the publisher whose name appears on the work, not less than three months
+before applying for the licence ;
+A 202 2023 No. 8 Copyright Act, 2022
+(c) the applicant had at the time he submitted an application under
+this section informed any national or international information centre
+designated for this purpose by the government of the country in which
+the publisher of the work to be reproduced is believed to have his principal
+place of business ;
+(d) the Commission is satisfied that the applicant is competent to
+reproduce and publish an accurate reproduction of the work and possesses
+the means to pay to the owner of the copyright, the royalties required to be
+paid to him under this section ;
+(e) the applicant undertakes to reproduce and publish the work at such
+price as may be fixed by the Commission at a price normally charged in
+Nigeria for similar works of the same standard ;
+(f ) a period of six months, in the case of an application for the reproduction
+and publication of any work of natural science, physical science, mathematics
+or technology or a period of three months in the case of an application for
+the reproduction and publication of any other work, has lapsed from the
+date of making the request under subsection (1)(a) or where a copy of the
+request has been sent under subsection (1)(b), from the date of sending of
+a copy and a reproduction of the work has not been published by the owner
+of the copyright in the work or any person authorised by him within a period
+of six months or three months, as the case may be ;
+(g) the name of the author and the title of the particular edition of the
+work proposed to be reproduced are printed on all the copies of the
+reproduction ;
+(h) the author has not withdrawn copies of the work from circulation ; and
+(i) an opportunity of being heard is given by the Commission, wherever
+practicable, to the owner of the copyright in the work.
+(6) Notwithstanding the provisions of this section, a licence to reproduce
+and publish translation of a work shall not be granted save such translation has
+been published by the owner of the right of translation in a language spoken in
+Nigeria.
+(7) The provisions of sections 31 and 32 of this Act shall also apply to
+the reproduction and publication or translation into a language spoken in Nigeria,
+of any text incorporated in audio-visual fixations prepared and published solely
+for the purpose of systematic instructional activities.
+(8) In this section “relevant period” in relation to any work, means a
+period of —
+(a) seven years from the date of the first publication of a work in respect
+of fiction, poetry, drama, music or art ; and
+Copyright Act, 2022 2023 No. 8 A 203
+(b) three years from the date of the first publication of a work in respect
+of natural science, physical science, mathematics or technology.
+33.—(1) A broadcasting organisation in Nigeria may apply to the Licence for
+Commission for a licence to produce and publish, for non-commercial purposes, broadcasting
+organisations.
+the translation of —
+(a) a work referred to in section 31 of this Act ; or
+(b) any text incorporated in audio-visual works, prepared and published
+solely for the purpose of systematic instructional activities, for broadcasting
+such translation for the purpose of teaching or for the dissemination of the
+results of specialised, technical or scientific research to the experts in any
+particular field.
+34.—(1) For the purposes of sections 31-33 of this Act “qualified person” Definitions
+means — for the
+purposes
+(a) a citizen of Nigeria or an individual habitually resident in Nigeria ; or
+of sections
+(b) a body corporate incorporated under any written law in Nigeria. 31-33.
+(2) “research” shall not include industrial research or research carried
+out by bodies corporate not owned or controlled by the Government, carrying
+on any business.
+(3) “purposes of teaching, research or scholarship” includes all types
+of organised educational and instructional activities at any level in educational
+institutions.
+35.—(1) Notwithstanding the provisions of this Act, the Commission Compulsory
+may authorise the use of a work by any person for the purpose of rectifying licence for
+the abuse of a dominant market position or to promote public interest. public
+interest.
+(2) An application for a licence under this section shall be made in a
+manner prescribed, accompanied with evidence of payment of a prescribed
+fee and good cause shown for the grant of the licence by the Commission.
+(3) The Commission may authorise the use of a work under subsection
+(1) after taking into consideration that the —
+(a) proposed user has made reasonable effort to obtain permission from
+the owner of copyright on reasonable commercial terms and conditions and
+that the effort was not successful ;
+(b) scope, medium and duration of the use shall be limited to the purpose
+for which it was authorised ;
+(c) use shall be non-exclusive and non-assignable ;
+(d) use shall be exclusively for Nigeria’s domestic market ; and
+(e) copyright owner receives payment of adequate remuneration, taking
+into account the economic value of the work authorised to be used.
+A 204 2023 No. 8 Copyright Act, 2022
+(4) Subject to adequate protection of the interests of the authorised
+persons, the authorisation may be withdrawn where the circumstances that
+led to its grant has ceased to exist.
+(5) The Commission may waive the condition stipulated in subsection
+(3)(a) in the event of national emergency or other circumstances of extreme
+urgency and notify the owner of copyright.
+(6) The Commission may make regulations providing for conditions
+necessary to give effect to the provisions of this section.
+(7) A person who is dissatisfied with an authorisation granted by the
+Commission under this section or any remuneration required to be paid under
+the authorisation granted by the Commission, may apply to the Court for a
+review.
+PART IV — COPYRIGHT INFRINGEMENTS
+36. Copyright is infringed by any person who without the authorisation
+Infringement
+of copyright. of the owner of the copyright —
+(a) does or causes any person to do an act, which constitutes a violation
+of the exclusive rights conferred under this Act ;
+(b) imports or causes to be imported into Nigeria any copy of a work
+which if it had been made in Nigeria would be an infringing copy under this
+Act ;
+(c) sells, offers for sale or hire any work in respect of which copyright
+is infringed under paragraph (a) ;
+(d) makes or has in his possession, plates, master tapes, machines,
+equipment or contrivances used for the sole purpose of making infringing
+copies of the work ;
+(e) permits a place of public entertainment or of business to be used for
+a public performance of the work, where the performance constitutes an
+infringement of copyright in the work, unless the person permitting the
+place to be used was not aware and had no reasonable ground to suspect
+that the performance constitutes an infringement of the copyright ;
+(f ) permits within its premises, the reproduction of a copyright work ; or
+(g) performs or causes to be performed for the purposes of trade or
+business or the promotion of a trade or business, any work in which copyright
+subsists.
+(2) The doing of any of the acts referred to in this section shall be in
+respect of the whole or a substantial part of the work either in its original form
+or in any form recognisably derived from the original.
+Copyright Act, 2022 2023 No. 8 A 205
+37.—(1) Subject to the provisions of this Act, infringement of copyright Action for
+shall be actionable at the instance of the owner, assignee or an exclusive infringement.
+licensee of the copyright in the court exercising jurisdiction in the place where
+the infringement occurred.
+(2) In any action for an infringement of copyright, the plaintiff shall
+be entitled to reliefs such as damages, injunction, accounts or as is available
+in any corresponding proceedings in respect of infringement of other
+proprietary rights.
+(3) Where an action for infringement of copyright brought by the copyright
+owner or an exclusive licensee relates to an infringement in respect of which
+both have concurrent rights of action, the copyright owner or the exclusive
+licensee may not, without the leave of court, proceed with the action unless
+the other is joined as a plaintiff or added as a defendant.
+(4) In an action for infringement of copyright, where it is proved or
+admitted that an infringement was committed, but that at the time of infringement,
+the defendant was not aware and had no reasonable grounds to suspect that
+copyright subsisted in the work to which the action relates, the plaintiff shall
+not be entitled to any damages against the defendant in respect of the
+infringement, but shall be entitled to an account of profits in respect of the
+infringement, whether or not any other relief is granted.
+(5) Where in an action under this section, an infringement of copyright
+is proved or admitted and the court in which the action is brought, is satisfied
+that effective relief would not otherwise be available to the plaintiff, the court,
+in assessing damages for the infringement, shall have power to award such
+additional damages as the court may consider appropriate in the circumstances
+and having regard to —
+(a) the flagrancy of the infringement ; and
+(b) any benefit shown to have accrued to the defendant by reason of
+the infringement.
+(6) In any proceeding for infringement of copyright, no order shall be
+made, which requires a completed or an uncompleted building to be demolished
+or prevents the completion of an uncompleted building.
+(7) Any disputes arising from the exercise of a right under this Act, may
+be subject to arbitration and may be resolved by any means agreed to by the
+parties to the dispute.
+(8) In this section, “action” includes a counterclaim and references to
+the plaintiff or the defendant, shall be construed accordingly.
+A 206 2023 No. 8 Copyright Act, 2022
+Order for 38.—(1) In any action for infringement of any right under this Act,
+inspection where an ex parte application is made to the court, supported with an affidavit,
+and seizure.
+that there is reasonable cause to suspect that there is in any house or premises
+an infringing copy or any plate, film, device or contrivance used, intended to
+be used or capable of being used for the purpose of making infringing copies,
+the court may issue an order as it deems just, authorising the applicant to enter
+the house or premises at any reasonable time by day or night accompanied by
+a police officer or a Copyright Officer, to —
+(a) seize, detain and preserve the infringing copy or contrivance ; and
+(b) inspect any document, relating to the action, in the custody or under
+the control of the defendant.
+(2) Any person who knowingly gives false information under this section
+commits an offence and is liable on conviction to a fine of at least N100,000 or
+imprisonment for a term of at least one year or both.
+Limitation to 39. Notwithstanding the provisions of this Act or any other law, no
+the right of action for an infringement of copyright or any right under this Act shall be
+action. commenced or maintained by any person or organisation, who —
+(a) engages in the business of negotiating and granting of licence ;
+(b) collects and distributes royalties in respect of copyright works ; and
+(c) represents more than 50 owners of copyright in any category of
+works protected under this Act, unless it is approved under section 88 of
+this Act to operate as a collective management organisation or issued with
+a certificate of exemption by the Commission.
+Forfeiture of 40. Where a person has an infringing copy of a work in his possession,
+infringing custody, or control in the course of business or has in his possession, custody or
+copies. control an article specifically designed or adapted for making copies of a particular
+copyright work, knowing or having reason to believe that it has been or is to be
+used to make infringing copies, the owner of the copyright in the work may
+apply to the court for an order that the infringing copy or article be —
+(a) forfeited to him or any other person, or
+(b) destroyed or otherwise dealt with as the court may deem fit.
+Infringement 41.—(1) An infringement of the rights conferred by section 14 of this
+actionable as Act is actionable as a breach of statutory duty owed to the person entitled to
+a breach of
+the right.
+statutory
+duty. (2) In any proceeding for infringement of a right conferred under section
+14 of this Act, the person whose rights has been infringed upon shall be entitled
+to an award of damages, injunction and any other remedy as the court may
+deem fit to award in the circumstances.
+Copyright Act, 2022 2023 No. 8 A 207
+42. Any of the following facts shall be admitted in any proceedings Admissibility
+without further proof, if they are stated in an affidavit made before a of affidavit
+evidence
+Commissioner for Oaths, notary public or other person competent to administer
+an oath in terms of the law of the country where the oath is made, by or on
+behalf of the owner of the copyright in a work, that —
+(a) at the time specified, copyright subsists in the work ;
+(b) the person named is the owner of the copyright in the work ;
+(c) a copy of the work exhibited to the affidavit is a true copy of the
+work ;
+(d) the author of the work is a citizen of or domiciled in a country named
+in the affidavit ;
+(e) the author of the work is a body corporate established or incorporated
+by or under the laws of the country named in the affidavit ;
+(f ) the work was first made or published in the country named in the
+affidavit ; and
+(g) the certificate attached to the affidavit is a true copy of the certificate
+or registration of that incorporation.
+43. In an action for infringement of copyright in a work, whether civil or Presumptions.
+criminal, the following shall be presumed, where such work has been registered
+under section 87 of this Act —
+(a) that copyright subsists in the work which is the subject matter of an
+alleged infringement ;
+(b) that the name appearing on the work purporting to be the name of
+the author, is the name of such author ;
+(c) that the name appearing on the work purporting to be that of the
+publisher or producer of the work is the name of such publisher or
+producer ;
+(d) where the author is dead, that the work is an original work ; and
+(e) that it was published or produced at the place and on the date
+appearing on the work.
+PART V — COPYRIGHT OFFENCES
+44.—(1) Any person who — Criminal
+liability.
+(a) makes or causes to be made for sale, hire or for the purposes of trade
+or business any infringing copy of a work in which copyright subsists ;
+(b) imports or causes to be imported into Nigeria, other than for private
+or domestic use, a copy of any work which, if it had been made in Nigeria,
+would be an infringing copy ; or
+A 208 2023 No. 8 Copyright Act, 2022
+(c) has in his possession, any plate, master tape, machine, equipment,
+device or contrivance for the purposes of making any infringing copy of
+any such work,
+commits an offence and is liable on conviction to a fine of at least N10,000 for
+every copy dealt with in contravention of this section or imprisonment for a
+term of at least five years or both.
+(2) Any person who —
+(a) sells, lets for hire or for the purposes of trade or business, exposes
+or offers for sale any infringing copy of a work,
+(b) distributes for the purposes of trade or business any infringing copy
+of a work,
+(c) has in his possession other than for his private or domestic use, any
+infringing copy of a work, or
+(d) has in his possession, sells, lets for hire or distributes for the purposes
+of trade or business or exposes or offers for sale or hire any copy of a work
+which if it had been made in Nigeria would be an infringing copy,
+commits an offence andis liable on conviction to a fine of at least N10,000 for
+every copy dealt with in contravention of this section or imprisonment for a
+term of at least three years or both.
+(3) A person is not guilty of an offence under subsections (1) and (2) if,
+he proves to the satisfaction of the court that he did not know and had no
+reason to believe that the copy was an infringing copy of any work or that the
+plate, master tape, machine, equipment or contrivance was for the purpose of
+making infringing copies of any such work.
+(4) Any person who, without the consent of the owner, distributes to the
+public for commercial purposes, by way of rental, lease, hire, loan or similar
+arrangement, copies of a work in which copyright subsists, commits an offence
+under this Act and is liable on conviction to a fine of at least N1,000 for every
+copy dealt with or imprisonment for a term of at least three years or both.
+(5) The court before which any proceeding is taken for an offence
+under subsections (1), (2) and (4), may order infringing copies of the works,
+plates, master tapes, machines, equipment and contrivances in the possession
+of the alleged offender, to be destroyed or surrendered to the owner of the
+copyright or dealt with as the court may deem fit, whether the alleged offender
+is convicted or not.
+(6) Where an article is seized by a law enforcement officer in connection
+with a suspected offence under this Act, a court may on the application of a
+Copyright Officer or owner of the copyright in the article, order that the article
+Copyright Act, 2022 2023 No. 8 A 209
+be destroyed or delivered up to the owner of the copyright or otherwise dealt
+with as the court may deem fit, notwithstanding that no person has been
+charged with the suspected offence.
+(7) A person who without the consent of the owner of a work in which
+copyright subsists, communicates to the public or makes the work available to
+the public by wire or wireless means in such a way that members of the public
+are able to access the work from a place and at a time individually chosen by
+them for commercial purposes, commits an offence under this Act and is
+liable on conviction to a fine of at least N1,000,000 or imprisonment for a term
+of at least five years or both.
+(8) A person who without the consent of the owner of a copyright
+does any of the acts specified under section 13(1)(a)-(e) of this Act, in
+respect of a broadcast, commits an offence under this Act and is liable on
+conviction to a fine of at least N1,000,000 or imprisonment for a term of at
+least five years or both.
+(9) The Commission shall have power to compound any offence under
+this Act by accepting such sums of money as it deems fit in the circumstance
+but not exceeding double of the minimum fine to which the offender would
+have been liable if he had been convicted of the offence.
+45. Any person who aids or procures another person to commit an Aiding and
+offence under this Act is guilty of an offence and shall be liable on conviction procuring
+to the same punishment as prescribed under this Act for the commission of copyright
+offence.
+the main offence.
+46.—(1) Where an offence under this Act is committed by a body Offence by
+corporate, the body corporate and its principal officers are deemed to have bodies
+corporate.
+committed the offence and liable to be proceeded against and punished
+accordingly, provided that nothing contained in this subsection shall render
+any person liable to any punishment, if he proves that the offence was
+committed without his knowledge or that he exercised all due diligence to
+prevent the commission of the offence.
+(2) Notwithstanding anything contained in subsection (1), where an
+offence under this Act has been committed by a body corporate and it is
+proved that the offence was committed with the consent or connivance of any
+director, manager, secretary or other officer of the body corporate such director,
+manager, secretary or other officer shall also be deemed to have committed
+that offence and shall be liable to be proceeded against and punished
+accordingly.
+A 210 2023 No. 8 Copyright Act, 2022
+(3) For the purposes of this section —
+(a) “body corporate” includes a firm or other association of
+persons ; and
+(b) “director” in relation to a firm includes a partner in the firm.
+(4) Where a body corporate is convicted of an offence under this Act,
+the court may order that its assets and properties be forfeited unless the body
+corporate proves to the satisfaction of the court that such assets were not
+proceeds of the offence for which the body corporate was convicted.
+Simultaneous 47. Notwithstanding the provisions of any law to the contrary, it shall be
+actions. permissible for both criminal and civil actions to be taken simultaneously in
+respect of the same infringement under this Act.
+PART VI — ANTI-PIRACY AND OTHER MEASURES
+Duty to 48.—(1) A person carrying on the business of production or reproduction
+keep of works including publishers, printers, producers, manufacturers and
+records.
+aggregators of works in which copyright subsists shall keep a record of all
+works dealt with in the course of their business, showing the following —
+(a) name of the author ;
+(b) title of the work ;
+(c) date of use or production ;
+(d) quantity of the work used or produced ; and
+(e) any other information as may be prescribed by the Commission.
+(2) Any person who —
+(a) fails to keep the record required under this section,
+(b) makes or causes to be made a false entry in a record, or
+(c) produces, tenders or causes to be produced or tendered as evidence
+any entry knowing the same to be false,
+commits an offence under this section and is liable on conviction to a fine of at
+least N100,000 or imprisonment for a term of at least one year or both.
+(3) A copyright owner or any person having an interest in a work shall,
+on written demand, be furnished with information relating to the work as
+contained in the record kept under this section.
+Anti-piracy 49.—(1) The Commission shall have powers, with the consent of the
+measures. Minister, to prescribe any design, label, mark, impression or any other anti-
+piracy device for use on, in, or in connection with any work in which copyright
+subsists.
+Copyright Act, 2022 2023 No. 8 A 211
+(2) Any person who —
+(a) sells, rents, hires, or
+(b) offers for sale, rental or hire, any work in contravention of the
+prescription made under subsection (1),
+commits an offence and is liable on conviction to a fine of at least N500,000 or
+imprisonment for a term of at least three years or both.
+(3) Any person who without the permission of the Commission —
+(a) imports into Nigeria, or
+(b) has in his possession, any machine, instrument or other contrivance
+intended to be used for the production of anti-piracy device,
+commits an offence and is liable on conviction to a fine of at least N1,000,000
+or imprisonment for a term of at least five years, or both.
+(4) Any person who without the permission of the Commission —
+(a) reproduces, or
+(b) counterfeits, any anti-piracy device prescribed under this section,
+commits an offence and is liable on conviction to a fine of at least N500,000 or
+imprisonment for a term of at least three years or both.
+(5) Any person who without the permission of the Commission, is in
+possession of any anti-piracy device prescribed under this section, unless he
+proves to the satisfaction of the court that he did not know and had no reason
+to believe that such device was a prescribed anti-piracy device, commits an
+offence and is liable on conviction to a fine of at least N100,000 or imprisonment
+for a term of at least one year or both.
+(6) The Commission shall have power, with the consent of the Minister,
+to make regulations specifying the conditions necessary to give effect to the
+purpose of this section.
+50.—(1) Subject to the provisions of Part II of this Act, no person shall Circumvention
+knowingly circumvent a technological protection measure that effectively of
+technological
+protects access to a work protected under this Act.
+protection
+(2) No person shall manufacture, import, sell, offer for sale, provide, or measures.
+otherwise traffic in any technology, product, service, device, or part, that —
+(a) is primarily designed or produced for the purpose of circumventing
+protection afforded by a technological protection measure that effectively
+protects a work under this Act ;
+(b) has only limited commercially significant purpose or use other than
+to circumvent protection afforded by a technological measure that protects
+a work under this Act ; and
+A 212 2023 No. 8 Copyright Act, 2022
+(c) is sold or distributed for use in circumventing a technological protection
+measure that effectively protects a work under this Act.
+(3) In this section —
+(a) “technological protection measure” means a technology, device,
+product or component incorporated into the work which is designed to
+effectively prevent or inhibit the infringement of any copyright or related
+right ;
+(b) “circumvent a technological protection measure” as used means
+avoiding, bypassing, removing, deactivating, decrypting or otherwise impairing
+a technological protection measure ; and
+(c) a technological protection measure effectively protects a work under
+this Act, if the measure in the ordinary course of its operation, controls
+access to a work protected under this Act or prevents or restrict acts in
+respect of the works, which are not authorised by the authors concerned or
+permitted by law, provided that this section does not extend to measures,
+which in the normal cause of operation, only controls access to a work for
+non-infringing purposes.
+(4) A non-profit library, archive or educational institution, which gains
+access to a commercially exploited copyright work in order to make a good
+faith determination only, of whether to acquire a copy of the work for the
+purpose of engaging in conduct permitted under this Act shall not be in violation
+of the provisions of this section, provided that a copy of a work to which
+access has been gained under this subsection may not be —
+(a) retained longer than necessary to make the good faith
+determination ; and
+(b) used for any other purpose.
+(5) The exemption under subsection (4) shall only apply with respect to
+a work, when an identical copy of that work is not available in another form.
+(6) This section does not prohibit any lawfully authorised investigation,
+protection, information security, intelligence activity, or computer security
+measures.
+(7) The provisions of this section shall not affect the exercise of any
+exception provided in this Act as it relates to the work in respect of which the
+technological protection measure is applied.
+(8) Notwithstanding the provisions of this section, a person who has
+lawfully obtained the right to use a copy of a computer programme, may —
+(a) circumvent a technological measure that effectively controls access
+to a particular portion of that programme for the sole purpose of identifying
+and analysing those elements of the programme ;
+Copyright Act, 2022 2023 No. 8 A 213
+(b) be necessary to achieve interoperability of an independently created
+computer programme with other programmes ; or
+(c) have not previously been readily available to the person engaging in
+the circumvention, to the extent that any acts of identification and analysis
+do not constitute infringement under this Act.
+(9) For the purpose of subsection (9), the term “interoperability” means
+the ability of computer programmes to exchange information and mutually use
+the information, which has been exchanged.
+51.—(1) A person shall not knowingly and with the intent to induce, Falsification,
+enable, facilitate, or conceal infringement, provide rights management alteration or
+information that is false. removal of
+rights
+(2) A person shall not, without the authority of the copyright owner — management
+information.
+(a) knowingly remove or alter any rights management information ; or
+(b) sell, offer for sale, distribute, import for distribution, broadcast or
+communicate to the public, works or copies of works, knowing or having
+reasonable grounds to know that rights management information has been
+removed or altered without authority, and that it will induce, enable, facilitate,
+or conceal an infringement of any right under this Act.
+(3) In this section, “rights management information” means information
+which identifies a work or other subject matter, the author, owner or any right
+in it including information about the terms and conditions of its use and any
+number or code that represents such information, attached to, or appearing in
+connection with the communication to the public of a work or subject matter.
+52.—(1) A person whose right is violated under sections 50 or 51 of this Actions for
+Act may institute an action before a court of competent jurisdiction to seek circumvention
+of
+redress for damages, accounts or injunction as are available to a plaintiff in
+technological
+any similar proceedings in respect of infringement of other proprietary rights.
+protection
+measures and
+(2) A court before which an action is brought under this section, may
+rights
+order that any device or product that is in the custody or control of the alleged
+management
+violator, which the court has reasonable cause to believe was involved in the information.
+violation be impounded on such terms as it deems necessary.
+(3) Any person who, in the course of business, makes or imports into
+Nigeria a technology or device for the circumvention of a technological
+protection measure, knowing that it is likely to be so used, commits an offence
+and is liable on conviction to a fine of at least N1,000,000 or to imprisonment
+for a term of at least five years or both
+A 214 2023 No. 8 Copyright Act, 2022
+(4) Any person who, in the course of business, sells, distributes, lets for
+hire, offers or exposes for sale or hire, a technology or device for the
+circumvention of a technological protection measure, knowing that it is likely
+to be so used, commits an offence and is liable on conviction to a fine of at
+least N500,000 or imprisonment for a term of at least three years or both.
+(5) Any person who, in the course of business, provides a service to
+another knowing that the service is to enable or assist that other person to
+circumvent a technological protection measure, commits an offence and is
+liable on conviction to a fine of at least N200,000 or imprisonment for a term
+of at least one year or both.
+(6) Any person who, with the intention of infringing copyright in the
+work concerned —
+(a) removes, erases or alters any rights management information which
+is attached to or incorporated in or appears with a work ; or
+(b) sells or lets for hire or offers or exposes for sale or hire any work
+from which rights management information has been removed, erased or altered,
+shall be guilty of an offence and liable to a fine of not less than N200,000 or to
+imprisonment for a term of not less than one year or both.
+(7) It shall be a defence, in a prosecution for an offence under subsection
+(6), for the accused person to prove that the removal, erasure or alteration of
+the rights management information concerned was reasonably incidental to
+any use of or dealing with the work concerned which did not amount to an
+infringement of any copyright in the work.
+Restriction 53.—(1) The owner of copyright in a work may give notice in writing to
+on the Director-General, requesting the Commission to notify the Nigerian
+importation.
+Customs Service, during the period specified in the notice, to treat as prohibited
+goods any work in respect of which the right has been infringed.
+(2) The Director-General shall, upon receipt of a notice under subsection
+(1) or upon reasonable suspicion that an infringing copyright work is being
+imported, notify the Comptroller-General of Customs or any other officer in
+charge of the relevant border, furnishing him with information that may be
+relevant for the purpose of identifying and intercepting the infringing work
+which is the subject matter of the notice or suspicion.
+(3) On receipt of the notice from the Director-General under this section,
+the Comptroller-General of Customs or such other officer, shall intercept and
+impound the infringing works and shall permit the Director-General or any
+person acting on his behalf to inspect the impounded works and take custody
+of same pending the commencement of any proceedings in accordance with
+the provisions of this Act, provided that the inspection shall not be invalidated
+by the absence of the importer.
+Copyright Act, 2022 2023 No. 8 A 215
+(4) Any work or material impounded under this section shall not be
+kept for a period exceeding 10 working days, which may be extended by
+another 10 working days, within which the right owner or the Commission
+shall decide whether to initiate any proceedings in accordance with the
+provisions of this Act.
+(5) Where an infringing work is intercepted or impounded under this
+section, the Comptroller-General or any other officer in charge of the relevant
+border shall notify the importer and the right holder or their authorised
+representatives, stating the reasons for the action taken.
+(6) The period specified in the notice under subsection (1) shall not
+exceed five years nor extend beyond the end of the period for which the
+copyright subsists.
+(7) Where a notice has been given under subsection (1), the importation
+into Nigeria or exportation from Nigeria during the period specified in the
+notice, except for private and domestic use, of any works to which the notice
+relates shall be prohibited.
+(8) The Director-General or any person acting on his behalf may enter
+any vehicle, aircraft, ship, vessel, dock, or premises to examine the works
+which is the subject of the notice under subsection (1) and take further action
+in accordance with the provisions of this Act.
+(9) Any person giving notice under subsection (1) shall be required to
+undertake to any person, agency or official likely to suffer any damage or loss
+that may result from any action taken in respect of the notice, where it is
+found that the notice ought not to have been given.
+(10) Without prejudice to subsections (1) and (2), the Comptroller-
+General of Customs, or any other officer in charge of a border may, in respect
+of any imported goods, which he reasonably believes to be infringing copyright,
+suspend the release of such goods and promptly notify the importer and the
+right owner of the work.
+(11) This section shall apply to works made within or outside Nigeria,
+which if made or manufactured in Nigeria, would be an infringement under
+this Act.
+(12) The Commission may prescribe the forms, fees and any other
+requirements for giving notice under this section.
+A 216 2023 No. 8 Copyright Act, 2022
+PART VII — PROVISIONS RELATING TO ONLINE CONTENT
+Notice to 54.—(1) The owner of copyright in a work, in respect of which copyright
+take down. has been infringed, may issue notice of the infringement to the relevant service
+provider requesting the service provider to take down or disable access to any
+infringing content or link to the content, hosted on its system or network.
+(2) A notification under subsection (1), shall be in writing and may be
+transmitted electronically, or by any other means, to the service provider or
+his designated agent and shall include —
+(a) a physical or electronic signature of a person authorised to act on
+behalf of the owner of the right allegedly infringed ;
+(b) identification of each work claimed to have been infringed ;
+(c) identification of the infringing material or the subject of infringing
+activity that is to be removed or access to which is to be disabled, including
+information sufficient to enable the service provider to locate the material ;
+(d) information sufficient to enable the service provider to contact the
+complaining party, such as an electronic mail address, telephone number, or
+a location address at which the complaining party may be contacted ;
+(e) a declaration on oath that the complainant believes that the use of
+the material in the manner complained of is not authorised by the owner of
+copyright, his agent or the law ; and
+(f ) a statement that the information in the notification is accurate and
+that the complainant is authorised to act on behalf of the owner of the right
+allegedly infringed.
+55.—(1) A service provider, upon receiving notice of infringement under
+Take down
+of infringing section 54 of this Act shall promptly notify the subscriber responsible for the
+content. content for which the notice relates informing him of the content of the notice,
+and shall expeditiously take down or disable access to the infringing content
+or links to such content hosted on its system or network and, thereafter, notify
+the owner of the copyright accordingly.
+(2) The service provider may resume access to or restore the content
+or link that has been removed, if he —
+(a) receives a written counter notice from the subscriber which he has
+forwarded to the owner of copyright immediately on receipt ; and
+(b) did not receive, within seven days after forwarding the counter
+notice, a response from the owner of copyright, indicating that no authorisation
+has been granted for the subscriber to make the content available.
+(3) A service provider shall take effective steps, in accordance with
+high industry standards, to prevent any content taken down or removed under
+the provisions of this Act from being reloaded onto its system or network and
+Copyright Act, 2022 2023 No. 8 A 217
+if despite taking the steps, the removed content is reloaded onto its system or
+network, on becoming aware of such content being reloaded, shall promptly
+remove or disable access to the content without further notice to the subscriber.
+(4) A person dissatisfied with a determination or action by the service
+provider or owner of copyright under this section may refer the matter to the
+Commission for determination.
+(5) A service provider shall not be liable to any person for any action
+taken under this section in good faith.
+(6) A service provider who fails to comply with the provisions of
+subsections (1) and (2), shall be liable for such failure as a breach of statutory
+duty and for infringement of the content which is the subject matter of the
+notice under section 54 to the same extent as the person responsible for placing
+the content on the system or network.
+56.—(1) A service provider, upon receiving repeated notifications of Procedure
+infringements for a particular account, shall — for
+suspension
+(a) promptly send a warning to the subscriber that has been identified, of accounts
+informing him that another notification will lead to suspension of the account of repeat
+and requiring the subscriber to confirm the receipt of the warning ; and infringers.
+(b) after a second notification relating to the same account, where no
+challenge is pending under subsection (2), shall suspend the account for a
+period of not less than one month.
+(2) A subscriber who receives a warning notice may challenge the
+notice on the grounds of mistake or misidentification —
+(a) within 10 days from the date of the warning, send a signed counter-
+notice to the service provider, furnishing his full contact details and the
+factual basis of his belief that his account has been misidentified or that the
+use of the content was not infringing ; or
+(b) If the basis for the challenge under paragraph (a) cannot be resolved
+within 10 days of the receipt of the counter-notice, the matter shall be
+referred to the Commission to determine the validity of the challenge.
+(3) A service provider acting in good faith in suspending the account of
+a subscriber, relying on the information contained in a notification referred to
+in subsection (2), shall not be liable to any person for any claim based on the
+suspension.
+57. A person who knowingly misrepresents under this section, that —
+Misrepresenta-
+(a) material or activity is infringing, or tion.
+(b) material or activity was removed or disabled by mistake or
+misidentification,
+A 218 2023 No. 8 Copyright Act, 2022
+is liable in damages for injuries suffered by the person as a result of the
+service provider relying on such misrepresentation.
+Information 58. Except as otherwise provided in this Act, a service provider shall
+domiciled in not be liable for monetary relief for infringement of copyright or other subject
+systems or
+matter by reason of the storage at the direction of a user of material that
+networks at
+resides on a system or network controlled or operated by or for the service
+direction of
+users. provider, if the service provider —
+(a) does not have actual knowledge that the material or an activity
+using the material on the system or network is infringing or in the absence
+of such actual knowledge, is not aware of facts or circumstances from
+which infringing activity is apparent or upon obtaining such knowledge
+or awareness, acts expeditiously to remove, or disable access to, the
+material ;
+(b) does not receive a financial benefit directly or indirectly attributable
+to the infringing activity, where the service provider has the right and ability
+to control such activity ;
+(c) on notification of infringement as provided for in section 54 of this Act,
+responds expeditiously to remove or disable access to the material that is
+claimed to be infringing or to be the subject of infringing activity ; and
+(d) complies with the procedure for suspension of accounts of repeat
+infringers as provided in section 54 of this Act.
+Information 59. Except as otherwise provided in this Act, a service provider shall
+location not be liable for monetary relief for infringement of copyright or other subject
+tools.
+matter by reason of the provider referring or linking users to an online location
+containing infringing material or infringing activity, by using information location
+tools, including a directory, index, reference, pointer, or hypertext link, if the
+service provider —
+(a) does not have actual knowledge that the material or activity is
+infringing, or in the absence of such actual knowledge, is not aware of facts
+or circumstances from which infringing activity is apparent or upon obtaining
+such knowledge or awareness, acts expeditiously to remove or disable access
+to the material ;
+(b) does not receive, financial benefit directly attributable to the infringing
+activity, where the service provider has the right and ability to control such
+activity ; and
+(c) on notification of infringement under section 54 of this Act, responds
+expeditiously to remove or disable access to, the material that is claimed to
+be infringing or to be the subject of infringing activity.
+Copyright Act, 2022 2023 No. 8 A 219
+60.—(1) An owner of copyright or other subject matter under this Act Identification
+or his agent may apply to the court for an order to a service provider to of infringer.
+identify an alleged infringer in accordance with this section.
+(2) The application referred to in subsection (1) shall be accompanied
+with a —
+(a) copy of the notification described in section 54 of this Act ; and
+(b) sworn declaration to the effect that the purpose for which the order
+is sought is to obtain the identity of an alleged infringer and that such
+information will only be used for the purpose of protecting rights under this
+Act.
+(3) The court may issue an order to the service provider to expeditiously
+disclose to the owner of copyright or other subject matter under this Act or a
+person authorised by the owner, information sufficient to identify the alleged
+infringer of the material described in the notification to the extent that the
+information is available to the service provider.
+61. Notwithstanding the provisions of any other law, the Commission Blocking
+may, directly or with the assistance of any other person block or disable access access to
+to any content, link or website hosted on a system or network, which it online
+content.
+reasonably believes to infringe copyright under this Act.
+62.—(1) The limitations to liability under this Part shall apply only to — Application
+of this Part.
+(a) the neutral, automatic and passive activities of a service provider ;
+and
+(b) service providers who —
+(i) do not take an active role, intervene or participate in the making
+available of content, and
+(ii) designate an agent or an address, on their website, to receive
+notices under this Part.
+(2) The provisions of this Part shall be without prejudice to the powers
+of the court or any administrative authority to require or direct the service
+provider to terminate or prevent an infringement.
+PART VIII — PERFORMER’S RIGHTS
+63.—(1) A performer shall have the exclusive right to control, in relation Rights of
+to his performance, the acts of — performers.
+(a) fixation of his unfixed performance ;
+(b) reproduction of a fixation of his performance, in any manner or
+form, if the —
+A 220 2023 No. 8 Copyright Act, 2022
+(i) original fixation, other than a fixation excluded by section 68 from
+the necessity for obtaining the consent of the performer, was itself made
+without his consent ;
+(ii) reproduction is made for purposes other than those in respect of
+which such performer gave his consent to the making of the original
+fixation or of a reproduction ; or
+(iii) original fixation was made in accordance with the provisions of
+section 68 and the reproduction is made for purposes not covered by
+those provisions ;
+(c) distribution to the public by sale or other transfer of ownership, of a
+fixation of his performance, or copies, that have not been subject to a
+distribution authorised by the performer ;
+(d) broadcasting or communicating to the public an unfixed performance
+of such performer, unless the performance used in the broadcast or
+communication to the public is itself a broadcast performance ;
+(e) renting or lending to the public or public lending of a fixation or
+copies of the fixation of his performance irrespective of the ownership of
+the copy rented or lent ; and
+(f ) making available to the public of his fixed performance by wire or
+wireless means, in a way that members of the public may access them
+from a place or at a time individually chosen by them.
+(2) In this Part, “performance” includes a —
+(a) dramatic performance, which includes dance and mime;
+(b) musical performance ; and
+(c) reading or recitation of literary act or any similar presentation which
+is a live performance given by one or more individuals.
+(3) In this Part, “performer” includes actors, singers, musicians, dancers,
+and other persons, who act, sing, deliver, declaim, play in, interpret, or otherwise
+perform literary or artistic works or expressions of folklore irrespective of
+whether the work was fixed or only fixed during performance.
+Protected 64. —(1) The rights granted to a performer under this Act shall apply in
+performance. respect of any performance if —
+(a) on the date of the performance, at least one of the performers is a
+citizen of, or habitually resident in, Nigeria, or
+(b) the performance takes place or is first fixed in Nigeria or in a country
+which is a party to an obligation in a treaty or other international agreement
+to which Nigeria is party.
+Copyright Act, 2022 2023 No. 8 A 221
+(2) Where the question arises as to whether a country is a party to an
+obligation in a treaty or other international agreement to which Nigeria is also
+a party, a certification from the Commission to that effect shall be conclusive
+proof of that fact.
+65. In the absence of express agreement to the contrary, a performer’s Presumption
+consent to the broadcasting of his performance shall be deemed to include his of consent.
+consent to an authorised rebroadcasting of his performance, the fixation of his
+performance for broadcasting purposes and the reproduction for broadcasting
+purposes of such fixation.
+66.—(1) A performer shall have the right to — Moral rights
+of
+(a) be identified as the performer in connection with any use of his
+performers.
+performance or the fixation ; and
+(b) object, and prevent any distortion, mutilation or other modification of
+his performance or the fixation of the performance, and any other derogatory
+action in relation where such action will be or is prejudicial to his honour or
+reputation.
+(2) The rights referred to in subsection (1), shall not be transmissible
+during the life of the performer, but upon his death, shall be transmissible by
+testamentary disposition or by operation of law.
+(3) The rights conferred by this section shall subsist for the duration of
+the performer’s right.
+67. Where several performers as a group take part in the same Collective
+performance, it shall suffice, if the consent required under section 65 of this performances.
+Act, is given by any person in charge of the group and any payment for the
+use of the performance may, unless otherwise stipulated, be made to such
+person and, subject to any contract between them, be divided equally among
+all the performers.
+68.—(1) Where a performer consents to the inclusion of his performance Exceptions
+in a visual or audio-visual fixation, section 65 of this Act shall cease to apply in to
+respect of the performance. performer’s
+rights.
+(2) The provisions of Part II of this Act, shall apply, with necessary
+modifications, in respect of performances.
+(3) Notwithstanding subsection (2), a performance, a fixation of a
+performance or a reproduction of such a fixation may be used without the
+consent required under section 63 of this Act, if it is for the purpose of —
+(a) demonstration in good faith of radio or television receivers or recording
+or playback equipment to clients by a dealer in those receivers or that
+equipment on his premises ;
+A 222 2023 No. 8 Copyright Act, 2022
+(b) reproduction of short extracts from an object of performer’s rights
+in reports on current events, to the extent justified by that purpose ;
+(c) research or private study of an object of performer’s rights kept in
+publicly accessible libraries, educational establishments, museums or
+archives, on the premises of the said institutions ;
+(d) reproduction for the benefit of people with a disability, which is
+directly related to the disability and of a non-commercial nature, to the
+extent required by the disability ; and
+(e) making of an ephemeral recording of an object of performer’s rights
+by broadcasting organisations by means of their own facilities and for their
+own broadcasts :
+Provided that –
+(i) the recordings may be preserved for a period not more than 30
+days and must be erased after their use for broadcasting, and
+(ii) the recordings of an exceptional documentary character may be
+transferred to designated archives for preservation.
+Transfer of 69.—(1) The provisions of section 30 of this Act shall apply to
+performer’s performer’s rights subject to any modifications as may be necessary.
+rights in
+(2) A performer who has authorised the fixation of his performance in
+audio-visual
+fixations. an audio-visual work shall, in the absence of any agreement to the contrary,
+be deemed to have granted to the person by whom the arrangements for such
+fixation is made, the exclusive rights under section 63 (1) of this Act.
+(3) Notwithstanding the provision of subsection (2), a performer shall
+be entitled to share in any payment received by the person who arranges for
+the fixation of the audiovisual work in respect of the broadcast or
+communication to the public of the fixed performance.
+Duration of 70. The right conferred by section 63 of this Act in relation to a
+performer’s performance shall subsist for a period of 50 years commencing from the end
+right. of the year when the performance was first fixed.
+Infringement 71. Performer’s right is infringed by a person who, without the
+of performer’s consent or authorisation —
+performer’s
+(a) does or causes any person to do any of the acts provided in section
+right.
+63 of this Act ;
+(b) broadcasts a substantial part of the live performance by means of a
+recording, which the person knows or has reason to believe was made
+without the performer’s consent ;
+(c) imports for reasons other than his private or domestic use a recording
+of a performer’s work which is an infringing recording ; or
+Copyright Act, 2022 2023 No. 8 A 223
+(d) in the course of trade or business, sells or lets for hire, offers,
+distributes or displays for sale or hire, a recording of a performer’s work
+which is an infringing recording.
+72.—(1) An infringement of a right protected under sections 63 and 66 Action for
+of this Act, shall be actionable as a breach of statutory duty and the person infringement
+of
+having the right shall be entitled to damages, injunction, and account of profits
+performer’s
+or conversion.
+right.
+(2) Where a person, in the course of trade or business, has in his
+possession, custody or control, an unauthorised recording of a performance,
+the person having the performer’s right or recording right in relation to the
+performance, shall be entitled to an order of the court that the recording be
+forfeited and delivered up to him.
+73.—(1) A person who, without the consent or authorisation of the Criminal
+performer, does any of the acts set out in section 71, unless he proves to the liability in
+respect of
+satisfaction of the court that he did not know that his conduct was an
+infringement
+infringement of the performer’s right, commits an offence and is liable on
+of
+conviction in the case of — performer’s
+right.
+(a) an individual, to a fine of at least N100,000 or imprisonment for a
+term of at least one year or both ; and
+(b) a body corporate, to a fine of at least N2,000,000.
+(2) A court before which an offence under this section is tried may
+order that the recording or any other part be delivered to the person entitled to
+the performer’s right.
+PART IX — EXPRESSIONS OF FOLKLORE
+74.—(1) Expressions of folklore are protected against — Protection of
+expressions
+(a) reproduction ;
+of folklore.
+(b) communication to the public by performance, broadcasting, distribution
+by cable or other means ; and
+(c) adaptations, translations and other transformations, when such
+expressions are made either for commercial purpose or outside their
+traditional or customary context.
+(2) The right conferred by subsection (1) shall not include the right to
+control —
+(a) the doing of any of the acts by way of fair dealing for private and
+domestic use, subject to the condition that if, the use is public, it shall be
+accompanied by an acknowledgment of the title of the work and its source ;
+(b) the utilisation for purposes of education ;
+A 224 2023 No. 8 Copyright Act, 2022
+(c) utilisation by way of illustration in an original work of an author ;
+(d) the borrowing of expressions of folklore for creating an original
+work of an author; provided that the extent of such utilisation is compatible
+with fair practice ; or
+(e) the incidental utilisation of expressions of folklore.
+(3) In all printed publications or any communication to the public of any
+identifiable expression of folklore, its source shall be indicated in an appropriate
+manner, by stating the community or place from where the expression utilised
+has been derived.
+(4) The right to authorise acts referred to in subsection (1) vests in the
+Commission.
+(5) For the purpose of this section, “folklore” means a group-oriented
+and tradition-based creation of groups or individuals reflecting the expectation
+of the community as an adequate expression of its cultural and social identity,
+its standards and values as transmitted orally, by imitation or by other means
+including —
+(a) folklore, folk poetry, and folk riddles ;
+(b) folk songs and instrumental folk music ;
+(c) folk dances and folk plays ; and
+(d) productions of folk arts in particular, drawings, paintings, carvings,
+sculptures, pottery, terracotta, mosaic, woodwork, metal ware, jewellery,
+handicrafts, costumes, and indigenous textiles.
+Infringement 75. Any person who, without the consent of the Commission, uses an
+of expression of folklore in a manner not permitted by section 73 of this Act, is in
+expressions
+breach of statutory duty and is liable to the Commission in damages, injunctions
+of folklore.
+and any other remedies as the court may deem fit to award in the circumstance.
+Criminal 76.—(1) Any person who intentionally or for commercial purpose –—
+liability in
+(a) does any of the acts set out in section 73 of this Act without the
+respect of
+infringement consent or authorisation of the Commission, or
+of (b) misrepresents the source of an expression of folklore, or
+expressions (c) distorts an expression of folklore in a manner prejudicial to the honour,
+of folklore.
+dignity or cultural interests of the community in which it originates,
+commits an offence under this Act.
+(2) A person convicted of an offence under subsection (1), commits an
+offence is liable on conviction in the case of —
+(a) an individual, to a fine of at least N100,000 or imprisonment for a
+term of at least one year or both ; and
+(b) a body corporate, to a fine of at least N2,000,000.
+Copyright Act, 2022 2023 No. 8 A 225
+(3) A court before which an offence under this section is tried, may
+order that the infringing or offending article be delivered to the Commission.
+PART X—ESTABLISHMENT OF NIGERIAN COPYRIGHT COMMISSION
+AND COPYRIGHT ADMINISTRATION
+77.—(1) There is established the Nigerian Copyright Commission (in Establishment
+this Act referred to as “the Commission”). of the
+Nigerian
+(2) The Commission — Copyright
+Commission.
+(a) shall be a body corporate with perpetual succession ;
+(b) shall have a common seal ;
+(c) may acquire, hold or dispose any interest in property ; and
+(d) may sue and be sued in its corporate name.
+78.—(1) Subject to the provisions of this Act, the Commission shall — Functions
+and powers
+(a) be responsible for all matters relating to copyright, including of the
+administration, regulation and enforcement in Nigeria ; Commission.
+(b) monitor and advise Government on Nigeria’s position in relation to
+bilateral and multilateral agreements between Nigeria and any other country ;
+(c) investigate and redress cases of infringement of copyright and settle
+disputes of copyright, where those disputes have not been specifically
+reserved for settlement under this Act ;
+(d) enlighten and inform the public on matters relating to copyright ;
+(e) create and maintain a register and database relating to copyright
+works ;
+(f ) provide access to documents and information relating to any copyright
+kept or maintained by the Commission ;
+(g) be responsible for such other matters as relate to copyright in
+Nigeria ; and
+(h) exercise any other functions and duties as may be necessary for the
+attainment of the object of this Act.
+(2) Subject to the provisions of this Act, the Commission shall have
+powers to —
+(a) prosecute, conduct or defend before a court any charge, information,
+complaint or other proceedings arising under this Act ;
+(b) levy such charges or fees as may be reasonable for services and
+facilities provided by the Commission ;
+(c) regulate and implement measures to promote protection of copyright ;
+(d) regulate the conduct of collective management of rights ; and
+(e) exercise such other powers as are incidental to any of its objects
+under this Act.
+A 226 2023 No. 8 Copyright Act, 2022
+(3) In exercising its powers of enforcement and compliance, the
+Commission shall have power to —
+(a) demand for evidence of compliance from persons, public or private
+institutions and organisations ;
+(b) caution a non-compliant person or entity in writing ;
+(c) sanction a non-compliant person or entity by the imposition of
+administrative fines ;
+(d) institute criminal-proceedings against a non-compliant person or
+entity ;
+(e) institute civil actions against the defaulting person or entity ; and
+(f ) obtain a court warrant or order to seize or detain any book, record,
+document or other information storage system or database which use does
+not conform with the provisions of the Act or relevant regulations made
+under this Act.
+79.—(1) The Commission shall have a Governing Board (in this Act
+Establishment
+and referred to as “the Board”) which shall consist of the following members —
+membership
+(a) a Chairman to be a person knowledgeable in copyright matters, to
+of the
+Governing be appointed by the President on the recommendation of the Minister ;
+Board. (b) the Director-General of the Commission ;
+(c) one representative of the Federal Ministry responsible for Justice ;
+(d) one representative of the Federal Ministry responsible for Culture;
+(e) one representative of the Nigeria Police Force, not below the rank
+of a Commissioner of Police ;
+(f ) one representative of the Nigeria Customs Service, not below the
+rank of a Comptroller of Customs ; and
+(g) six other persons to be appointed by the Minister who shall represent
+as far as possible the authors in the following areas –
+(i) literary works,
+(ii) artistic works,
+(iii) musical works,
+(iv) audiovisual works,
+(v) sound recordings, and
+(vi) broadcasts.
+(2) The representatives of the Ministries shall be officers not below the
+rank of a Director.
+Schedule. (3) The supplementary provisions contained in the Schedule to this Act,
+shall have effect with respect to the proceedings of the Board and other
+matters mentioned in it.
+Copyright Act, 2022 2023 No. 8 A 227
+80.—(1) The Chairman and other members of the Board who are not Tenure of
+ex-officio members shall hold office — office.
+(a) for a term of four years in the first instance and may be re-appointed
+for a further term of four years and no more ; and
+(b) on such terms and conditions as may be specified in their letters of
+appointment.
+(2) Notwithstanding the provisions of section 78 of this Act, the Chairman
+or any member of the Board may at any time be removed from office by the
+President for inability to discharge the functions of his office, whether arising
+from infirmity of mind or body or any other cause or misconduct.
+81. Notwithstanding the provisions of section 79 of this Act, a member Cessation of
+of the Board shall cease to hold office as a member, where — membership.
+(a) he resigns his appointment as a member of the Board by notice
+under his hand addressed to the President ;
+(b) he becomes of unsound mind ;
+(c) he becomes bankrupt ;
+(d) he is convicted of a felony or any other offence involving dishonesty
+or corruption ;
+(e) he becomes incapable of carrying on the functions of his office either
+arising from an infirmity of mind or body ;
+(f ) the President is satisfied that it is not in the interest of the Commission
+or in the interest of the public for the person to continue in office ;
+(g) he has been found guilty under the Code of Conduct or serious
+misconduct in relation to his duties ; or
+(h) in the case of a person who becomes a member by virtue of the
+office he occupies, cease to hold such office.
+82.—(1)Where it appears that the Chairman or any member of the Removal of
+Board, other than an ex-officio member, should be removed from office on the Chairman
+or any
+the grounds of misconduct or inability to perform the functions of his office,
+member of
+the Board shall make recommendation through the Minister to the President
+the Board of
+for approval. the
+Commission.
+(2) Where the President, after making such inquiries as he considers
+necessary and approves the recommendation made through the Minister by
+the Board, the Secretary to the Government of the Federation shall, in writing
+declare the position of such member vacant.
+(3) Notwithstanding the provision of subsection (1), the President may
+remove any member of the Board, where he is satisfied that it is in the interest
+of the Commission and the public to do so.
+A 228 2023 No. 8 Copyright Act, 2022
+Appointment 83.—(1) There shall be for the Commission, a Director-General who
+of the shall be appointed by the President on the recommendation of the Minister.
+Director-
+General and (2) The Director-General shall be a person with proven knowledge of
+other staff of copyright with at least 15 years’ cognate experience in copyright practice and
+the
+administration.
+Commission.
+(3) The Director-General shall be responsible for the day-to-day
+administration of the Commission.
+84. The Director-General, Chairman or any member of the Board may
+Removal of
+the Director- be removed from office by the President on grounds of misconduct or inability
+General, to perform the functions of his office or where the President is satisfied that it
+Chairman is in the interest of the Commission and the public to do so.
+and other
+members of
+the Board.
+Appointment 85. The Commission shall have power —
+of other
+(a) to appoint such other staff as it may determine ;
+staff of the
+(b) to pay its staff such remuneration and allowances as it may
+Commission.
+determine ; and
+(c) as regards any staff in whose case it decides to do so, pay to such
+staff, pensions and gratuities as are payable to persons of equivalent grade
+in the Public Service of the Federation.
+Copyright 86.—(1) The Commission may appoint Copyright Officers as may be
+Officers. necessary for the effective enforcement of the provisions of this Act.
+(2) A Copyright Officer shall, without a warrant have the power to —
+(a) enter, inspect and examine at any reasonable time any building or
+premises which he reasonably suspects is being used for any activity which
+is an infringement of copyright under this Act ;
+(b) arrest any person who he reasonably believes to have committed an
+offence under this Act ;
+(c) make such examination and inquiry as may be necessary to ascertain
+whether the provisions of this Act are complied with ;
+(d) demand the production of any record required to be kept under
+section 48 of this Act and to inspect, examine or copy such record ;
+(e) demand information and access any database relating to copyright ;
+(f ) require any person who, he finds in any building or premises to give
+such information as it is in his power to give in relation to any purpose
+specified in this Act and seize, or take into custody any infringing copy,
+contrivance, material, equipment used or suspected to be used in committing
+an offence under this Act ;
+Copyright Act, 2022 2023 No. 8 A 229
+(g) seal up premises and carry out any examination, test or analysis
+within or outside the premises as may be required to give effect to any of
+the provisions of this Act and may capture any image where such
+examination, test or analysis is within the premises ; and
+(h) exercise such other powers as are necessary for the effective
+discharge of his duties or as the Commission may delegate.
+(3) A person who —
+(a) obstructs, hinders, prevents, or assaults a Copyright Officer in the
+performance of any function or the exercise of any power under this section,
+(b) does anything which impedes or is intended to impede the sealing up
+of premises or removal of books or documents or any other article for the
+purpose of investigation of any contravention of the provisions of this Act
+or regulations made under this Act,
+(c) does anything intended to prevent the procuring or giving of evidence
+in connection with the prosecution for any breach of the provisions of this
+Act, or
+(d) prevents the arrest of any person by a Copyright Officer or rescues
+any person so arrested,
+commits an offence and is liable on conviction to a fine not more than N100,000
+or imprisonment for a term of at least one year or both.
+(4) A Copyright Officer shall have the powers, rights and privileges of a Act No. 2,
+police officer as defined under the Police Act or any other relevant enactment 2020.
+relating to investigation and prosecution of a criminal matter.
+87.—(1) The Commission shall establish and maintain a Register of Registration
+Works (in this Act referred to as “the Register”). of works.
+(2) A person may apply in the prescribed manner to the Commission to
+register a work that is eligible for copyright under this Act.
+(3) Subject to subsection (2), the Commission may enter the particulars
+of the work in the Register, provided that the registration of a work does not
+confer copyright.
+(4) The Register shall at first instance, be evidence of the work and the
+particulars entered in the Register, and any extract from the Register, certified
+by the Commission shall be admissible in evidence in all proceedings without
+further proof or production of the original of the matter certified.
+(5) The Commission shall have power to reproduce and store all or any
+part of a registered work electronically or in any other format.
+(6) The Commission may, with the approval of the Minister, make
+regulations for the purpose of this Part.
+A 230 2023 No. 8 Copyright Act, 2022
+(7) Any person who knowingly makes or causes to be made, a false entry in
+the Register, commits an offence under this section and is liable on conviction
+to a fine of at least N100,000 or imprisonment for a term of at least one year
+or both.
+Collective 88.—(1) A Collective Management Organisation (in this Act referred
+Management to as “CMO”) formed by rights owners may apply to the Commission for
+Organisations.
+approval to operate in respect of any one or more categories of works.
+(2) The Commission may approve a CMO, if it is satisfied that —
+(a) it is incorporated as a company limited by guarantee ;
+(b) its objects are to negotiate, grant copyright licences, collect royalties
+on behalf of copyright owners and distribute such royalties ;
+(c) it represents a substantial number of owners of copyright in any
+category of works protected by this Act ; and
+(d) it complies with the terms and conditions prescribed by regulations
+made by the Commission under this Act.
+(3) The Commission shall not approve another CMO in respect of any
+category of copyright works, if it is satisfied that an existing approved CMO
+adequately protects the interests of copyright owners in that categories of
+works.
+(4) A person or group of persons, however described, shall not perform
+the duties of a CMO without the approval of the Commission as required
+under this Act.
+(5) Any person who contravenes the provisions of subsection (4),
+commits an offence and is liable on conviction in the case of —
+(a) an individual, to a fine of at least N1,000,000 or imprisonment for a
+term of at least five years or both ; and
+(b) a body corporate, to a fine of at least N5,000,000.
+(6)The Commission shall have the power to —
+(a) suspend or revoke the approval given under subsection (2) ;
+(b) review and approve tariffs as may be determined by a CMO ; and
+(c) make regulations specifying the conditions necessary for the effective
+management of CMOs and to give effect to the purposes of this section.
+(7) For the purposes of this section —
+“Collective Management Organisation” means an organisation
+representing copyright owners, which has as its principal objectives the
+negotiating and granting of licences, collecting and distributing of royalties
+in respect of copyright works ;
+Copyright Act, 2022 2023 No. 8 A 231
+“group of persons” includes a body corporate or entity ; and
+“owners of copyright” includes owners of performer’s rights.
+(8) The Commission may, where it finds it expedient, assist in the
+establishment of a CMO for any category of copyright works.
+(9) Notwithstanding the provisions of this Act or any other law, a CMO
+may issue licences permitting the use of works of owners of copyright who
+are not members of the CMO, provided that –
+(a) such works are of the same category as works for which it is
+approved to issue licences ;
+(b) the owners of copyright in such works are not otherwise represented
+by any other CMO ;
+(c) there is not more than one CMO approved to operate in the particular
+category of works concerned ;
+(d) the owners of copyright in such works have not by written notice to
+the CMO, opted out of collective management of their rights ; and
+(e) the CMO does not discriminate against such owners in terms of the
+tariffs for the use of their works and the payment of royalties to such
+owners.
+89.—(1) There shall be paid a levy on any material used or capable of Levy on
+being used to infringe copyright in a work. copyright
+material.
+(2) The levy payable under subsection (1) and any exemptions from
+such payment shall be as may be prescribed by the Minister by an order and
+different levies may be imposed on different categories of material.
+(3) The levy payable under this section shall, subject to approved
+deductions, be paid into the Fund of the Commission and the Commission shall
+have power to disburse the funds to approved CMOs or other representatives
+of right owners, in accordance with the regulations made by the Commission.
+(4) The Minister shall have power to exempt any class of materials from
+the repayment of any levy.
+(5) In this section, “material” includes any object, equipment, machine,
+contrivances or any other device, including electronic or digital systems, used
+or capable of being used to infringe copyright in a work.
+90.—(1) The Commission may constitute a Dispute Resolution Panel Dispute
+(in this Act referred to as “the Panel”) to resolve any dispute arising from — Resolution
+Panel.
+(a)payment of royalties ;
+(b)terms of a licence ; or
+(c) any matter in respect of which a determination by the Commission is
+required under this Act.
+A 232 2023 No. 8 Copyright Act, 2022
+(2) A Panel established under subsection (1), shall comprise of three
+persons knowledgeable in copyright matters, one of whom shall be designated
+as the Chairman.
+(3) A person shall not be appointed as a member of the Panel if he has
+any interest in any matter which is required to be determined by the Panel.
+(4) Where a proceeding before a Panel under this section has commenced
+and a member of the Panel is unable to continue as a member, the Panel shall
+remain duly constituted for the purpose of that proceeding with the remaining
+two members.
+(5) The Commission shall with the approval of the Minister, make
+regulations providing for the procedure and operations of the Panel.
+(6) Any person dissatisfied with a decision of the Panel may apply to the
+Court for a review of the decision.
+PART XI —FINANCIAL PROVISIONS
+Establishment 91.—(1) The Commission shall establish and maintain a Fund which
+of Fund for shall be applied towards the promotion of the objectives specified in this Act.
+the
+Commission. (2) There shall be paid and credited to the Fund established under
+subsection (1) —
+(a) government statutory allocations and grants as may be provided by
+the Government of the Federation or appropriated by the National Assembly
+for payment into the Fund of the Commission ;
+(b) such money as may be lent or granted to the Commission by the
+Federal Government, State or Local Government ;
+(c) all charges, dues, fees or amount recovered by the Commission and
+dividends from investment ;
+(d) deductions as may be approved under section 89 of this Act ;
+(e) all money raised for the general purpose of the Commission with the
+approval of the Board ; and
+(f ) foreign aids and assistance from bilateral and multilateral agencies.
+Expenditure 92. The Commission shall apply the Fund established under this Act to —
+of the
+(a) perform its statutory functions under this Act and development
+Commission
+activities in the capital projects of the Commission ;
+(b) pay approved allowances and expenses of members of the Board ;
+(c) pay salaries, allowances and other benefits of officers of the
+Commission ;
+(d) maintain properties acquired or vested in the Commission ; and
+(e) undertake any other activity in connection with the objects of
+this Act.
+Copyright Act, 2022 2023 No. 8 A 233
+93.—(1) The Commission shall not later than 30 September of each Annual
+year, submit to the Board for approval its estimates of income and expenditure estimates,
+accounts and
+for the next financial year.
+audit.
+(2) The Commission shall —
+(a) keep proper records of all accounts of its income and expenditure ; and
+(b) prepare statement of account in respect of each financial year.
+(3) The Commission shall prepare and submit its accounts to auditors in
+accordance with laid down guidelines and rules.
+94.—The Commission shall submit its annual report to the Board, which Annual
+shall include — report.
+(a) information on the activities of the Commission for the previous
+year ; and
+(b) a copy of the audited accounts of the Commission for the previous
+year.
+95.—(1) The Commission may, in accordance with the financial Borrowing
+regulations prescribed by government, borrow by way of loan or overdraft and
+investment
+from any source, any specified amount of money required by the Commission
+powers of
+for its obligations and functions under this Act.
+the
+Commission.
+(2) The Commission may, subject to the provisions of this Act and the
+conditions of any trust created in respect of any property, invest any of its
+funds in line with the financial regulations prescribed by government.
+PART XII — MISCELLANEOUS PROVISIONS
+96.—(1) The Commission may accept gift of land, money or other Power to
+property upon such terms and conditions, if any, as may be specified by the accept gifts.
+person or organisation making the gift.
+(2) The Commission shall not accept any gift where the conditions
+attached by the person or organisation making the gift are inconsistent with
+the functions and objectives of the Commission.
+(3) A gift donated to the Commission or project of the Commission shall
+be made directly to the Commission and shall be utilised only for the purpose.
+97.—(1) The Commission may with the consent of the Minister, make Regulations.
+regulations —
+(a) specifying the conditions necessary for the operation of a business
+involving the production, publication, public exhibition, distribution, sale, hiring,
+rental, storage, warehousing or any other dealings with a work in which
+copyright subsists ;
+A 234 2023 No. 8 Copyright Act, 2022
+(b) prescribing any fees for any transactions, or fines for any act or
+non-compliance arising from the provisions of this Act or regulations made
+under this Act ; and
+(c) for the effective implementation of the provisions of this Act.
+(2) A contravention of any regulation order or any other instrument
+made under the provisions of this Act, or non-compliance with any administrative
+sanctions imposed under any directive or regulation issued by the Commission,
+commits an offence and is liable on conviction, in the case of first offence, to
+a fine of at least N100,000 and in the case of a repeat offence, to a fine of at
+least N500,000 or imprisonment for a term of at least six months.
+98.—(1) Service in the employment of the Commission shall be approved
+Application
+of the service under the Pensions Reform Act and accordingly, employees of the
+Pensions Commission shall, in respect of their services be entitled to pension and other
+Reform Act.
+retirement benefits as are prescribed in that Act.
+(2) Notwithstanding the provisions of subsection (1), nothing in this Act
+shall prevent the appointment of a person to any office on terms, which preclude
+the grant of pension and gratuity in respect of that office.
+Act No.4, (3) For the purpose of the application of the Pensions Reform Act, any
+2014. power exercisable under it by the President or authority other than the Federal
+Government (not being the power to make regulations), shall be vested in and
+exercisable by the Commission.
+Cap. C23, (4) Subject to subsection (2), the Pensions Reform Act, shall in its
+LFN 2004. application of subsection (3), have effect as if, the office were in the Public
+Service of the Federation within the meaning of the Constitution of the Federal
+Republic of Nigeria, 1999.
+Power of the 99. The Minister may give to the Commission, directives of a general
+Minister to character relating to the policies and functions of the Commission and it shall
+give
+be the duty of the Commission to comply with such directives.
+directives.
+100.—(1) In any action or suit against the Commission, no execution or
+Restriction
+on execution attachment of process shall be issued against the Commission, unless prior to
+against such execution, at least three months’ notice of the intention to execute or
+property of
+attach has been given to the Commission.
+the
+Commission. (2) Any sum of money, which by the judgment of any court, has been
+awarded against the Commission shall, subject to any direction given by the
+court, where notice of appeal against the judgment has been given, be paid
+from the Fund of the Commission.
+Copyright Act, 2022 2023 No. 8 A 235
+101. A member of the Board, Director-General or staff of the Indemnity.
+Commission shall be indemnified out of the assets of the Commission against
+any proceedings brought against him in his capacity as a member of the Board,
+Director-General, officer or employee of the Commission, where the act
+complained of is not beyond his powers.
+102. A Board member, the Director-General or any other officer of the Avoidance
+Commission shall — of conflict
+of interest.
+(a) treat as confidential any information which came to his knowledge
+in the exercise of his power or is obtained by him in the performance of his
+duties under this Act ; and
+(b) not, for his personal gain, make use of any information which came
+to his knowledge in the exercise of this power or is obtained by him in the
+ordinary course of his duty as a member of the Board, Director-General or
+officer of the Commission.
+103. The Federal High Court shall have exclusive jurisdiction for the Jurisdiction.
+trial of offences and civil actions arising from this Act.
+104.—(1) Notwithstanding anything in any other enactment, no suit Limitation
+against the Commission, a member of the Board or any staff of the Commission, on suit
+against the
+for an act done —
+Commission.
+(a) in pursuance or discharge of his duties under this Act or any other
+enactment or law ; or
+(b) in respect of any alleged neglect or default in the operation of this
+Act or any other enactment,shall lie or be instituted in any court unless the
+suit is commenced within 12 months next after the act, neglect or default
+complained of or where the damage or injury continues within 12 months
+next after the damage or injury ceases.
+(2) No suit shall be commenced against the Commission or any member
+of staff of the Commission before the expiration of a period of three months
+after written notice of intention to commence the suit is served upon the
+Commission by the intending plaintiff or his agent.
+(3) The notice referred to in subsection (2) shall clearly state the cause
+of action, the particulars of the claim, the name and place of abode of the
+intending plaintiff and the relief which he claims.
+105. A notice, summons, or other document required or authorised to be Service of
+served on the Commission under the provisions of this Act or any other documents.
+enactment or law may be served by delivering same to the Director-General
+of the Commission or by sending it by registered mail or courier addressed to
+the Director-General at the head office of the Commission.
+A 236 2023 No. 8 Copyright Act, 2022
+Repeals and 106.—(1)The Copyright Act, Cap. C28, Laws of the Federation of
+savings Nigeria, 2004 is repealed.
+provisions.
+(2) Sections 491, 492 and 493 of the First Schedule to the Criminal Code
+Cap. I23,
+Act and sections 426 and 427 of the Penal Code are hereby repealed.
+LFN, 2004.
+(3) Without prejudice to section 6 of the Interpretation Act, the repeal of
+the enactment specified in subsection (1), shall not affect anything doneunder
+the enactment.
+107.—(1) Subject to the provisions of this Act, the Director–General of
+Transitional
+provisions. the Commission under the repealed Act is deemed to continue to serve his
+tenure under this Act.
+(2) Any person who immediately before the commencement of this Act
+was a staff of the Nigerian Copyright Commission established under the
+repealed Act shall continue in office and be deemed to have been appointed
+under this Act for purposes of pension.
+(3) Properties held immediately before the commencement date of this
+Act on behalf of the Nigerian Copyright Commission by any person shall, by
+virtue of this Act, be vested in the Commission established under this Act.
+(4) The Commission established under this Act shall be subject to all the
+obligations and liabilities to which the former Nigerian Copyright Commission
+was subject immediately before the commencement of this Act and all other
+persons shall have the same rights, powers and remedies against the
+Commission established by this Act as they had against the Commission
+immediately before the commencement of this Act.
+(5) Any proceeding or cause of action pending or existing immediately
+before the commencement of this Act by or against the Commission established
+under the repealed Act in respect of any right, interest, obligation or liability of
+the Commission may be continued or commenced, as the case may be, and
+any determination of a court of law, tribunal or other commission or person
+may be enforced by or against the Commission established by this Act to the
+same extent that such proceeding, cause of action or determination might
+have been continued, commenced or enforced by or against the Commission
+as if this Act had not been made.
+(6) This Act applies in relation to works made before the commencement
+of this Act as it applies in relation to works made after the commencement of
+this Act.
+Cap. C28, (7) Proceedings for infringement of Copyright Act, may be taken,
+LFN, 2004. notwithstanding that the alleged infringement occurred before the
+commencement of this Act.
+Copyright Act, 2022 2023 No. 8 A 237
+(8) Where an act done before the commencement of this Act was then
+an infringement but is not an infringement under this Act, proceedings in respect
+of the act may be taken as if this Act had not been made.
+(9) Contracts for the licensing of any act in respect of copyright that
+were effective immediately before the commencement of this Act, shall continue
+in effect as if they related to the corresponding copyright under this Act.
+(10) A notice given under section 44 of the repealed Act and not
+withdrawn before the commencement of this Act shall continue in effect as if
+it had been given under section 84 of this Act.
+(11) Any subsidiary legislation which was in effect immediately before
+the commencement of this Act shall remain in effect, subject to any necessary
+modifications, as if it had been made under this Act, and may be added to,
+amended, revoked or varied accordingly.
+108.—(1) In this Act — Interpretation.
+“adaptation” means the modification of a pre-existing work from one
+type of work to another or altering a work within the same type to make it
+suitable for different conditions of exploitation and may also involve altering
+the composition of the work ;
+“artistic work” includes, irrespective of artistic quality, any of the
+following works or similar works —
+(a) paintings, drawings, etchings, lithographs, woodcuts, engravings
+and prints ;
+(b) maps, plans and diagrams ;
+(c) works of sculpture ;
+(d) photographs not comprised in an audiovisual work ;
+(e) works of architecture in the form of building models ; and
+(f ) works of artistic craftsmanship, including pictorial woven tissues
+and articles of applied handicraft ;
+“audiovisual work” means the aggregate of a series of related visual
+images with or without sound, which is capable of being shown as a moving
+picture by means of a mechanical, electronic or other device and irrespective
+of the nature of the material on which the visual images and sounds are carried
+and includes the sound track, but does not include a broadcast ;
+“author” in the case of —
+(a) audiovisual work means the person by whom the arrangements
+for the making of the audiovisual work were made, unless the parties to
+the making of the audiovisual work, provide otherwise by contract between
+themselves ;
+(b) collective work, means the person responsible for the selection
+and arrangement of the collection ;
+A 238 2023 No. 8 Copyright Act, 2022
+(c) a photographic work, means the person who took the photograph;
+(d) sound recording, means the person by whom the arrangements
+for the making of the sound recording were made ; and
+(e) a broadcast transmitted from within any country, means the person
+by whom the arrangements for the making or the transmission from
+within that country were undertaken ;
+“broadcast” means the transmission by wireless means of sounds or
+images or both, in such a manner as to cause such images or sounds to be
+received by the public ;
+“broadcasting organisation” means any authority established under
+any law in Nigeria or elsewhere providing broadcasting services for public
+reception ;
+“building” includes any fixed structure or a part of a building or fixed
+structure ;
+“choreographic work” means a composition of movements for dancing
+or any other patterned succession of gestures mostly created to
+accompanying music ;
+“collective work” means a collection of literary or artistic works, which
+by reason of the selection and arrangement of their contents, constitute
+intellectual creations and as such protected without prejudice to the copyright
+in each of the works forming part of such collection ;
+“communication to the public” means making a work or a performance
+available to the public by wire or wireless means in such a way that members
+of the public may access the work or performance from a place and at a
+time individually chosen by them ;
+“computer programme” means a set of statements or instructions,
+whatever may be the mode or form of their expression, to be used directly
+or indirectly in a computer in order to bring about a certain result ;
+“copy” means a reproduction in any form including a digital copy ;
+“copyright” means copyright under this Act ;
+“court” means the Federal High Court ;
+“exclusive licence” means a licence signed by or on behalf of a copyright
+owner, authorising the licensee to the exclusion of all other persons (including
+the person granting the licence), to exercise any right which would otherwise
+be exercisable exclusively by the copyright owner ;
+“Government” includes Federal, State and Local Government ;
+“licence” means a lawfully granted licence permitting the doing of an
+act controlled by this Act ;
+“literary work” includes, irrespective of literary quality, any of the
+following works or similar works —
+(a) novels, stories and poetical works ;
+Copyright Act, 2022 2023 No. 8 A 239
+(b) plays, stage directions, audiovisual work scenarios and
+broadcasting scripts ;
+(c) choreographic works ;
+(d) computer programmes;
+(e) textbooks, treatises, histories, biographies, essays and articles ;
+(f ) encyclopaedias, dictionaries, directories and anthologies ;
+(g) letters, reports and memoranda ;
+(h) lectures, addresses and sermons ;
+(i) law reports, excluding decisions of courts ; and
+(j) written tables and compilations, including table or compilation of
+data stored or embodied in a computer or any medium ;
+“Minister” means the Minister charged with the responsibility for
+copyright matters ;
+“musical work” means musical composition, irrespective of musical
+quality ;
+“re-broadcast” means a simultaneous or subsequent broadcast by one
+broadcasting organisation of the broadcast of another broadcasting
+organisation ;
+“reproduction” means the making of one or more copies of a literary,
+musical or artistic work, audiovisual work or sound recording ;
+“service provider” means a provider of online services or network
+access, including operators of such facilities, and any entity offering the
+transmission, routing, or providing of connections for digital online
+communications, between or among points specified by a user, of material
+of the user’s choosing, without modification to the content of the material
+as sent or received ;
+“sound recording” means the fixation of a sequence of sound capable
+of being perceived aurally and of being reproduced but does not include a
+sound track, accompanying or incorporated in an audiovisual work ;
+“work” includes translations, adaptations, new versions or arrangements
+of pre-existing works, and anthologies or collection of works which by
+reason of the selection and arrangement of their content, present an original
+character ; and
+“work of joint authorship” means a work produced by the collaboration
+of two or more authors in which the contributions of the authors are merged
+into inseparable or interdependent part of a whole.
+(2) The following provisions shall apply with respect to publication, that
+is to say —
+(a) a work shall be deemed to have been published if copies of it have
+been made available in a manner sufficient to render the work accessible
+to the public, including by making the work available to the public by wire or
+A 240 2023 No. 8 Copyright Act, 2022
+wireless means in such a way that members of the public may access it
+from a place and at a time individually chosen by them ;
+(b) where in the first instance, a part only of a work is published, that
+part shall be treated for the purposes of this Act as a separate work ; and
+(c) a publication in any country shall not be treated as being other than
+the first publication by reason only of an earlier publication elsewhere if the
+two publications took place within a period of not more than 30 days.
+Citation. 109. This Act may be cited as the Copyright Act, 2022.
+Copyright Act, 2022 2023 No. 8 A 241
+SCHEDULE Section 79(3)
+SUPPLEMENTARY PROVISIONS RELATING TO THE BOARD
+Proceedings of the Board
+1. Subject to this Act and to section 27 of the Interpretation Act (which
+provides for the decisions of a statutory body to be taken by a majority of the
+members of the body and for the person presiding to have a second or casting
+vote), the Board may make standing orders regulating the proceedings of the
+Board and any committee.
+2. Every meeting of the Board shall be presided over by the Chairman
+or if the Chairman is unable to attend a particular meeting, the members present
+at the meeting shall elect one of their members to preside at that meeting.
+3. The Board shall meet not more than four times in each year and,
+subject thereto, the Board shall meet whenever it is summoned by the
+Chairman, and if the Chairman is required to do so by notice given to him by
+not less than three other members, he shall summon a meeting of the Board to
+be held within 14 days from the date on which the notice is given.
+4. The quorum of the Board shall consist of the Chairman (or, in an
+appropriate case, the person presiding at the meeting under paragraph 2 of
+this Schedule) and five other members and the quorum of any committee of
+the Board shall be determined by the Board.
+5. Where the Board desires to obtain the advice of any person on a
+particular matter, the Board may co-opt him as a member for such period as it
+deems fit, but a person who is a member by virtue of this paragraph shall not
+be entitled to vote at any meeting of the Board and shall not count towards a
+quorum.
+6. Notwithstanding anything in the provisions of paragraph 5, the first
+meeting of the Board shall be summoned by the Minister.
+Committee
+7.—(1) Subject to its standing orders, the Board may appoint one or
+more committees to carry out on behalf of the Board such of its functions as
+the Board may determine.
+(2) Every committee appointed under the provisions of subparagraph
+(1), shall consist of such number of persons (not necessarily all members of
+Board) as may be determined by the Board and a person other than a member
+of the Board shall hold office on the committee in accordance with the terms
+of his appointment.
+A 242 2023 No. 8 Copyright Act, 2022
+(3) A decision of a committee of the Board shall be of no effect until it is
+confirmed by the Board.
+Miscellaneous
+8. The fixing of seal of the Commission shall be authenticated by the
+signature of the Director-General and any other staff authorised generally or
+specially by the Commission to act for that purpose.
+9. Any contract or instrument which, if made or executed by a person
+not being a body corporate, would not be required to be under seal may be
+made or executed on behalf of the Commission by the Director-General or
+any person generally or specifically authorised by the Commission to act for
+that purpose.
+10. Members of the Board shall be paid such remuneration or allowances
+as may be approved by the President.
+11. The validity of any proceedings of the Board or of a committee shall
+not be adversely affected by —
+(a) any vacancy in the membership of the Board ;
+(b) any defect in the appointment of a member of the Board or
+committee ; or
+(c) reason that a person not entitled to do so, took part in the proceedings.
+12. Any member of the Board and any person holding office on a
+committee of the Board, who has a personal interest in any contract or
+arrangement entered into or proposed to be considered by the Board or a
+committee shall immediately disclose his interest to the Board or committee
+and shall not vote on any question relating to the contract or arrangement.
+I, certify, in accordance with Section 2 (1) of the Acts Authentication Act,
+Cap. A2, Laws of the Federation of Nigeria 2004, that this is a true copy of
+the Bill passed by both Houses of the National Assembly.
+OJO O. A., fnia, fcia
+Clerk to the National Assembly
+13th Day of February, 2023.
+Copyright Act, 2022 2023 No. 8 A 243
+EXPLANATORY MEMORANDUM
+This Act provides for the protection of copyright and neighbouring rights,
+prescribes appropriate exceptions and improves the effective administration,
+regulation and enforcement of copyright in the digital environment in Nigeria.
+A 244 2023 No. 8 Copyright Act, 2022
+2202
+,LLIB
+THGIRYPOC
+EHT
+OT
+ELUDEHCS
+)5(
+)4(
+)3(
+)2(
+)1(
+yb
+dessaP
+etaD
+yb
+dessaP
+etaD
+eht
+fo
+yrammuS
+eht
+fo
+eltiT
+gnoL
+eltiT
+trohS
+fo
+esuoH
+eht
+etaneS
+eht
+lliB
+eht
+fo
+stnetnoC
+lliB
+lliB
+eht
+fo
+sevitatneserpeR .2202
+,yluJ
+ht72
+.2202
+,lirpA
+ht6
+paC
+,tcA
+thgirypoC
+eht
+slaeper
+lliB
+sihT
+paC
+,tcA
+thgirypoC
+eht
+laeper
+ot
+tcA
+nA
+thgirypoC
+,airegiN
+fo
+noitaredeF
+eht
+fo
+swaL
+,82C
+,airegiN
+fo
+noitaredeF
+eht
+fo
+swaL,82C
+.2202
+,lliB
+ot
+2202
+tcA
+thgirypoC
+eht
+tcane
+dna
+4002
+ot
+2202
+tcA
+thgirypoC
+eht tcane
+dna
+4002
+dna
+noitcetorp
+,noitaluger
+eht
+rof
+edivorp
+dna
+noitcetorp
+,noitaluger
+eht
+rof
+edivorp
+.thgirypoc
+fo
+noitartsinimda
+rof
+dna
+; thgirypoc
+fo noitartsinimda .srettam
+detaler
+eb
+ot
+em
+yb
+dnuof
+dna
+ylbmessA
+lanoitaN
+eht
+yb
+dehcaer
+noisiced
+eht
+htiw
+em
+yb
+derapmoc
+ylluferac
+neeb
+sah
+lliB
+siht
+taht
+yfitrec
+I
+fo
+swaL
+,2A
+.paC
+tcA
+noitacitnehtuA
+stcA
+eht
+fo
+snoisivorp
+eht
+htiw
+ecnadrocca
+ni
+si
+dna
+sesuoH
+eht
+fo
+noisiced
+tcerroc
+dna
+eurt
+.4002
+,airegiN
+fo
+noitaredeF
+eht
+TNESSA
+I
+aicf
+,ainf
+,.A
+.O
+OJO
+ylbmessA
+lanoitaN
+eht
+ot
+krelC
+SL
+.3202
+,yraurbeF
+fo
+yaD
+ht31
+RFCG
+,IRAHUB
+UDAMMAHUM
+airegiN
+fo
+cilbupeR
+laredeF
+eht
+fo
+tnediserP
+.3202
+,hcraM
+fo
+yaD
+ht71

@@ -1,0 +1,790 @@
+Achievers University Law Journal AULJ Volume 1 (2021)
+RECOVERY OF PREMISES IN NIGERIA: A LAW FOR JUSTICE OR
+LEGALISED BIAS AGAINST THE LANDLORD?
+Omotayo Blessing Nwune1
+&
+Gabriel Ogwuche Ekoja2
+&
+Paul M. Dawap3
+ABSTRACT
+More often than not, Landlords have had cause to throw caution to the wind
+by adopting various unlawful means to prevent the continuous illegal holding
+of the demised property by their tenants. This situation manifests in several
+ways, prominent amongst which are; unlawful evictions, arbitrary rent
+increment, and the sealing of such demised premises by the landlord. Hence,
+the indispensable place of the law to regulate such anomalies cannot be
+overemphasised. Notwithstanding its place, the question of how fair the law
+is, particularly with reference to the landlord, pokes the mind. The doctrinal
+research approach was adopted to analyse the existing legal regimes
+governing the recovery of premises across Nigeria. The study examined the
+position of the relevant legal frameworks in relation to the right of recovery
+of premises exercisable by both the landlord and the tenant.4 It was observed
+that although the law is made to eliminate arbitrariness, especially by the
+landlord, it appears not to guarantee justice. It was found that the nature of
+tenancy determines the statutory notices that will be given to a tenant at a
+sooner period or the expiration of the tenancy. The cost of litigation and the
+undue delay in the recovery of premises were identified as some of the
+significant challenges to the recovery of premises processes in Nigeria.
+Recommendations incidental thereto were accordingly proffered.
+Keywords: Landlord, Tenant, Land Law, Premises Recovery, Nigeria.
+1 LL.B (Hons), BLCounsel at Leo M. Ebi & Co, No 24 Church Street, Behind UBA PLC,
+Jos, Nigeria. Contact: Babylawyer83@gmail.com; 08062289554.
+2 LL.B (Hons), BL, LL.M is a Lecturer in the department of International Law and
+Jurisprudence, Faculty of Law, University of Jos, Jos Nigeria. Contact:
+ogwuchegekoja@gmail.com; 08037310840.
+3 LL.B (Hons), BL, LL.M is a Lecturer in the department of Public Law, Faculty of Law,
+University of Jos, Jos Nigeria. Contact: pauldawap83@gmail.com; 08030413979.
+4 Although references were made to the recovery laws of a few states in Nigeria, the
+position is similar across all states.
+218
+Achievers University Law Journal AULJ Volume 1 (2021)
+1. INTRODUCTION
+With an ever-growing population comes the need to provide adequate
+housing for the teeming populace by the government, corporate
+organisations, and individuals. This need comes to satisfy either an obligation
+or an economic want by building houses for lease or rent. Whatever be the
+case, a relationship between a landlord and a tenant is created, which requires
+regulation. One significant way of regulating this relationship is through the
+various recovery of premises laws of the different states in Nigeria. Although
+these laws apply to various States, they are in pari materia. They make
+provisions for regulating the relationship between a landlord and the tenant at
+the commencement, pendency, and eventual determination of the tenancy.
+These laws are a deliberate attempt to curb the excesses of landlords to
+arbitrarily increase rent and resort to self-help in evicting tenants from the
+lawful occupation of a property. Recovery of premises relates to the
+determination of a tenancy and, by implication, the reasons for the recovery.
+It is a process that describes how a landlord takes back possession of his
+premises upon the termination of the tenancy of a tenant.
+1.1 The Concepts of Landlord and Tenant
+It is necessary to briefly consider the person of a landlord and that of a
+tenant. The definition of a landlord in the various tenancy and recovery of
+premises law across the nation are in pari materia to each other. These laws
+define a landlord to mean a person entitled to the immediate reversion of a
+premises. Such a person includes the landlord’s attorney or agent and persons
+appointed to act on his behalf in relation to the demised property.5
+A tenant is a person occupying any premises either by payment of rent or by
+operation of law. The definition of a tenant excludes persons unlawfully
+occupying any premises under a bona fide claim to be the owner.6 Where the
+tenant is a statutory one, lawful occupation is an essential requirement.7 A
+5 Section 2 of the Recovery of Premises Act (Abuja) Vol. 4, CAP 544 Laws of the
+Federation of Nigeria, 2007. Similar provision can be found in S. 47 of the Tenancy Law
+(Lagos) No. 14, 2011, S. 2 Rent Control and Recovery of Premises Law (Plateau) Law No.
+1, 1998, S. 2 Rent control and Recovery of Premises Law (Bauchi) Cap 134, 1997, and
+Rent Control and Recovery of Premises Law (Cross River) Vol. 6 Cap R6, 2004.
+6 See for instance See section 47 Lagos State Tenancy Law and section 2 of the Recovery of
+Premises Act.
+7 Oduye v Nigeria Airways Ltd (1987) NWLR (pt55) 4 S.C 202.
+219
+Achievers University Law Journal AULJ Volume 1 (2021)
+tenant also includes a service tenant who occupies any premises as a
+contractual tenant during his employment. A sub-tenant who occupies a
+premises or a part previously occupied by a tenant in circumstances where
+the part is sublet to him with the landlord’s consent is also a tenant. The
+Court of Appeal in Bocas Nigeria Ltd v Wemabod Estates8 categorises the
+various types of tenancy as follows:
+a) Tenancy at will
+b) Periodic Tenancy
+c) Fixed termed tenancy
+d) Tenancy at sufferance
+e) Statutory tenants
+a) Tenancy at Will: A person who occupies premises with the
+landlord’s consent without a defined term or interest in the property.9
+b) Periodic Tenancy: A periodic Tenancy can be monthly, quarterly, or
+yearly. The selected form of periodic tenancy must be expressly
+stated on the face of the tenancy agreement. Where this is not
+contained in the tenancy agreement, it shall be determined by
+reference to the time the rent was paid or demanded.10
+c) Fixed termed tenancy: Just as the words imply, a fixed termed
+tenancy contains a clearly defined tenure. Hence, it could be for a
+specified number of months or years. However, the terms must be
+clear and definite.11 For instance, a year’s tenancy commencing on
+the 1st January 2021 will lapse on the 31st December 2021.
+d) Tenancy at sufferance: it is ‘a tenancy arising when a person who
+has been in lawful possession of property wrongfully remains as a
+8 (2016) LPELR – 40193 (CA).
+9 See the case of Odutola v Papersack (Nig) Ltd (2004) 13 NWLR (PT.871) 509.
+10 Section 14 (2) of the Rent Control Law of Lagos State, section 8 (3) of the Recovery of
+Premises Act, section 13 (6) of the Lagos State Tenancy Law 2011 cited in Woye
+Famojuro, and Akinbobola Adeniyi and Amarachukwu Nedolisa, ‘Overview of the
+Concept of Recovery of Premises Under the Tenancy Law of Lagos State
+<https://www.mondaq.com/Nigeria> accessed 22 May 2021.
+11 Ibid. see also, the case of UBA v Tejumola (1988) 2 NWLR pt. 79
+220
+Achievers University Law Journal AULJ Volume 1 (2021)
+holdover after their interest has expired.’12 ‘It may take the form of a
+tenancy at will or a periodic tenancy.’13 Tenancy at sufferance is a
+Common Law concept designed to protect tenants holding over after
+their contractual rent tenure.14
+e) Statutory tenant: this is a similar concept with tenancy at sufferance.
+The only difference is that statutory tenancy is applicable under
+Nigerian Law.15 If such a tenant is forcefully ejected, the landlord can
+be liable for trespass.16
+2. RECOVERY OF PREMISES LAW IN NIGERIATHE PRACTICE
+In Nigeria, a landlord can only lawfully recover his premises if the
+tenancy is validly determined according to law, and the tenant delivers up
+possession to the landlord willingly or by order of a competent court. In
+Ihenacho v Uzochukwu,17 the court set out the procedure for the recovery
+of premises in the following words:
+A landlord desiring to recover possession of premises let to
+his tenant shall firstly, unless, the tenancy has already
+expired, determine the tenancy by service on the defendant,
+an appropriate notice to quit. On the determination of the
+tenancy, he shall serve the tenant with the statutory seven
+days’ notice of his intention to apply to the court to recover
+possession of the premises. Thereafter, the landlord shall
+file his action in court and may also proceed to recover
+possession of the premises according to law.
+12 Garner B.A, ‘Black’s Law Dictionary’ (6th Ed. St. Paul Min West Pub.) pg. 1477
+13 Ibid.
+14 Per Nnaemeka Agu JSC in African Petroleum Ltd v Owodunni (1991) 8 NWLR (pt
+210) at 396-397
+15 Ibid. Also see the case of Pan Asian African Co Ltd v NICON Ltd. (1982) 9 SC 1 at
+25-28.
+16 Ihenacho v Uzochukwu (1997) 2 NWLR (Pt. 487) 257
+17 Ibid.
+221
+Achievers University Law Journal AULJ Volume 1 (2021)
+To further buttress the position of the court in relation to recovery of
+premises, the court, in the case of Ndielli & Another v. Eze,18 had this to
+say:
+It is the law, and it has been reiterated almost to irritation
+that recovery of premises must be done by due process of
+the law. Any other form of recovery is unlawful. It cannot
+be over-emphasised that recovery of possession of premises
+from a tenant can only be by an order of the court, obtained
+after hearing the parties, pursuant to the relevant recovery
+of premises law.
+Furthermore, section 7 of the Recovery of premises Act19 provides that for a
+tenancy to be validly determined, two requisite Statutory Notices must be
+served on the tenant. These are:
+a) Notice to quit
+b) Notice of owners’ intention to apply to the court to recover possession.20
+Notice to Quit
+The Black’s Law Dictionary21 defines ‘Notice to Quit’ as a landlord’s
+written notice demanding that a tenant surrender and vacate the leased
+property, thereby terminating the tenancy relationship between them. It can
+also be defined as an express unequivocal notification by the landlord that
+he desires the tenancy to be determined.22 It is clear from the above
+definitions that a notice to quit is a direct and precise notice given to a
+tenant, informing him that his tenancy has been determined and will thus,
+not be renewed.23
+We need to emphasise that a notice to quit is only necessary where a
+landlord and tenant relationship exist. A Landlord-tenant relationship is a
+legal relationship between the lessor and lessee of real estate. This
+18 (2016) JELR 48772 (CA).
+19 Similar Provisions can be found in S. 16 Lagos Tenancy Law, Section 17 in Bauchi and
+Cross River Rent Control and Recovery of Premises Law.
+20 Nigeria Airways Ltd v Mahdi (2014) 11 N.W.L.R. (Pt. 1417) 35.
+21 Garner, B.A. Ed., Black’s Law Dictionary (8th ed. Thomas West, 2004) at 1093.
+22 Ukam, T. Landlord and Tenant Compendium, (3rd ed. Wise Publication, 2006) 327.
+23 Sample of Notice to Quit is provided for in the Schedules of Recovery of Premises Act
+and Laws of each Nigerian states.
+222
+Achievers University Law Journal AULJ Volume 1 (2021)
+relationship is contractually created by an agreement for lease for a period
+ranging from a week, a month, or on a yearly basis. At the end of the
+tenancy period, the premises must revert from the tenant to the landlord.
+Therefore, where there is the absence of a relationship between a landlord
+and a tenant, there is no entitlement to statutory notices.24 This is especially
+the case with squatters and trespassers or where the tenancy has been
+determined by effluxion of time or where the tenant is in arrears of rent for
+a period within which he is entitled to notice. Note that a tenancy for a
+fixed term does not require a notice to quit before the tenancy can be
+determined. All that is required is for the plaint or writ to be filed after the
+service of the seven days’ notice of owner’s intention to recover
+possession.25
+The length of notice in determining a tenancy is so vital that non-
+compliances nullify the notice. The law allows parties to a tenancy to
+agree on the terms of their contract and on the length of notice that would
+determine the tenancy.26 However, if parties do not agree on the length of
+notice, the length of notices provided under the recovery of premises
+statutes automatically applies. Some of the enabling statutes27 provide that:
+where there is no express stipulation as to the notice to be given by either
+party to determine the tenancy, the following periods shall be given:
+•••• In the case of a tenancy at will or weekly tenancy, a week’s notice;
+•••• In the case of monthly tenancy, a month’s notice;
+•••• In the case of a quarterly tenancy, a quarter’s notice; and
+•••• In the case of a yearly tenancy, half a year’s notice
+Please note that the Lagos Tenancy Law additionally provides three (3)
+months’ notice for half a year tenancy. As we have mentioned earlier, the
+above length of notices is as prescribed by statute, which takes effect
+where parties to a rent agreement fail or elect not to agree on the length of
+notice. However, if parties elect to agree on the period of notice they
+24 Odutola v Samuel (1956) FSC 76, see also the case Ugonabo v Nwokoye (1973) 3
+E.C.S.L.
+25 Alokolaro v Mawdow Ventures Ltd (1975) 12 C.C.H.C.J. 2029
+26 African Petroleum Ltd v Owodumni (1991) 8 N.W.L. R (Pt. 210) at 395
+27 Section 8 (1) Recovery of Premises Act, 2004, S. 13 Lagos Tenancy Law, Sections. 17
+and 18 of the Plateau and Bauchi States Rent Control and Recovery of Premises Laws
+respectively.
+223
+Achievers University Law Journal AULJ Volume 1 (2021)
+require a period of notice higher than that specified above can be chosen
+as the above merely represents the minimum requirement.28
+Who May Issue Statutory Notices?
+For a statutory notice to be valid in proceedings for recovery of premises, it
+must be issued by the appropriate person; failing which the validity of the
+notice and its service, as well as the determination of the tenancy, will be
+vitiated. Section 7 of the Recovery of Premises Act29 unequivocally provides
+that statutory notices may be given either by the landlord or his agent. This
+provision has been judicially noticed in many cases.30 An agent is any person
+employed by the landlord in the letting of a premises or in the collection of
+rents. It is a person specially authorised to act on behalf of the landlord in a
+particular manner. Usually, the authority is by writing under the hand of the
+landlord.
+It, therefore, follows that caretakers or solicitors are agents of a landlord.
+During a tenancy proceeding, evidence must be led to establish that the
+landlord employs the agent or solicitor to let out the premises and collect
+rents. In Balogun v Lagos Executive Development Board,31 the court held
+that unless a solicitor is specially authorised in writing by the landlord, he
+could not serve statutory notices required under section 7 of the Recovery
+of Premises Act. Therefore, it is safer to always issue a letter of authority
+to a solicitor or a firm of solicitors before they can act as agents. Where a
+letter of authority is given to a firm of solicitors, evidence must be led to
+establish that the solicitor that signed the notice on behalf of the landlord
+is a member of the firm.32 A Letter of Authority must first be issued before
+a person or solicitor can act as an agent.33 Notice to quit or notice of
+intention to recover possession served by a solicitor before the landlord
+issues a letter of authority to him to so act in that capacity is null, void,
+28 Ochie v Ajosie (1959)2 All N.L.R. 17. See also Odutola v Papersack (Nig) Ltd (2006)
+18 NWLR (Pt. 1012) at 470 and 495
+29 This Act is applicable to the Federal Capital Teritory, Abuja.
+30 See for instance, Papersack Nig. Ltd v Odutola & Anor (2006) 18 N.W.L.R. (Pt.
+10.12) pp 474-475
+31 (1963) ALL N.L.R.
+32 Omogunkoya v Martin (1975) 3 C.H.C.C.J 939
+33 Fayemi v Simons (1977) 3 C.C.H.C. 381. See also Wada v Bryan (1973) 3 C.C.H.J 59
+224
+Achievers University Law Journal AULJ Volume 1 (2021)
+and of no legal effect.34 One issue that requires addressing is the content of
+a letter of authority. The following are some of the most critical
+contents:35
+• The name of the solicitor or firm of solicitors;
+• The premises sought to be recovered;
+• The act or acts that needed to be performed;
+• The name of the tenant;
+• The date the letter of authority was issued and,
+• The landlord’s signature.
+Non – compliance with these requirements renders both the letter of
+authority and any purported action by the so-called agent invalid.
+Effect of Invalid Notice to Quit
+The service of a valid notice to quit is a condition precedent to the lawful
+recovery of premises. Needless to say that where a valid notice to quit is
+not properly served on a tenant, the tenancy relationship between the
+landlord and the tenant subsists. This implies that a court can neither make
+an order for delivery of possession nor payment of mense profit in favour
+of the landlord. The only order the court can make in the circumstance is
+the payment of rent arrears. It is also important to note that where a
+landlord serves a defective notice to quit or notice of owners’ intention to
+apply to the court, the proper order the court should make is for striking out
+the suit, not dismissal. In that instance, all the landlord needs to do is to
+issue and serve a proper notice and subsequently commence the
+proceedings properly.36
+3. TERMINATION OF TENANCY
+A tenancy is either terminated by effluxion of time or by notice to quit.
+Where the notice required is six months, the court interprets it to mean 182
+days and not as six calendar months; and in computing the days, the day of
+service is not included.37 Similarly, the notice must determine the tenancy
+34 Coker v Adetayo (1992) 6 N.W.L.R (Pt 249) 612 at 613
+35 Bello v Salami (1969) 2 LL N.L.R 291
+36 Eleja v Bangudu (1994) 3 N.W.L.R. (Pt 334) 526
+37 Awobiyi & Sons v Jgbalaiye Brothers (1965) All N.L.R. 169
+225
+Achievers University Law Journal AULJ Volume 1 (2021)
+at midnight of the day preceding the anniversary of the tenancy.38 For a
+notice to quit to determine a yearly tenancy validly, it must terminate at the
+end of the current term of the annual tenancy.39 A monthly tenancy is
+determined by a month’s notice, a calendar month.40 The court held in
+Johnson v Mobil Oil Nig. Ltd41 that the calendar month required is
+calculated from the date the one-month notice was served, not the date it
+was fixed at the court registry, neither is it the date on the notice. Upon the
+expiration of a valid notice to quit, a seven-day notice of owners’ intention
+to apply to recover possession must be served.42
+4. NOTICE OF OWNERS’ INTENTION TO APPLY TO COURT TO
+RECOVER POSSESSION
+Notice of owners’ intention to apply to the court, otherwise called seven
+days’ notice is the notice served on a tenant who remains in possession after
+a valid notice to quit has been served on him. It is essential to state that the
+seven days’ notice of owners’ intention to recover possession need not be
+the same as what is prescribed in the forms of the various recovery of
+premise laws. What is important is that it must contain the following
+ingredients:43
+a) The determination date of the tenancy;
+b) The mode of service of the notice to quit;
+c) The date for which an application is to be made to the court for a
+warrant;
+d) The description of the premises; and
+e) The signature of the landlord or his agent.
+It should be noted that wrongly stating the date of determination of tenancy
+would not render a notice invalid as this is in no way prejudicial to the
+defendant’s case.44 Therefore, it is clear that whether the court will
+38 Nigerian Joint Agency Ltd v Arrow Engineering and General Transport Ltd (1970) 1
+ALL N.L.R. 324
+39 African Petroleum Ltd v Owodunni (Supra) at 391
+40 Aruku v Fayose (1970) ALL N.L.R. 445
+41 (1965) W.N.L.R. 128
+42 Almaganated Press of Nig. Ltd v Haastrup (1966) All N.L.R. 346
+43 Anyalafulude, T. Principles of Recovery of Premises in Nigeria through cases. (Snap
+Press Ltd, 2010) 30
+44 Nigerian Joint Agency Ltd v Arrow Engineering and General Transport Company (n 25).
+226
+Achievers University Law Journal AULJ Volume 1 (2021)
+invalidate a seven days’ notice due to irregularities will depend on whether
+such irregularity is material and prejudicial to the defendant’s case. It is
+crucial to further state that failure to serve statutory pre-action notices or any
+one of the notices before commencing a recovery of premises action renders
+the action incompetent, thus ousting the court’s jurisdiction to entertain such
+a matter.45 For emphasis, pre-requisite notices that must be served on a
+tenant before a landlord can validly institute a recovery of premises
+proceedings are: notice to quit and notice of owner’s intention to apply to
+the court to recover possession.
+5. RIGHTS OF THE TENANT
+Over the years, the various regulatory frameworks and judicial authorities
+donated several corresponding rights to the tenant, which helps guarantee
+his peaceful occupation of a demised property. The following are some
+rights that accrue to a tenant:
+I. Right to a Written Agreement: On concluding negotiations to a
+premises, the tenant has a right to ask for a written agreement and be
+comfortable with its clauses before executing same. This is advisable
+because it will be easier to prove the terms of the tenancy, which
+creates the rights and obligations of the parties.
+II. Right to the Issuance of Payment Receipt: Upon payment of rent, the
+tenant has the right to request a receipt of payment signed by either the
+landlord or any of his authorised agents. The receipt is proof of the
+tenant’s right of occupation and use of the property, to the exclusion of
+any other person, the landlord inclusive.
+III. The Premises must be in a Habitable Condition: It is the duty of the
+landlord to ensure that the property, which is the subject matter of the
+tenancy, is fit for the purpose and in a habitable condition. By this, all
+latent defects in the demised premises must be fixed by the landlord
+prior to the commencement of the tenancy.
+IV. Right to Quiet Possession: Once an agreement is reached and payment
+is made, possession is granted to the tenant, who now has the right of
+45 Mobil v L.S.E.P.A (2001) 24 W.R.N. 42 at 45
+227
+Achievers University Law Journal AULJ Volume 1 (2021)
+exclusive and quiet possession of the property. This means the landlord
+or anyone acting in his stead can be liable for trespass if he enters the
+demised property without the tenant’s permission or express provision
+of the agreement allowing such entry.
+V. Right to Notice to Quit: A landlord is prohibited from using self-help
+to evict a tenant in lawful occupation of a demised property.46
+Irrespective of express contravention of any covenant of the tenancy,
+written or unwritten, express or implied, by a tenant, the landlord is
+compelled by law to issue the tenant a notice to quit, except where the
+tenancy is for a fixed period of term, or he is in arrears of rent for a
+period for which he is entitled to notice. It should be noted that neither
+the landlord nor the tenant can by agreement waive or reduce the
+minimum stipulation of the period of notices provided by the law.47
+VI. Right to 7 Days’ Notice to Recover Premises: After issuing and
+serving the requisite notice to quit on the tenant, the landlord must
+cause to be issued a compulsory seven days’ notice of owner’s intention
+to apply to recover premises.
+6. RIGHTS OF THE LANDLORD
+Like the tenant, the landlord has some rights that the various regulatory
+frameworks and judicial authorities guarantee. Prominent amongst which is
+the reversionary rights in the demised property, others include the following:
+i. Right not to Issue a Quit Notice: A landlord may not issue a quit
+notice where a tenant has waived his right to a quit notice in the
+tenancy agreement or where a tenant is in arrears of rent for a period for
+which he is entitled to notice. However, the landlord must issue a seven
+days’ notice of owner’s intention to recover possession.
+ii. Right to Review Rent and Renew Tenancy: While the landlord
+reserves the right to review or renew rent payable on the demised
+property, including a rent review clause in the tenancy agreement
+before execution is advisable.
+46 Ihenacho v Uzochukwu (1997)1SCNJ 117 at 128.
+47 See the case of Motayo v Nigerian Fibre Industries Co. Ltd. (1974) 4 ECLR at 570
+228
+Achievers University Law Journal AULJ Volume 1 (2021)
+iii. Right not to reimburse a Tenant: A landlord may refuse to reimburse
+a tenant for any repair done on the demised property if there was no
+previous agreement to that effect or where the initial agreement does
+not cover such repairs.
+7. COURTS WITH JURISDICTION
+The jurisdiction to entertain recovery matters is vested in the Magistrate
+Courts (District Court in the North) and the High Courts.48 Section 2 (4) of
+the Lagos State Tenancy Law 2011 provides that proceedings shall be
+instituted under the law at the high court if the annual rental value of the
+premises exceeds the jurisdiction of the Magistrate Court.49 Accordingly,
+the grounds on which the landlord can invoke the jurisdiction of the court
+in the recovery of premises to recover possession includes the following:
+a. Arrears of rent.
+b. Where the landlord requires the premises for his use.
+c. Breach of an express covenant contained in an agreement.
+d. Where substantial repairs are to be done on the premises.50
+8. EVICTION OF A TENANT FOR BREACH OF COVENANT
+Most written tenancy agreements contain covenants that bind the parties. A
+covenant in a lease is an agreement or promise in which a party pledges
+himself to do or refrain from doing a thing. Covenants in a lease may also
+provide for the truth of specific facts. Such covenant may be implied, usual
+or express.51 While an express covenant is stated explicitly in the lease
+agreements and duly executed by both parties, an implied covenant is not
+expressly stated or agreed by the parties. Still, it can reasonably be inferred
+from the agreement and the surrounding circumstances to its execution.
+Usual covenants are covenants that are proper and enforceable, evidence of
+which must be given to the court.52 The process of evicting a tenant for
+breach of covenant will depend on the nature or type of covenant breached.
+Where the breach relates to an express covenant in a tenancy agreement
+48 Akpan v Julius Berger Plc (2002) 52 WRN 50. See also Section 2 of the Recovery of
+Premises Act, Abuja.
+49The Lagos State Tenancy Law 2011.
+50 See Section 25 of the Lagos State Tenancy Law.
+51 Y.Y Dadem, ‘Property Law Practice in Nigeria’ (3rd edition, Jos University Press, 2015)
+P. 105.
+52 ibid
+229
+Achievers University Law Journal AULJ Volume 1 (2021)
+that is not illegal or unlawful, the court may order for possession.53 Where
+the breach relates to user covenants such as prescribes the particular use of
+the property, the tenant may be liable to an order of forfeiture. Forfeiture
+arises when a landlord is entitled to retake the demised property and
+prematurely end the lease.54 Forfeiture will also be ordered where the
+tenant denies the landlord’s title to the demised property.55 However, it
+should be noted that the deed of lease or lease agreement must give the
+lessor a right of forfeiture or re-entry in the event of a breach of condition
+or covenant by the lessee.56 A landlord can also take steps toward re-entry
+or recovery of possession where the tenant breaches the covenant to pay
+rent57 or repair.58
+It is also worthy of note that the lessor has no automatic right of re-entry,
+notwithstanding the nature of the breach.59 Therefore, the right of re-entry
+for breach of covenants in a tenancy agreement cannot override the
+processes for recovery of premises prescribed by the law. A landlord who
+forcefully takes possession by resorting to self-help in purported exercise
+of a right of re-entry acts unlawfully.60 The proper procedure is for a seven-
+day notice to be issued and served on the tenant, followed by filing an
+action for forfeiture, re-entry, or possession. In some cases, the court will
+determine and require a notice to quit to be issued and served tenant upon
+filing the action.
+53 Tom Anyafulude, ‘Principles of Recovery of Premises in Nigeria Through the Cases’
+(Revised edition, 2010) Page 367.
+54 OKPALA v OKPU ( 2003) 5 NWLR ( PT 812) 183
+55 Alhaji Sunmonu Sdiq & Ors v Chief Fasheun & Anor (2016) LPELR – 41473 (CA) PP.
+41 -48. See also section 170 of the Evidence Act 2011 which estops the tenant from such
+adverse claim.
+56 Helios Towers (Nig) Ltd v Mundili Investments Ltd (2014) LPELR-24608214 (CA) 22-
+24.
+57 Akpan & Anor v Akpan & Anor (2014) LPELR 22637 (CA) 14. Also see Coker v Adetayo
+& Ors (1996) LP & LR -879 (SC) 8.
+58 RCC (Ng) Ltd v. Rockonoh Properties Co. Ltd (2005) LPELR – 2947 (SC) 14-15.
+59 Lawani v Tadeyo (1944)10 WACA 37
+60 Anyaegbunam v Ifeduba (2013) LPELR-21268 (CA) 14-15
+230
+Achievers University Law Journal AULJ Volume 1 (2021)
+9. UNDERSTANDING JUSTICE
+The word justice is one of the most critical moral and political concepts. It is
+derived from the Latin word ‘jus’, meaning right or law.61 It connotes the
+proper administration of the law; the fair and equitable treatments of all
+individuals under the law. Justice can also be described as a scheme or
+system of law, including natural and legal rights.62 According to Plato,
+justice is a virtue establishing rational order, with each part performing its
+appropriate role and not interfering with the proper functioning of the other
+part.
+Similarly, Rawls analysed justice in terms of maximum equal liberty
+regarding basic rights and duties for all members of the society, with socio-
+economic inequalities requiring moral justification in terms of equal
+opportunity and beneficial results to all.63 It has also been defined as the
+concept of moral rightness based on ethics, rationality, law, natural law,
+religion, fairness, or equity. It is the proper implementation of laws.
+Law, on the other hand, is the means by which justice is attained. Within the
+context of this paper, the law is an instrument of social control and a means
+of regulating social order. This, by implication, is the regulation of the
+relationship between the landlord and the tenant. The essence of such a
+regulation would be to achieve justice for which the law is a vehicle. In fact,
+‘without justice, law labours in vain.’64 This position is aptly captured in the
+words of Justice Kayode Eso, JSC in Transbridge Trading Company Ltd v
+Survey International Ltd,65 in the following terms:
+61 Wayne P. Pomerleau, ‘Western Theories of Justice’ <https://iep.utm.edu/justwest>
+accessed 7 June 2021.
+62 West’s Encyclopaedia of American Laws (2nd ed. The Gale Group Inc; 2008),
+<https://www.thefreelibrary.com > accessed on the 6 June 2021.
+63 John Rawls, The Theory of Justice (Harvard University Press; 1971) cited in Wayne P.
+Pomerleau, ‘Western Theories of Justice’ <https://iep.utm.edu/justwest> accessed 7 June
+2021.
+64 Kayode Eso, cited in Dakas CJ Dakas, ‘Beyond Legal Shenanigans: Towards
+Engendering A Symbiotic Relationship Between Law and Justice in Nigeria.’ (2018)
+Conference Proceedings, Nigerian Association of law Teachers’ 51st Annual conference.
+18.
+65 (1986) 4 NWLR (Pt. 37) 576 at 596-7
+231
+Achievers University Law Journal AULJ Volume 1 (2021)
+It would be tragic to reduce judges to a sterile role and
+make an automation of them. I believe it is the function of
+judges to keep the law alive, in motion, and to make it
+progressive for the purpose of arriving at the end of justice,
+without being inhibited by technicalities, to find every
+conceivable, but acceptable way of avoiding narrowness
+that spells injustice. Short of being a legislator, a judge, to
+my mind, must possess an aggressive stance in interpreting
+the law.66
+So, the foundation and purpose of the law is to serve justice. This perhaps is
+the concept behind christening some laws as unjust. A law that does not
+birth justice may be regarded as an unjust law. This is why States consider it
+critical to their functions to ensure justice between their citizens. Every state
+is expected to possess the capability to administer justice to its citizens
+according to its legal system. This principle was also applicable to ancient
+states, where one of the primary duties of their rulers was to guarantee
+justice to their subjects. Therefore, where a law is made to regulate the
+relationship between parties, it must inherently be fair, placing each person
+in equilibrium with the other based on their circumstances.
+10. THE LEGAL BIAS
+It is commendable that the various recovery of premises laws in Nigeria
+contain provisions that regulate the relationship between the landlord and
+the tenant. However, the law is geared towards offering more protection to
+the tenant than the landlord. While the tenant is relaxed, the landlord must
+do everything necessary to enjoy legal support. Arguably, a seven days’
+notice given to a tenant, in appropriate situations, will be short to secure
+alternative accommodation, and a tenant may not seem to lie on a bed of
+roses. However, a tenant who fails to renew his rent or breaches specific
+covenants, which entitles the landlord to a right of re-entry, forfeiture or
+possession, may be deemed to have made up his mind to secure alternative
+accommodation. In this circumstance, seven days appear more than
+enough. The situation is worse for a fixed tenure tenancy.
+66 However, this does not mean a judge can innovate at pleasure, or pursue his own ideal
+of beauty or goodness. He must exercise his discretion judicially and judiciously. See
+Benjamin Cardozo, quoted in Dakas CJ Dakas (n 32) 19.
+232
+Achievers University Law Journal AULJ Volume 1 (2021)
+Furthermore, most tenants served with seven days’ notice do not quit and
+deliver up vacant possession. They will only do so pursuant to an appropriate
+action filed for possession, forfeiture, or re-entry. In addition to the seven
+days’ notice, the delays in the determination of the proceedings affords the
+tenant more than sufficient time to secure alternative accommodation. So,
+notwithstanding the conduct and behaviour of the tenant, the landlord must
+comply with provisions of the law or suffer legal setbacks in recovering his
+premises. This is a situation that engenders legalised bias against the
+landlord. We will consider this bias in relation to the process of recovery of
+premises as a whole, with particular reference to the requirement for notices
+to be served on the tenant, the cost of litigation, and the demeanour of the
+court. There are other factors that weigh heavily on the landlord, which may
+not necessarily be legal but considerable. These include the court’s
+psychological effect and impact, societal perception of the landlord, and
+obtaining justice through the court.
+It may also appear contestable that some of the issues this research
+considers bottlenecks to the landlord’s access to justice are similar to those
+required in civil suits. This seems so because the Claimant/Plaintiff
+instituting an action would also fulfil some condition-precedents in
+deserving situations. These conditions may include serving pre-action
+notice, writing demand letters, filing and hearing preliminary applications
+for leave of court. However, the grouse of this work is that recovery of
+premises law is primarily tailored to protect the tenant. However, in other
+civil suits generally, there is no apparent tilting of the law to protect any
+party. Secondly, all the preliminary issues in other civil suits such as pre-
+action notice, demand letters, and even application for leave of court span a
+period ranging from one to three months maximum in most cases, after
+which there is no further requirement of additional notice save to proceed
+with the substantive action. In the recovery of premises, however, upon the
+expiry of the statutory notice to quit, an additional seven days’ notice is
+required in many instances. We will now proceed to consider the issues of
+bias in the practice of recovery of premises.
+10.1 Notices Required
+Notices in recovery of premises, when required, are construed in a strict
+sense. This means the necessary period of notice must be given in
+233
+Achievers University Law Journal AULJ Volume 1 (2021)
+accordance with the provision of the law. Therefore a notice that runs
+afoul of the period, will fail as much as that which does not terminate on
+the eve of the tenancy. It should be noted that although parties to a tenancy
+agreement are at liberty to determine the period of notice the tenant is
+entitled to in terminating the tenancy, where they neglect or fail to, the
+length of notices stipulated above is construed strictly. Even when there is
+such an agreement, it is strictly interpreted in its legal context.
+In Odutola & Another v Papersack Nigeria Ltd,67 the Apex court held
+that;
+Parties to an agreement may mutually but wrongly come to
+an understanding as to the legal content of it. That
+notwithstanding, a court of law can only interpret the
+agreement strictly in its legal content and arrive at a
+conclusion on the law and the law alone in respect of it. A
+court of law cannot construe the agreement to convey the
+meaning “as understood” by the parties if it is different
+from the real legal meaning of the agreement. While there
+are instances where the principles of equity may assist a
+party wronged by a strict application of the construction of
+the agreement, in the application of the doctrine of
+estoppels, this is not one of such cases.
+In most recovery of premises’ cases, the statutory notices apply, as parties
+often do not determine shorter or longer periods of notices by their
+agreement. Where this is the case, there must be no agreement to the
+contrary. It does not matter the behaviour or conduct of the tenant; he is
+entitled to statutory notices. For instance, if a tenant whose yearly tenancy
+requires six months’ notice, badly defaces the premises, attempts to erect a
+structure or sublets the premises without the consent of the landlord, the
+landlord is mandated and must give him the statutory six months’ notice
+which must terminate on the eve of the current tenancy. Where the time
+falls short of six months within the current tenure, such a notice can be
+given, but only on the grounds that it must terminate on the eve of the next
+tenancy. This will result in a period of notice well over the six months
+67 (2006) 2 All N.L.R. 248
+234
+Achievers University Law Journal AULJ Volume 1 (2021)
+required and maybe over a year’s notice by extension. By this, the tenant
+is placed in an advantageous position over the landlord, notwithstanding
+his destructive conduct, leaving the landlord in a helpless quagmire of
+immediately recovering his premise from a destructive or self-imposing
+tenant. This situation also applies to cases where a yearly tenant wilfully
+or deliberately pays the rent in unreasonable instalments to the
+disagreement or displeasure of the landlord. Therefore, irrespective of the
+bad conduct of the tenant in respect of the demised premises, he enjoys the
+maximum protection of the law as to the requirement of notices,
+particularly where statutory notices are applicable.
+10.2 Cost of Litigation and Awards
+In an adversarial system such as ours, the judges are not inquisitors saddled
+with the responsibility of making inquiries to ascertain the truth of a case
+before them. They pass judgment on the evidence produced before them by
+the parties on the balance of probabilities. This means parties must prove
+their cases. Discharging this obligation comes at a considerable cost.
+Although parties can prosecute or defend any suit in person, they are more
+comfortable and indeed feel safer to engage the services of a lawyer. Where
+a landlord chooses the option of employing a lawyer to recover his
+premises, the process begins with the cost of employing a lawyer to prepare
+and file the case, assembling witnesses, and sometimes paying their
+transportation to and from the court to payment of appearance fees, and
+other ancillary costs.
+Just like any other service in Nigeria, the cost of litigation is also on the
+rise. Understandably, while no law particularly provides for this cost, the
+court’s reluctance in awarding the cost of litigation against erring
+defendants in appropriate circumstances is quite saddening. For instance, in
+Ihekwoaba v ACB Ltd,68 the Court of Appeal refused to award legal fees (as
+part of the cost of litigation) because there was no system of costs taxation
+to get a realistic figure since, by the rules of court, such cost is subject to
+tax. In fact, in Guinness Nig. Plc. v. Emmanuel Nwoke,69 the Court of
+Appeal held while refusing to award legal fees that it is unethical and an
+affront to public policy to pass on the burden of solicitor’s fee to the other
+68 (1998) 10 NWLR [Pt. 571] 590 at 610-611
+69 (2000) 15 NWLR [Pt. 689] 135
+235
+Achievers University Law Journal AULJ Volume 1 (2021)
+party. So, when a landlord successfully recovers possession through the
+court, he does so at a loss even when mense profit is ordered. This is
+because the landlord will not have to spend on legal and other fees if he
+secures possession without recourse to the court. On the other hand, the
+defendant, through the delay in trials, is given more than sufficient time to
+secure another accommodation, and in the worst scenario, pay for mense
+profit; an amount which he is ordinarily obligated to pay even if the matter
+was not before a court for determination.
+Apart from legal and other costs of prosecuting the case, if upon
+determination of the case, mense profit was ordered and the defendant
+neglects or fails to pay, the landlord would have to apply for a writ of
+attachment, at another cost which adds to the cumulative loss of the
+landlord even if he eventually succeeds. We must state that in practice, the
+cost of litigation in tenancy proceedings is not only monetary. It also
+involves time, energy, and even the psychological effect on the landlord.
+10.3 The Demeanour of the Court
+Once a matter is filed for recovery of premises, the court, by the law, is
+poised more to look at whether the tenancy is properly determined either
+by notice to quit or by effluxion of time. No consideration is giving to the
+conduct of the defendant while the tenure of tenancy subsists. This
+situation appears not to change even where a defendant has breached an
+express provision of an agreement. The searchlight is first beamed on the
+landlord. He is required to do all he is required before any consideration is
+given in respect of the defendant.
+A profound observation is that in a bit to avoid an unnecessary challenge
+of her decision in tenancy matters, the courts tend to follow the
+requirements of the laws even more than required in tenancy proceedings.
+For instance, when a defendant is aware of the hearing date of his case but
+refused to attend in person or by representation, he ordinarily does not
+need to be served hearing notice on the next adjourned date. However, in
+practice, the court often orders a hearing notice to be issued and served on
+the defendant. The landlord will have to ‘mobilise’ (pay some money to)
+the court officers for service. It thus always appears that tenancy law and
+the court in tenancy matters are there to protect the tenants more than the
+236
+Achievers University Law Journal AULJ Volume 1 (2021)
+landlords. But the Laws and the courts are meant for the service of justice
+to all.
+11. SOCIETY’S PERCEPTION OF JUSTICE THROUGH THE
+COURTS
+The essence of the law and its enforcement in the court is to attain justice.
+This crucial role may be hampered if determining matters before the court
+is bedevilled by needless delay. There is no gainsaying that justice delayed
+is justice denied. Delay is one of the major clogs in the wheel of justice
+and judicial proceedings. The court system is so slow that parties and
+people who have contact with the court are consistently discouraged from
+bringing a matter before it for determination. Despite several meaningful
+efforts by the courts of superior records at fast-tracking proceedings, the
+Magistrate courts (District courts in the North), where most of these
+tenancy matters are decided, are still inundated with procedures that
+occasion delay in proceedings, a situation most landlords consider a
+leading factor to the attractiveness of resort to self-help.
+In recovery of premises, landlords view the court system as being too slow
+and thus denying them justice. Many landlords view the processes of
+issuing and serving Statutory Notices, filing a matter before the court, and
+the endless adjournments and many other issues as frustrating. Many
+tenants, on the other hand, enjoy being taken to court, especially in
+tenancy matters. Some go to the extent of challenging their landlords to
+sue them to court. This is because they almost have a settled assurance that
+the proceedings will be protracted before the matter is determined. A
+period sufficient for them to secure another premise. They also have the
+wrong belief that since they have been served with a quit notice, they will
+not have to pay rent.
+12. SOCIETAL PERCEPTION OF THE LANDLORD
+Another factor to consider is the sociological view of the landlord.
+Members of society usually view a landlord who institutes tenancy
+proceedings against a tenant as being wicked. They believe he is
+financially better placed than the tenant, and he does not need the rent after
+all. While this has nothing to do with legal bias, it weighs heavily on the
+237
+Achievers University Law Journal AULJ Volume 1 (2021)
+landlord and sometimes affects his decision in filing a case before the
+Court.
+13. THE WAY FORWARD
+From the foregoing, we have examined the law relating to the recovery of
+premises and discussed whether such guarantees justice or legalised bias
+against the landlord. It is clear that the rules and proceedings in recovery of
+premises substantially protect the tenants’ rights and guarantees his security
+of tenure with little protection for the landlord. The huge protection the
+tenant enjoys against that which is available to the landlord apparently
+engenders legalised bias rather than ensuring justice. The following
+recommendations are made to aid achieving a balance in the practice of
+recovery of premises in Nigeria:
+a) While it is necessary to retain the periods of statutory notices required
+to determine a tenancy where the tenant has not breached any terms of
+the tenancy, such notices should be abridged to lesser periods of more
+than half of what is ordinarily required where there is a breach. This
+should be applicable whether it is a breach of express terms in an
+agreement or a violation of implied terms by the law, such as the
+tenant’s duty not to sublet without the landlord’s consent. This is
+because the tenant is already aware of the consequence of breaching
+any of these terms, being the termination of the tenancy.
+b) It has been observed that the courts are reluctant in granting the claim
+for legal fees or solicitors fees generally. The situation is worse when
+the matter is tenancy-related. The court will usually order possession
+and mense profit in appropriate circumstances but will decline to grant
+any claims for solicitor’s fees. It is recommended that the courts should
+grant the cost of prosecuting a tenancy matter, especially where, despite
+the proper determination of the tenancy by appropriate notices, the
+defendant refuses or neglects to deliver vacant possession of the
+premises.
+c) It is here recommended that an amendment be made to abridge the
+current period of statutory notice in cases of breach of express or
+implied term by the tenant to a period no more than half the current
+238
+Achievers University Law Journal AULJ Volume 1 (2021)
+length of notice. This will help improve the demeanour of the court in
+tenancy matters.
+d) Being a body that promotes the rule of law, the Nigerian Bar
+Association should mandate its members, especially property
+consultants, to create a platform to assist in educating landlords and
+tenants in tenancy matters.
+e) We further recommend that Recovery of Premises laws of the various
+States provide for the Multi-door Court House. Alternative Dispute
+Resolution (ADR) plays a pivotal role. Resort should only be made to
+litigation when ADR fails. This will enhance faster and prompt
+resolution of tenancy disputes with a capacity to remove the feeling of a
+battle between landlords and tenants. The Multi-door Court House will
+also help in decongesting the court.
+f) It is here recommended that the excessive delays in recovery of
+promises proceedings injected by unnecessary adjournments and
+applications be proactively dealt with. This will help curtail recourse to
+self-help by landlords in recovering their premises.
+Conclusively, therefore, aside from recourse to self-help by the landlord,
+which the law frowns at, the extant regulatory framework creates a
+disequilibrium position for the landlord, who, despite being the owner of a
+demised property, cannot unilaterally demand the reversion of his premises
+from a tenant without first instituting an action before a court of law, against
+a tenant who is holding over the demised property and have refused to
+renew his rent for a sufficient length of time. It appears that the law has
+continued to orchestrate injustice against a landlord whose only crime was
+letting a tenant into his property in the name of a tenancy relationship.
+239

@@ -1,0 +1,993 @@
+Petroleum Pipeline Regulations
+Under Section 136 and 191
+Petroleum Industry Act (2021).
+Draft: June 30, 2022
+Objective
+1. The objective of these regulations is to regulate the licencing and operations
+of Pipelines for natural gas and petroleum liquids (the “Pipeline”) by the Authority
+pursuant to sections 135 and 190 of the Petroleum Industry Act (the “Act”)
+Notwithstanding the provisions of these regulations, the provisions of the Oil
+Pipelines Act and any subsidiary legislation made under it shall pursuant to Sec
+311(9)(c) and Sec 310 of the Act continue to be in force mutatis mutandis until
+revoked or repealed.
+2. The Authority may from time to time publish Guidelines under these Regulations.
+Licence to Establish
+3. (1) An application for a licence to establish a pipeline shall be:
+(a) in a form prescribed and upon terms and conditions set out in
+Guidelines.
+(b) in accordance with the provisions of section 111(2&4) of the Act; and
+(c) accompanied with an application for permit to survey the pipeline
+route and a pipeline conceptual plan.
+(2) The pipeline conceptual plan shall be prepared in the format prescribed
+by the Authority and shall include a statement indicating –
+(i) the services to be rendered by the pipeline;
+(ii) the preliminary specifications of the pipeline;
+(iii) the characteristic of the substances to be conveyed through the
+pipeline;
+1
+(iv) Financial plan and business case for the development of the
+pipeline;
+(v) Community development programs; and
+(vi) Local content input for the project
+(3) The application for the permit to survey shall be in accordance with
+Regulation 4 of these Regulations.
+(4) The licence to establish shall not be granted prior to the issuance of permit
+to survey by the Authority.
+(5) A licence under this paragraph may relate to any of the licenced activities
+by the Authority provided for under section 125(1c&3) and 174(1(c, f &3)
+of the Act.
+Permit to Survey Pipeline Route
+4. (1) The Authority shall not grant Pipeline Licence or renew such licence unless
+the route of the pipeline has been surveyed; or in the case of a renewal, the
+pipeline route has been re-surveyed.
+(2) No survey or re-survey shall be carried out under regulation 4(1) unless a permit
+to survey has been issued by the Authority pursuant to these Regulations.
+(3) Any person may make an application to the Authority for the grant of a permit
+to survey the route of a natural gas transportation pipeline, petroleum liquids
+transportation pipeline or other petroleum derivatives. Such application shall
+specify the approximate route or alternative routes.
+(4) An application for a permit to survey shall be accompanied with a survey
+programme, including –
+(a) time, duration and place of the surveys;
+(b) survey methods;
+(c) topographical map of the proposed route of the pipeline drawn on
+scale –
+(i) 1:50,000, for a pipeline that is not more than 50 kilometres long;
+2
+(ii) 1:100,000, for a pipeline that is over 50 kilometres but not more
+than 100 kilometres long; and
+(iii) 1:250,000, for a pipeline that is over 100 kilometres long.
+(d) where the survey is for an offshore pipeline, the following information
+should also be provided ‒
+(i) vessels to be used; and
+(ii) fishery expert to be used by the applicant during the survey for
+consideration of the fishery activity in the area.
+(e) Evidence of payment of applicable fees as prescribed in these
+regulations.
+(5) A permit to survey granted pursuant to these Regulations shall be valid for two
+(2) years and subject to the terms and conditions stipulated by the Authority and
+the provisions of section 115(1) of the Act.
+5. (1) The Authority shall, within ninety (90) days after the application for licence
+to establish has been submitted by the applicant, notify the applicant in writing
+of its decision.
+(2) Where the Authority requires the input of a third party to make decision on an
+application for permit to survey, the consent of the third party shall be deemed
+obtained upon the expiration of time given by the Authority to respond.
+(3) Where the Authority declines an application for licence to establish, it shall
+state the reasons thereof.
+(4) Where the Authority does not respond within the ninety (90) days, the
+application shall be deemed approved.
+6. (1) The holder of the licence to establish shall provide to the Authority the
+regular activity reports and information obtained during the survey activities.
+(2) Upon completion of the survey, the licence holder shall provide to the
+Authority the completion report containing the results and assessment of the
+survey.
+(3) Such activity, and completion reports and information shall be submitted
+during the application for pipeline licence and in the format prescribed by the
+Authority.
+3
+Application for Licence to Construct
+7. Application for a licence to construct shall be made during the validity of a
+Licence to Establish upon terms and conditions set out by the Authority in
+Guidelines accompanied by a pipeline development plan; and application
+for pipeline licence
+Design, construction, and inspection of pipelines
+Pipeline design
+8. (1) The design of any pipeline for the purposes of these Regulations shall be –
+(a) suitable for the transportation of natural gas, liquid petroleum,
+including crude oil, refined products, natural gas liquid condensate
+and liquified petroleum gas;
+(b) in accordance with best international petroleum industry practices;
+and
+(c) as set out in these Regulations.
+(2) The design for the relocation, replacement and upgrading of an existing
+pipeline shall also conform with the provisions of regulation 8(1).
+Standard of design
+Oil pipelines
+9. (1) The standard of design for oil pipeline shall be as follows, that is –
+(a) it shall conform with –
+(i) the ASTM A106 Grade B or API 5L Grade B or ASME B31.4 or any
+acceptable equivalent standard, as the minimum requirement
+for a low-pressure range or small diameter pipeline; and
+(ii) any of the API 5 LX grade range, for a high working pressure or
+large diameter pipeline, where a lower grade would require
+excessively thick walls to cope with the desired working
+pressure.
+4
+(b) the pipeline shall be seamless and be Electric Resistance Welded
+(ERW) or Double Submerge Arc Welded (DSAW);
+(c) the design shall be in accordance with the latest ANSI/ASME B31.4
+standard titled "Pipeline Transportation Systems for Liquids and
+Slurries";
+(d) relevant provisions of the ANSI/ASME B31.4 standard shall be used for
+offshore pipelines.
+(2) In addition to the pipeline being in conformity with the latest ANSI/ASME B31.4
+standard, special attention shall be paid to the following matters, that is –
+(a) where a pipeline is to be laid at sea or river-bed without burial, the
+wave and current loads on the pipeline shall be taken into account
+in the stress calculation of the pipeline;
+(b) where applicable, the calculation of limit stress due to sustained
+load, thermal expansion and occasional loads shall conform strictly
+with latest editions of paragraphs 402.3.2. and 402.3.3. of the
+ANSI/ASME B 31.4 standard;
+(c) the design and materials selection of the pipeline components,
+including tees, elbows, bends, valves and fittings shall in all respects
+conform with latest edition of Parts II and III of Chapter II of the
+ANSI/ASME B 31.4 standard;
+(d) no used fitting of an existing pipeline shall be used on a new pipeline
+unless its original specification has been identified and confirmed to
+be capable of performing the new service;
+(e) the threaded joints at the internal and external portions of the pipe
+shall be of the Tapered Pipe Thread type and conform with the API
+standard 5B or NPT threads in accordance with ANSI B2-1;
+(f) the least nominal wall thickness of the threaded portion of the pipe
+shall not be less than the value specified in ANSI B2-1;
+(g) all threaded joints of the pipe shall be of those sections of the pipeline
+that are above the ground;
+(h) if two or more pipelines are to be so connected that one will operate
+at a pressure higher by more than 5 per cent than the lowest licensed
+maximum operating pressure of the other pipeline, they shall be so
+5
+designed that the pipeline system operating at the lower pressure
+shall not be subjected to any pressure greater than that for which it
+is licensed and shall be equipped with a pressure control system and
+overpressure protection;
+(i) any pipe fitting valve or equipment connected to the pipeline shall
+have the manufacturer's rating which is equal to or greater than the
+proposed maximum operating pressure of the pipeline.
+Gas pipelines
+10. The requirements for the design, fabrication, installation, inspection, testing,
+operation, and maintenance of a gas pipeline required to operate with metal
+temperature of between 450 degrees Fahrenheit and minus 20 degrees
+Fahrenheit shall be as follows, that is –
+(a) the standard of design shall be in accordance with the specifications
+of the latest ANSI/ASME B31.8 standard titled "Gas Transmission and
+Distribution Piping Systems" or any acceptable equivalent standard;
+(b) relevant provisions of the ANSI/ASME B31.8 standard shall be used for
+offshore pipelines;
+(c) all structural materials, valves, fittings, bolting and tubing to be used
+shall generally conform with the specification in Appendix B of the
+reference standard ASME B31.8, ASME B16.5;
+(d) the gas pipeline shall be generally seamless or of the ERW (Electric
+Resistance Welded) and DSAW (Double Submerged Arc Welded)
+types;
+(e) the use of thermoplastic and thermosetting pipe materials may be
+acceptable if they conform with the ASTM specifications D2513 and
+D2517 respectively and are inhibited against material degradation
+effects by ultra-violet rays if used in locations where the pipeline is
+exposed to sunlight;
+(f) the weldability of the ferrous pipe materials shall be tested in
+accordance with the requirements of API standard 1104;
+6
+(g) adequate provisions shall be made for –
+(i) the flexibility of the pipeline while under pressure in the form of
+anchorage and guide points; and
+(ii) temperature-induced stresses by allowing for expansion joint
+couplings.
+Construction of pipeline
+Oil pipelines
+11. (1) The requirements and the other matters that shall be considered in the
+construction of a new pipeline or in the replacement of an existing pipeline shall
+be as follows:
+(a) a licensee granted a licence to construct a new pipeline or replace
+an existing pipeline shall not begin any construction work unless such
+licensee has given the Authority written notice of his intention to do
+so, in the format prescribed by the Authority;
+(b) any metallic pipeline material to be buried shall be coated with –
+(i) coal-tar enamel, asphalt enamel, polyethylene tape, epoxy,
+asphalt mastic, urethane, or extruded polyethylene; or
+(ii) any other material specially approved by the Authority for that
+purpose;
+(c) a surface pipeline shall be painted, raised and maintained above
+ground on permanent supports;
+(d) the pipeline construction shall –
+(i) follow the steps outlined in Chapter V of the latest ANSI/ASME
+B 31.4 standard; and
+(ii) be carried out in a way that shall cause the least disturbance
+to the environment;
+(e) special precautions shall be taken to protect the pipeline from wash-
+outs, unstable soil, landslide or any other hazards that may cause the
+pipeline to shift or be subjected to abnormal loads;
+7
+(f) ditching for the pipeline shall be in accordance with best
+international petroleum industry practices;
+(g) consideration for public safety shall be in accordance with the
+provision of API RP 11002 or any other recognised equivalent
+standards;
+(h) the minimum soil coverage of a pipeline on land shall be –
+(i) in the case of dry land, 0.9 metre;
+(ii) in the case of a river crossing and river-beds, 1 metre;
+(iii) in the case of drainage ditch, railroad and highway crossing,
+1.2 metres;
+(iv) in the case of a rocky area, 0.6 metre;
+(v) in the case of a swamp, 0.6 metre; and
+(vi) in the case of a shipping channel, 1.5 metres;
+(i) Any pipeline installed in shallow water, or in waters not more than 60
+metres deep, as measured from the mean low tide, must be buried.
+The pipeline shall be installed in such a way that the cover between
+the top of the pipeline and the underwater natural bottom (as
+determined by recognized and generally accepted practices),
+complies with the following minimum requirements –
+(i) in the case of navigable river, harbour, deepwater port safety
+zone, 1.2 metres for normal soil or 0.6 metre for consolidated
+rock; and
+(ii) for all other cases, 0.9 metres for normal soil or 0.5 metres for
+consolidated rock.
+(iii) A licensee may employ engineered alternatives for burial that
+meet or exceed the level of protection provided by burial, with
+the approval of the Authority.
+(iv) A trawl test or diver survey may be required to determine
+whether or not pipeline burial is necessary or to determine
+whether a pipeline has been properly buried.
+8
+(j) the pipeline welding shall be in accordance with the provisions of API
+1104 and API 1107 and welding inspection shall be by non-
+destructive method using the radiographic method set out in API
+1104;
+(k) in addition to the specific requirements of the relevant government
+agency responsible for railroad and highway crossings, the following
+precautions shall be taken at railroad and highway crossings, that is-
+(i) any installation of carrier pipe or casing shall be in accordance
+with API RP 1102;
+(ii) the casing shall either be insulated from its carrier pipe support
+and extend to both sides of the railroad or highway or the
+crossing shall be of a thicker wall pipeline covered with
+compacted fill and protective reinforced concrete slab;
+(iii) a surface line shall be similarly buried with casing protection or
+special construction as specified in subparagraph (k)(ii) of this
+paragraph at such crossings;
+(iv) a pipeline warning sign shall be conspicuously displayed by the
+licensee at the entry and exit points of the railroad, highway,
+river or any other pipeline crossing.
+(l) the licensee shall, before commencing any ground disturbance in a
+populated or controlled area –
+(i) locate the position and alignment of the pipeline with marking
+and distinguishable warning signs at such intervals as may be
+specified by the Authority;
+(ii) identify any pipeline within thirty metres radius of its area of
+ground distance during the construction of the pipeline.
+(m) if there is an indication that a pipeline is within thirty metres radius of
+the pipeline or a pipeline crossing, the licensee or any other person
+undertaking construction within that radius shall locate the pipeline
+and mark it so that it can be identified and avoided by the
+construction equipment and no person shall excavate within one
+metre radius of the pipeline so located;
+9
+(n) the Authority may direct that an existing pipeline or pipeline crossing
+located within the construction zone of the new pipeline in a
+populated or controlled area shall, during the period of ground
+disturbance in its vicinity, be –
+(i) completely depressurized; or
+(ii) operated at reduced pressure; or
+(iii) otherwise protected.
+(o) mainline block valves shall be installed –
+(i) on the upstream side of major river crossings;
+(ii) at pump stations; and
+(iii) at other sensitive locations of the pipeline, including industrial,
+commercial and densely populated areas where construction
+activities may pose particular risks of damage to the pipeline,
+the right of way of the pipeline shall be clearly marked in those
+areas with signs for ease of identification;
+(p) check valves shall be installed on the downstream of river crossings;
+(q) the licensee shall, not later than six months after completion of
+construction, submit two copies of the as-built plan of the pipeline on
+the same scale as that of the plan submitted with the application for
+the pipeline licence.
+Gas pipelines
+12. The requirements and the other matters that shall be considered for the
+construction of a new gas pipeline or for the replacement of an existing gas
+pipeline shall be as follows:
+(a) the design and construction of a pipeline and its corresponding
+corrosion control installation shall be in accordance with the
+standards and codes specified in ANSI/ASME B 31.8, and in the latest
+edition of the NACE Standard SP 0169 or any other equivalent
+standard;
+10
+(b) a long-distance gas transmission pipeline shall be made of steel and
+its design and construction shall be based on the location classes
+specified in ANSI/ASME B31.8;
+(c) where a type of construction is specified for a pipeline in the proximity
+of main roads and railroads and their mode of crossings, the pipeline
+shall be constructed to those specifications;
+(d) the minimum depth of burial of the pipeline shall be as specified in
+regulation 13(h) and 13(i) of these Regulations but where –
+(i) the minimum depth cannot be achieved; or
+(ii) the pipeline would be exposed to excessive external loads, the
+pipeline, at those points, shall be encased, bridged or specially
+reinforced to withstand any anticipated external loads.
+(e) there shall be a minimum clearance of 0.5 metre between the
+pipeline and any other underground structure not connected with it;
+(f) a buried pipeline shall be protected against corrosion and if a
+pipeline is to transport corrosive or toxic gas –
+(i) the design parameter of the pipeline shall be such that the gas
+pressure in the pipeline at any time shall not result in a hoop
+stress greater than sixty (60) per cent of the specified minimum
+yield strength of the pipeline material based on its nominal wall
+thickness; and
+(ii) the block valves and check valves for the pipeline shall be so
+located as to prevent the escape of the corrosive or toxic gas
+into the atmosphere in the event of a pipeline failure;
+(g) the inspection of the pipeline construction materials and its
+appurtenances, welding, ditching, stringing and the general
+installation shall be in accordance with the procedure outline set out
+in Chapter IV of ANSI/ASME B31.8;
+13. Cast-iron materials shall not be used for a gas pipeline unless –
+(a) specific application, supported with compelling reasons for using the
+cast-iron material, has been made to the Authority;
+11
+(b) the Authority has given special approval for the material to be used;
+(c) the design is strictly in accordance with the specifications set out in
+paragraph 842 of the reference standard ANSI/ASME B31.8.
+14. (1) Thermoplastic and thermosetting plastic material of the grades specified
+in ASTM-D2513 and ASTM-D1217 may be used for laying gas service lines only.
+(2) The requirements for the use of plastic materials for gas lines are as follows, that
+is –
+(a) where the value of the plastic design factor is not less than 0.32 for
+any case, the design pressure for the plastic gas pipeline shall be in
+accordance with the formula given in paragraph 842.31 of
+ANSI/ASME B31.8;
+(b) the plastic materials shall be used in any service where the maximum
+and minimum operating temperatures are higher than 1000 degrees
+Fahrenheit or lower than minus 200 degrees Fahrenheit respectively;
+(c) the plastic materials used shall be inhibited against the effect of ultra-
+violet rays which renders such materials brittle when exposed to
+sunlight;
+(d) the plastic pipes or tubing shall not be threaded at joints but shall be
+jointed by the solvent cement method, adhesive method, heat-
+fusion or by means of compression coupling or flanging, whichever
+conforms with the manufacturer's specifications;
+(e) extreme caution shall be taken in laying plastic pipelines to avoid
+damage to the material, consequently;
+(f) a buried plastic pipeline of –
+(i) 1/2 inch nominal diameter and above, shall have a minimum
+wall thickness 0.1 inch; and
+(ii) below ½ inch nominal diameter, shall have a minimum wall
+thickness of not less than 0.06 inch.
+(g) a plastic pipeline shall –
+(i) be buried in undisturbed or well compacted soil and no mitre
+bend shall be permitted at any portion of the pipeline;
+12
+(ii) be tested at a pressure of not less than 150 per cent of its
+maximum operating pressure or 50 psig, whichever is greater;
+(iii) not be subjected on any occasion to a pressure of more than
+300 per cent of its maximum operating pressure.
+15. (1) A licensee shall ensure that a pipeline conveying gas containing more than
+1 mole of hydrogen sulphide gas per kilomole of natural gas, or any lesser
+hydrogen sulphide content that the Authority may stipulate in a particular case,
+is equipped with automatically actuated emergency shutdown devices or check
+valves.
+(2) A licensee shall conduct an engineering assessment to define the pipeline
+operating conditions and the closure parameters of the automatically actuated
+emergency shutdown devices referred to in regulation 15(1) that will ensure the
+release volume used in calculating the emergency planning zone in the event of
+a pipeline break is as low as reasonably practicable.
+(3) A licensee shall ensure that the automatically actuated emergency shutdown
+devices or check valves referred to in regulations (1) and (2) –
+(a) isolate the pipeline into segments whose volumes are in accordance
+with those specified in the licence application; and
+(b) automatically close as defined by the engineering assessment
+required in regulation 15(2) if a pipeline break occurs.
+(4) A licensee shall ensure that the automatically actuated emergency shutdown
+device referred to in regulation 15(1) –
+(a) closes on the failure of any control or operating component;
+(b) remains closed once the device has closed due to actuation or
+failure; and
+(c) requires on-site human intervention to reopen once it has closed
+unless it was closed due to a planned pipeline shutdown.
+(5) A licensee shall not allow the pipeline or the automatically actuated
+emergency shutdown devices to operate outside of the conditions defined
+within the engineering assessment conducted under regulation 15(2).
+13
+(6) If the licensee determines that the pipeline or the automatically actuated
+emergency shutdown devices could be operated outside of the conditions
+defined by the engineering assessment conducted under regulation 15(2), the
+licensee shall shut in the pipeline until –
+(a) the pipeline and the automatically actuated emergency shutdown
+devices can be operated within the defined conditions; or
+(a) the licensee completes an engineering assessment as specified in
+regulation 15(2) and revises the emergency planning zone.
+(7) Unless authorized by the Authority, a licensee shall maintain a record of the
+current engineering assessment conducted under regulation 15(2) and the
+actions taken under regulation 15(6) until the pipeline is decommissioned.
+(8) The licensee shall submit a copy of the records required under regulation
+15(7) to the Authority on request.
+(9) If gas streams are blended for the purpose of maintaining a lower hydrogen
+sulphide content in the final blended stream, and any inlet stream conveys gas
+containing more than 1 moles of hydrogen sulphide gas per kilomole of natural
+gas, or any lesser hydrogen sulphide content that the Authority stipulates in a
+particular case, the licensee shall ensure that there are 2 independent safety
+systems to prevent a greater hydrogen sulphide content in the blended stream
+than permitted in the licence. A licensee shall ensure that one of the 2
+independent safety systems provides, as a minimum, the process control to
+achieve the blend ratio and that the other system provides, as a minimum,
+monitoring, and automatic shutdown.
+Inspection and testing of pipelines
+Oil Pipeline
+16. The licensee shall, on completion of the construction of the pipeline, give
+the Authority not less than fourteen (14) working days written notice of its
+intention to commence inspection and testing of the pipeline, in the format
+prescribed by the Authority.
+17. (1) The requirements for the inspection and testing of a pipeline are as
+follows, that is –
+14
+(a) the pipeline shall be inspected visually and examined
+radiographically in accordance with the procedure set out in the
+latest edition of ANSI/ASME B31.4 standard;
+(b) pressure tests shall be conducted by hydrostatic method and in
+such manner as shall ensure the protection of life, property and the
+general environment of the pipeline;
+(c) the entire length of the pipeline shall be tested to the designed
+rated pressure;
+(d) an in-line pressure vessel or a pre-fabricated manifold on the
+pipeline shall be tested to the manufacturer's specifications in
+accordance with applicable regulations;
+(e) the pressure recording instruments to be used for testing shall have
+a valid calibration certificate which shall not be more than one
+year old;
+(f) the accuracy of the pressure recording instrument shall be within 2
+per cent of its range;
+(g) the chart record of the test shall be continuous and legible and the
+test result and any remedial action taken shall be submitted to the
+Authority for approval before the pipeline is commissioned;
+(h) except with the permission of the Authority, the duration of pressure
+tests shall not be less than 6 hours of continuous testing in the case
+of leaks and material failures, and
+(i) all pipelines shall be tested to a pressure of not less than 1.25 times
+the designed pressure;
+(k) the test medium shall be water;
+(l) the maximum test pressure in all cases shall not result in a hoop
+stress greater than 110 per cent of the specified maximum yield
+strength of the pipe material based on its nominal wall thickness;
+and
+(m) valves and fittings on the pipeline shall not, during the test, be
+subjected to a pressure greater than the manufacturer's test
+pressure rating.
+15
+Gas Pipeline
+18. The licensee shall, on completion of the construction of the pipeline, give
+the Authority not less than fourteen (14) working days written notice of its
+intention to commence inspection and testing of the pipeline, in the format
+prescribed by the Authority.
+19. (1) The requirements for the inspection and testing of a pipeline are as
+follows, that is –
+(a) the pipeline shall be inspected visually and examined
+radiographically in accordance with the procedure set out in the
+latest edition of ANSI/ASME B31.8 standard;
+(b) pressure tests shall be conducted by hydrostatic method and in
+such manner as shall ensure the protection of life, property and the
+general environment of the pipeline;
+(c) the entire length of the pipeline shall be tested to the designed
+rated pressure;
+(d) an in-line pressure vessel or a pre-fabricated manifold on the
+pipeline shall be tested to the manufacturer's specifications in
+accordance with applicable regulations;
+(e) the pressure recording instruments to be used for testing shall have
+a valid calibration certificate which shall not be more than one
+year old;
+(f) the accuracy of the pressure recording instrument shall be within 2
+per cent of its range;
+(g) the chart record of the test shall be continuous and legible and the
+test result and any remedial action taken shall be submitted to the
+Authority for approval before the pipeline is commissioned;
+(h) the duration of pressure tests shall not be less than 6 hours of
+continuous testing in the case of leaks and material failures, and
+(i) all pipelines shall be tested to a pressure of not less than 1.5 times
+the maximum allowable operating pressure;
+(k) unless otherwise authorised or permitted by the Authority –
+16
+(i) the actual test pressure throughout the duration of the test
+shall not exceed 110 per cent of the minimum yield strength
+of the pipe material and the test equipment shall
+appropriately be pre-set not to produce above that pressure;
+(ii) the test medium shall be water;
+(iii) the pipeline shall be tested to a minimum pressure of not less
+than 700 kilopascals.
+(l) the maximum test pressure in all cases shall not result in a hoop
+stress greater than 110 per cent of the specified maximum yield
+strength of the pipe material based on its nominal wall thickness;
+and
+(m) valves and fittings on the pipeline shall not, during the test, be
+subjected to a pressure greater than the manufacturer's test
+pressure rating.
+20. Application for Pipeline Licence
+(1) The application for pipeline licence shall include a statement indicating –
+(i) the services to be rendered by the pipeline;
+(ii) the specification of the pipeline;
+(2) The application for a renewal of the pipeline licence shall be made at least
+two (2) years prior to the termination of the initial term of the licence or the
+renewal term and shall be as prescribed in the Guidelines issued by the Authority.
+(3) The applicant shall publish its application in such manner as the Authority may
+prescribe and shall notify those who own land in the proposed right of way.
+(b) a survey description, in accordance with the Nigerian National Grid,
+of the total route of the pipeline, indicating the width of the right of
+way, with the coordinates of the various points of intersection;
+(c) the proposed plan of the pipeline showing –
+(i) the selected route of the pipeline marked in red and the
+sections and quarter sections. The topographical map of the
+selected route shall be drawn to scale as follows:
+17
+a) 1:50,000, for a pipeline that is not more than 50 kilometres
+long;
+b) 1:100,000, for a pipeline that is over 50 kilometres but not
+more than 100 kilometres long; and
+c) 1:250,000, for a pipeline that is over 100 kilometres long.
+(iii) the direction of flow of fluid or natural gas along the pipeline;
+(iv) the location, shown by symbols, of any installation along the
+pipeline;
+(v) the location of the points at which the new pipeline would
+cross any other pipeline, stating the owner of the pipeline
+being crossed;
+(vi) the relative position of any existing pipeline in the same right
+of way of the new pipeline;
+(vii) any pipeline within a distance of 100 metres of the new
+pipeline, stating the owner of that pipeline;
+(viii) the regional topography of the area along the pipeline route,
+within a distance of 100 metres on both sides, including any
+watercourse that the new pipeline would cross;
+(ix) the location of any anchor or expansion loop.
+21. Pipeline Development Plan
+The pipeline development plan shall be prepared in the format prescribed by the
+Authority and shall include –
+(a) a statement indicating –
+(i) the services to be rendered by the pipeline;
+(ii) the specification of the pipeline;
+(iii) the characteristic of the substances to be conveyed through
+the pipeline; and
+(iv) the estimated costs of construction of the pipeline.
+18
+(ii) the detailed engineering design including the location of each
+point at which there is a change in the outside or the nominal
+diameter of the pipeline, the wall thickness of the pipeline
+material, the type and grade of the pipeline and the designed
+maximum operating pressure;
+(x) the location and operating details of corrosion prevention
+devices, main line valves and any emergency shut-down
+devices;
+(xi) the pig launching and receiving points and any tie-in-points
+with operating details;
+(xii) the manner in which the new pipeline would cross any
+highway, railroad, waterway or any other pipeline along the
+route.
+(d) estimated duration of pipeline design, development, construction
+and start-up of operations;
+(e) a hydraulic profile of the pipeline indicating the position of any
+pumping or
+booster station;
+(f) the ancillary facilities along the pipeline or at its terminal ends,
+including compressor stations, manifolds and metre banks, giving a
+general description of each facility and its proposed operation
+parameter;
+(g) decommissioning plan prepared pursuant to decommissioning and
+abandonment regulations issued by the Authority;
+(h) quantitative and qualitative risk assessments in the format prescribed
+by the Authority;
+(i) the following matters shall be described and addressed in the
+pipeline development plan –
+(i) location and type of facility the pipeline is connecting to and
+from;
+(ii) locations of military zones, fisheries and other competing uses
+of the area;
+19
+(iii) appropriateness of materials for construction of the pipeline
+given the corrosivity of substances to be conveyed (such as,
+natural gas, water, chlorides, hydrogen sulphide, carbon
+dioxide, and other related substances);
+(iv) constructability of the proposal, including but not limited to,
+pipe material, size, wall thickness, composition of fluid and
+capacity, maximum operating pressure, maximum and
+minimum design temperatures, pipeline stability and corrosion
+protection;
+(v) metocean and sea-bed conditions where applicable;
+(vi) potential geohazards and manmade hazards for the pipeline
+and mitigation of their effects;
+(vii) analysis of compliance with relevant regulatory requirements;
+and
+(viii) future petroleum development and potential tie-ins in the
+vicinity of the proposed pipeline.
+(j) where the proposed pipeline is in excess of 20 kilometers in length,
+environmental management plan prepared pursuant to applicable
+regulations shall be submitted;
+(k) a statement as to whether the pipeline is intended for own use of
+the licensee or as a common carrier;
+(l) explanatory note analysing how the proposed pipeline complies
+with the requirements for design and construction prescribed by
+these Regulations;
+(m) where the proposed pipeline is a natural gas pipeline, explanatory
+note indicating whether the existing Nigerian Gas Transportation
+Network Code is intended to apply to the pipeline or whether a
+separate network code is required; and
+(n) the timing and plan for the request for approval of pipeline tariffs
+under the applicable regulations and Guidelines.
+20
+22. (1) The Authority shall pursuant to the Act, within ninety (90) days after the
+application for the licence has been submitted by the applicant, notify the
+applicant in writing of its decision.
+(2) Where the process of reviewing and approving of application for licence
+requires the input of a third party outside the control of the Authority, the Authority
+shall notify the applicant of any delays occasioned by non-receipt of third party
+input and the 90 days provided for approval or refusal to issue licence shall be
+extended to such reasonable time as may be communicated by the Authority.
+(3) If the Authority is not satisfied with the application, the Authority shall not
+approve the application and notify the applicant in writing of its decision and the
+reasons for the refusal. The Authority may give the applicant an opportunity to
+modify and resubmit the application.
+(4) If, after the applicant has had an opportunity to modify and resubmit
+application under regulation 22(3), and the Authority is still not satisfied with the
+application, the Authority may refuse to approve the application and notify the
+applicant in writing.
+(5) During the review of the application, the Authority shall consult with and seek
+consents from other agencies and conduct a hearing where stakeholders and
+owners of land in the rights of way may present opinions or objections.
+(6) Where the Authority requires the input of a third party to make decision on an
+application for pipeline licence, the consent of the third party shall be deemed
+obtained upon the expiration of time given by the Authority to respond.
+(7) Where the Authority decides to grant a licence for a pipeline, the licence shall
+be granted for a period of no more than twenty (20) years and where the
+Authority decides to renew a licence it shall be as prescribed in the Guidelines
+issued by the Authority.
+(8) Any subsequent modification to the pipeline route or the pipeline
+characteristics must be pre-approved by the Authority.
+Rights of way
+23. (1) Pursuant to the provisions of section 127 and 176 of the Act, a licensee is
+entitled to rights of way for the construction, operation, and maintenance of a
+pipeline, which shall include any ancillary facilities.
+21
+(2) The pipeline licence shall give the licencee access to the rights of way for the
+construction, operation, and maintenance of the pipeline, subject to such
+environmental and other provisions which may apply under the licence.
+(3) The licence shall include provisions related to adjustments of public works and
+obligations with respect to accommodation works.
+24. Obligations in respect of accommodation works
+(1) The holder of a licence shall make and maintain for the accommodation of
+the owners or occupiers of any land in respect of which the licence has been
+granted or of the owners or occupiers of adjoining land or for the
+accommodation of the users of any customary track or path such crossings,
+bridges, culverts, drains or passages as may be necessary for the purpose of
+making good any interruption to the use of such land or the amenities thereof or
+to the use of such customary track or path caused by the exercise of the powers
+granted in accordance with these Regulations:
+Provided that it shall not be necessary to make good any interruption in respect
+of which compensation under these Regulations has been paid:
+Provided further that upon accommodation works being provided in
+accordance with the provisions of this section no further accommodation works
+shall be necessary in respect of any change of use of any land or omission of any
+person not being the holder of the licence or his agent, workman or servant.
+(2) The holder of a licence may for the purpose of exercising the powers conferred
+upon him alter the level or position of any pipe, conduit, watercourse, drain, or
+electric, telephone or telegraph wire or post, but shall give reasonable notice of
+his intention so to do to the person in control thereof and shall execute the work
+to the reasonable satisfaction of that person.
+(3) Where there is a danger that a tree standing near an oil pipeline may fall and
+damage such pipeline or an ancillary installation the holder of the licence may
+after giving notice to an administrative officer having responsibility in the area fell
+the tree or otherwise deal with it, and in such event shall upon application by any
+person interested in the tree pay such compensation as such officer shall consider
+necessary.
+22
+Environmental protection Guidelines
+25. The operator shall present to the Authority and demonstrate that adequate
+contingency plans have been made for protecting the environment where –
+(a) the test pressure results in a hoop stress greater than 75 per cent of
+the specified minimum yield strength of the pipeline based on its
+nominal wall thickness; or
+(b) the pipeline crosses or passes within 100 metres of a watercourse,
+Operation and maintenance
+Oil pipelines
+26. The requirements for operation and maintenance of oil pipelines are as
+follows:
+(a) a licensee shall –
+(i) not begin to operate a pipeline unless he has obtained the
+approval of the Authority;
+(ii) establish a site-specific written emergency plan for
+implementation in the event of systems failure, accidents, or
+other emergencies.
+(b) an emergency plan established under regulation 26(a)(ii) shall
+include procedures for prompt and expedient remedial action for –
+(i) the safety of the personnel of the operating company and of
+the public;
+(ii) the protection of property and the environment;
+(iii) the control of accidental discharge from the pipeline; and
+(iv) the adequate training of personnel for the handling of
+emergencies.
+(c) the maximum steady state operating pressure and static condition
+shall not exceed –
+(i) the internal design pressure; or
+23
+(ii) the pressure ratings of the components, whichever is less, and
+the pressure surges or the momentary pressure variations shall
+not exceed 10 per cent.
+(d) pipeline markers at crossings shall indicate the location of the
+pipeline, the name and contact details of the licencee;
+(e) all pressure relief devices shall be –
+(i) activated after installation to ensure that they function
+properly;
+(ii) inspected and re-certified once in 12 months, and the report
+of the inspection and recertification shall be sent to the
+Authority.
+(f) the right of way shall be maintained to provide a clear visibility and
+give access to the maintenance crew;
+(g) clear access shall be maintained to valves locations, and ditches
+shall be protected against washout of the pipeline;
+(h) the right of way shall be regularly patrolled for prompt detection of
+any line break, encroachment or any other situation that may
+endanger the safety of the pipeline;
+(i) any line-break, encroachment or dangerous situation detected
+under regulation 26(h) shall be promptly reported to the Authority;
+(j) all underwater crossings shall be inspected not less than once in five
+years to ensure that-
+(i) there is sufficient cover for the pipeline; and
+(ii) the safety of the pipeline at the crossing is not endangered in
+any way.
+(k) any repair to the pipeline shall be carried out within the existing right
+of way and in accordance with –
+(i) best international petroleum industry practices; and
+24
+(ii) the safety provisions contained in the standards API RP 1107
+and API RP 1111 or their recognised equivalent standards.
+(l) the repaired section of the pipeline shall be pressure-tested at the
+same expected operating conditions relating to a new pipeline;
+(m) the riser installation or an offshore pipeline connected to a platform
+shall be visually inspected every year for physical damage or
+corrosion in and above the splash zone;
+(n) the record of an inspection under regulation 26(m) shall be kept on
+location for verification, whenever the need arises.
+Gas pipelines
+27. (1) The operation and maintenance of the gas pipeline, shall be as specified
+in regulation 21 of these Regulations and the associated corrosion system, shall
+be in accordance with the provisions of the latest edition of NACE Standard
+SP0169 or equivalent standards.
+(2) A pipeline that is not put into use after –
+(a) six months of its construction, shall be filled with inert gas or nitrogen;
+(b) one year of its construction, shall be pressure-tested and certified by
+the Authority before it is put into use.
+(3) The gas pipeline system shall be well purged with water, air or inert gas before
+any repair is undertaken and the environment of the repair site shall be monitored
+constantly with a gas detection device to ensure adequate safety.
+Cathodic protection and corrosion control
+Design of cathodic protection
+28. The design for the cathodic protection from external and internal corrosion of
+a ferrous pipeline and its components shall be in accordance with the
+specifications and procedures prescribed in the latest edition of NACE Standard
+SP0169 or equivalent standards.
+Maintenance of the cathodic protection system
+29. (1) The cathodic protection system shall be–
+(a) maintained in a serviceable condition; and
+25
+(b) electrically tested at least once in two years.
+(2) Where a test under regulation 29(1)(b) reveals a weakness in the cathodic
+protection system, appropriate measures shall be taken and the report of such
+test and measures shall be sent to the Authority within 48 hours.
+(3) All sources of impressed current such as rectifiers and other associated devices
+in the cathodic protection system, shall be inspected and tested every four
+months to ensure their proper functioning.
+Cathodic protection system
+30. (1) The cathodic protection system shall be provided by a galvanic anode or
+an impressed current anode system which shall –
+(a) be installed in such a way that it mitigates corrosion; and
+(b) contain a method of determining the degree of cathodic protection
+achieved on the pipeline.
+(2) The criteria for selecting the appropriate protection system shall be as listed in
+paragraph 7.5 of section 7 of the latest edition of NACE Standard SP 0169.
+(3) A cathodic protection system shall be –
+(a) installed not later than one year after the laying of the pipeline and
+in such a way that the pipe coatings at the point of installation are
+kept intact;
+(b) electrically isolated at all inter-connections to other pipeline systems
+or structures except where the two structures are mutually protected
+by the same system;
+(c) protected against damage by atmospheric electrical discharges,
+underground cables and power-lines.
+(4) Except for underwater pipelines, sufficient test leads shall be installed at test
+stations of buried pipelines for the periodic checks of the effectiveness of the
+cathodic protection system which shall be carried out by electrical
+measurements.
+(5) A minimum distance of three metres shall be maintained between the electric
+transmission tower footings, ground cables and earthings, power-lines and the
+pipeline being protected.
+26
+(6) For the purposes of subparagraph (4) of this paragraph, "test stations" includes
+all pipe casing installations, insulating joints, crossing and main manifold junctions.
+External corrosion control
+31. The requirements for the application of coating to the pipeline and its
+cathodic protection for the control of external corrosion of a buried or submerged
+pipeline are as follows:
+(a) the coating shall –
+(i) be applied in such a way that it will mitigate corrosion and
+effectively resist under-film migration;
+(ii) be ductile and strong enough to resist cracking and damage
+during handling and under soil stress;
+(iii) be compatible with any supplemental cathodic protection;
+(iv) if it is on insulating type material, have low moisture absorption;
+(v) be applied in such a way that no irregularities protrude through
+it and no holiday gaps exist anywhere on the pipeline.
+(b) the points of connection of any attachment to the pipeline shall be
+sealed with the coating.
+Internal corrosion control
+32. (1) The requirements for the corrosion control of a pipeline are as follows:
+(a) no corrosive material shall be transported in a pipeline unless
+appropriate measures have been taken to mitigate the corrosive
+effect of the material on the internal coating of the pipeline;
+(b) internal corrosion shall be prevented by –
+(i) frequent pigging, inhibiting, or scraping; or
+(ii) the application of internal coating on the pipeline before it is
+laid.
+(2) Whichever method is used under regulation 32(1)(b), appropriate precaution
+shall be in the case of:
+27
+(a) inhibition of the pipeline, sufficient coupon holders shall be used; and
+(b) application of internal coating, the established industry standards of
+internal coating material shall be complied with.
+Monitoring of internal corrosion
+33. (1) Internal corrosion in a pipeline shall be monitored by running an intelligent
+pig or other internal survey instrument through the pipeline at least once in five
+years.
+(2) A report of a monitoring survey carried out under regulation 28(1) shall be sent
+to the Authority.
+Procedure for upgrading or downgrading pipeline
+34. (1) A licensee who desires to upgrade or downgrade the maximum operating
+pressure of a pipeline shall make an application to the Authority stating the
+following:
+(a) the reason(s) for the desire to upgrade or downgrade the pressure;
+(b) the leak history of the pipeline to be upgraded or downgraded;
+(c) the modification required to be made to the pipeline system to
+render it qualified for upgrading or downgrading in accordance with
+the specifications contained in ANSI/ASME 31.8;
+(d) the test that the licensee intends to carry out on the pipeline system
+in accordance with regulation 12 of these Regulations in which the
+upgraded or downgraded maximum operating pressure shall now
+be the new parameter to use for the tests;
+(e) such other information as the Authority may deem necessary to
+enable it to take a decision on the application.
+(2) The Authority may grant approval for the upgrading or downgrading of the
+pipeline and its operation at the upgraded or downgraded operating pressure if
+the Authority is satisfied with the information supplied to it under regulation 34(1).
+Change in service of the pipeline
+28
+35. (1) A licensee shall make an application to the Authority where it desires to
+change the nature of the fluid transmitted by the pipeline from:
+(a) liquid petroleum to gas; or
+(b) sweet gas to corrosive gas or
+(c) hydrocarbon to water
+(d) the approved usage to any other as the case maybe.
+(2) A licensee who makes an application under regulation 35(1) shall state –
+(a) the reason(s) for desiring the change;
+(b) the leak history of the pipeline concerned;
+(c) the modification required to the pipeline system to render it capable
+of performing the new service;
+(d) such other information as the Authority may deem necessary to
+enable it to undertake a realistic assessment of the application for
+the purpose of approval.
+(3) The Authority may grant approval for the change in service of the pipeline if
+satisfied with the information supplied to it under regulation 35(2).
+Discontinuation, abandonment and resumption of operation of pipeline system
+Discontinuation
+36. (1) A licensee who desires to discontinue the operation of the pipeline system
+or its ancillary facilities shall apply to the Authority giving at least three (3) months'
+written notice of his intention to do so, as prescribed by the Authority.
+(2) An application made under regulation 31(1) shall be accompanied with –
+(a) the reason(s) for the discontinuation of the pipeline system or its
+ancillary facilities;
+(b) two copies of the plan of the entire pipeline or part thereof in which
+the operation is to be discontinued shown in green colour;
+29
+(c) the method proposed to be used for the discontinuation of
+operations.
+(3) The Authority may, if satisfied with an application made under regulation 36(1),
+grant a discontinuation approval upon such conditions as it may determine.
+(4) On the grant of an approval made under regulation 36(3) and subjected to
+any condition attached to the approval, the pipeline shall be –
+(a) disconnected from all other facilities connected to it, including other
+pipelines, metering stations, ancillary facilities and appurtenances;
+(b) purged of petroleum liquid or gas by using water, and in the case of
+offshore pipelines, seawater, or inert material and capped at both
+ends with moisture resistant materials.
+Resumption of operation of discontinued pipeline
+37. (1) A licensee who desires to resume operations in an abandoned or a
+discontinued pipeline shall apply to the Authority for approval.
+(2) An application made under regulation 37(1) shall be accompanied with the:
+(a) reason(s) for the resumption of operations; and
+(b) proposed method to be used in reactivating the pipeline.
+(3) The Authority may, if satisfied with an application made under regulation 37(1),
+approve the reactivation of the pipeline under such conditions as it may
+determine.
+(4) A pipeline reactivated under regulation 37(3) shall be tested as a new pipeline
+under the proposed operating conditions of the pipeline.
+Decommissioning of pipeline
+38. Where a pipeline is to be completely abandoned, such pipeline shall be
+decommissioned pursuant to the procedures under the decommissioning and
+abandonment regulations.
+30
+Revocation
+39. In addition to such other conditions as may result in the revocation of a
+pipeline licence pursuant to section 120 of the Act, the Authority may revoke a
+pipeline licence if no construction work has started within two years after the
+granting of the licence.
+Fees
+40. The following fees shall apply:
+TRANSPORTION AND DISTRIBUTION
+Processing fee Application fee
+Annual Pipeline Rental
+1 USD 10 per km
+Fees
+Pipeline Route Survey
+2 USD 50 per km
+(PRS)
+3 Licence to Establish (LTE) USD 10,000 USD 500
+4 Licence to Construct (LTC) USD 1000
+5 Pipeline Licence (PLL) USD 500 per km USD 500
+6 Revalidation Of PTS/LTE USD 10,000
+7 PLL Restriction Order USD 10,000 USD 2,000
+8 Change Of Service USD 2,000
+Upgrading and
+9 Downgrading of a USD 2,000
+Pipeline
+Approval To Pre-
+10 Commission and USD 2,000
+Commission
+Please refer to
+11 Decommissioning Fee Decommissioning and
+Abandonment Regulations
+Licence To Operate (LTO)
+12 USD 10,000 per annum USD 500
+Fees (Per Annum)
+Offences and Penalties
+31
+41. (1) Pursuant to section 229 of the Act, any person who commits an offence
+under section 228 or 230 of the Act in relation to the matter under these
+regulations or any provisions of these regulations shall be liable to a penalty not
+less than USD $4,000,000 or its naira equivalent at the prevailing CBN exchange
+rate.
+(2) In addition to regulation 41(1) above, the Authority may require any person
+who commits an offence under these regulations to have the pipeline in respect
+of which the offence was committed and any ancillary installation removed, and
+the equipment seized and disposed of in a manner as determined by the
+Authority.
+(3) A person who is required by the Authority under regulation 41(2) to have a
+pipeline or any ancillary installation removed shall make good any damage done
+to any land by such removal.
+(4) The Authority shall where a party who is required to remove a pipeline or any
+ancillary installations under this paragraph fails to comply, have the power to
+carry out the removal on its own authority directly or through an agent appointed
+by it. The cost of such removal shall be paid from the proceeds realised from the
+sale or disposal of the removed pipes or equipment and the balance if any shall
+be forfeited by the Authority.
+Definitions
+42. In addition to the definitions contained in the Petroleum Industry Act, 2021 the
+following definitions shall apply to these Petroleum Pipeline Regulations.
+“Act” means Petroleum Industry Act, 2021.
+“ANSI”, means American National Standards Institute
+“ASME”, means American Society of Mechanical Engineers
+“ASTM”, means American Society for Testing and Materials
+“API”, means American Petroleum Institute
+“NACE”, means The National Association of Corrosion Engineers
+“PIPELINE LICENCE” means any licence for pipelines under the purview of the
+Authority for conveying petroleum liquids, gas and its derivatives, transportation
+pipeline licence, distribution pipeline licence, transmission pipeline licence
+32
+''pipeline" means all parts of any tubular infrastructure through which petroleum is
+conveyed, including pipes, valves, pumping and compressor stations and other
+equipment appurtenant to pipes
+Short title
+43. These Regulations may be cited as the Petroleum Pipeline Regulations, 2022
+and are regulations under section 33 of the Petroleum Industry Act, 2021.
+33
